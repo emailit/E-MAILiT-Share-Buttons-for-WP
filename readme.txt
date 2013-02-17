@@ -1,4 +1,4 @@
-==== E-MAILiT ====
+==== E-MAILiT: Share Button that generates income for websites and blogs ====
 Contributors: Spyros Kallonis, Nikitas Georgopoulos
 Tags: bookmark, bookmarking, del.icio.us, Digg, email, e-mail, Facebook, google bookmarks, myspace, network, NewsVine, pinterest, Reddit, share, share this, sharing, social, socialize, stumbleupon, twitter, widget, windows live
 
