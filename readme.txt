@@ -7,14 +7,12 @@ Tested up to: 3.5.1
 Stable tag: 1.0
 License: GPLv2 or later
 
-E-MAILiT WordPress plugin is generating income from social behavior and easily attracts Advertisers who are looking to target your Sharers.
+E-MAILiT attracts Advertisers who are looking to target your Sharers.
 
 == Description ==
-E-MAILiT WordPress plugin is an alternative method of online advertising, all-in-one! Monetizes the sharing of your content by delivering distinctive and effective display ads, helps you increase your social traffic, fans, followers and provides you with detailed engagement analytics. Target your digital audience and you have the full control over what is being advertised. Generate income from social behavior and easily attract Advertisers who are looking to target your Sharers.
+E-MAILiT WordPress plugin is an ALL-IN-ONE sharing platform. It converts social behavior into revenue. It is a complete social media marketing tool. The website visitors can share web content, follow the publisher of the website, increase social traffic (fans and followers) and even become an advertiser or client via the promotion area of the widget menu. This is how this sharing button can be an alternative method of online advertising, using the power of social media, transforming E-MAILiT into a profitable tool for publishers, advertisers and media agencies. All the above provide a strong motive for publishers to use it inside their websites, generating income from social behavior and easily attracting advertisers who are looking to target publisher's sharers and the digital audience, having full control over what is being advertised.
 
 Optionally, register for a free E-MAILiT.com account to see how E-MAILiT can analyze Social Behaviour (tracks your sharers, fans and followers), overall button activity, shares by service, follows by channel, Campaign Analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
-
-<a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
 
 == Installation ==
 
@@ -49,10 +47,17 @@ If you need technical help not found on the site email us at support@e-mailit.co
 
 
 == Screenshots ==
-1. The settings interface
-2. Button preview in content
-3. Button preview in sidebar
-4. Floating Bar button preview (registered version)
+1. Screenshot of the share button widget when a user clicks on it.
+2. Screenshot of the WordPress share menu.
+3. Screenshot of the Email Form share menu.
+4. Screenshot of the Advertisement.
+5. Screenshot of the Follow menu.
+6. Screenshot of the Analytics (1).
+7. Screenshot of the Analytics (2).
+8. Screenshot of the settings interface
+9. Screenshot of button preview in content
+10. Screenshot of button preview in sidebar
+11. Screenshot of floating Bar button preview (registered version)
 
 == Changelog ==
 = 1.0 = 
