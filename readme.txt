@@ -14,19 +14,19 @@ E-MAILiT WordPress plugin is an ALL-IN-ONE sharing platform. It converts social 
 
 Optionally, register for a free E-MAILiT.com account to see how E-MAILiT can analyze Social Behaviour (tracks your sharers, fans and followers), overall button activity, shares by service, follows by channel, Campaign Analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
-* Register/Sign in via E-MAILiT or Facebook account
-* Analyze (with Google Analytics) and measure social behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics
-* Compatible with the most Display Networks worldwide, such as Google and Yahoo and with all types of ads - text, static, flash and animated image, rich media/interactive and video ads
-* Serve unlimited advertising campaigns, at the same time, applying to the target location preferences of the advertiser
-* If you don't have available server to host your html advertisement unit file, contact us to provide you the required space for the ad
-* Optimized with asynchronous script loading
-* No use any type of third party advertising tracking cookies
-* Complete domain ownership protection
-* Content distribution to 60 social networks
-* Make easy for your visitors to connect with you, through social profiles, feeds and other social media channels on the internet, saving space from your website canvas (available sources: Facebook, Twitter, LinkedIn, Google+, Flickr, RSS)
-* Localized in 60 languages (Greek, English, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bulgarian, Catalan; Valencian, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Estonian, Finnish, French, Galician, Georgian, German, Gujarati, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Latin, Latvian, Lithuanian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish)
-* Easily customizable for beginners or advanced users
-* Many more publisher, advertiser and user features!
+*   Register/Sign in via E-MAILiT or Facebook account
+*   Analyze (with Google Analytics) and measure social behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics
+*   Compatible with the most Display Networks worldwide, such as Google and Yahoo and with all types of ads - text, static, flash and animated image, rich media/interactive and video ads
+*   Serve unlimited advertising campaigns, at the same time, applying to the target location preferences of the advertiser
+*   If you don't have available server to host your html advertisement unit file, contact us to provide you the required space for the ad
+*   Optimized with asynchronous script loading
+*   No use any type of third party advertising tracking cookies
+*   Complete domain ownership protection
+*   Content distribution to 60 social networks
+*   Make easy for your visitors to connect with you, through social profiles, feeds and other social media channels on the internet, saving space from your website canvas (available sources: Facebook, Twitter, LinkedIn, Google+, Flickr, RSS)
+*   Localized in 60 languages (Greek, English, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bulgarian, Catalan; Valencian, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Estonian, Finnish, French, Galician, Georgian, German, Gujarati, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Latin, Latvian, Lithuanian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish)
+*   Easily customizable for beginners or advanced users
+*   Many more publisher, advertiser and user features!
 
 == Installation ==
 
