@@ -14,6 +14,8 @@ E-MAILiT WordPress plugin is an ALL-IN-ONE sharing platform. It converts social 
 
 Optionally, register for a free E-MAILiT.com account to see how E-MAILiT can analyze Social Behaviour (tracks your sharers, fans and followers), overall button activity, shares by service, follows by channel, Campaign Analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
+<a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
+
 *   Register/Sign in via E-MAILiT or Facebook account
 *   Analyze (with Google Analytics) and measure social behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics
 *   Compatible with the most Display Networks worldwide, such as Google and Yahoo and with all types of ads - text, static, flash and animated image, rich media/interactive and video ads
