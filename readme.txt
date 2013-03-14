@@ -4,7 +4,7 @@ Tags: bookmark, bookmarking, del.icio.us, Digg, email, e-mail, Facebook, google 
 
 Requires at least: 2.9
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 
 E-MAILiT attracts Advertisers who are looking to target your Sharers.
@@ -78,3 +78,5 @@ If you need technical help not found on the site email us at support@e-mailit.co
 == Changelog ==
 = 1.0 = 
 * Initial release
+= 1.1 = 
+* Add toolbox options for Facebook, Tweeter, Google+, Pinterest and Linkedin buttons

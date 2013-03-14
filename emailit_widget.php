@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com/about.html
   Description: Social Media Share Button that Creates Income for Websites and Blogs (respects your privacy, without using cookies). E-MAILiT is automatically tracked in 60 languages, giving the opportunity to your visitors to share and distribute your content in over of 60 social networks, such as on Pinterest, Post on Wordpress or sharing via Email to your friends.
   Author: E-MAILiT
-  Version: 1.0
+  Version: 1.1
   Author URI: http://www.e-mailit.com
  */
 
@@ -77,7 +77,7 @@ function emailit_settings_page() {
                 $emailit_options[plugin_type] = "content";
             ?>
             <h2>Plugin options</h2>
-            <strong>Use E-MAILiT sharing button</strong>
+            <strong>Use E-MAILiT Share button</strong>
             <br/>
             in content <input onclick="hideshow('content');" type="radio" name="emailit_options[plugin_type]" value="content" <?php echo ($emailit_options[plugin_type] == 'content' ? 'checked="checked"' : ''); ?>/>
             &nbsp; 
@@ -86,7 +86,7 @@ function emailit_settings_page() {
             <div id="sidebar_options" <?php if ($emailit_options[plugin_type] == "content") echo 'style="display:none"' ?>><br/>You can add your sidebar widget in Appearance > Widgets menu.</div>
             <table id="content_options" <?php if ($emailit_options[plugin_type] == "sidebar") echo 'style="display:none"' ?>>
                 <tbody>
-                    <tr><td><h2>In content Options</h2></td></tr>
+                    <tr><td><h3>In Content options</h3></td></tr>
                     <tr><td><strong>Your Button ID:</strong></td>
                         <td><input id="emailit_button_id"  type="text" name="emailit_options[button_id]" value="<?php echo $emailit_options[button_id]; ?>"/></td></tr>
 
@@ -98,7 +98,23 @@ function emailit_settings_page() {
                                 <option value="bottom" <?php echo ($emailit_options[button_position] == 'bottom' ? 'selected="selected"' : ''); ?>>Bottom</option>
                                 <option value="top" <?php echo ($emailit_options[button_position] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>
                             </select></td></tr>
-                    <tr><td><h2>Display E-MAILiT button on</h2></td></tr>
+					<tr><td><h3>E-MAILiT 3rd parties Horizontal Share Counter Toolbox options</h3></td></tr>
+                    <tr><td style="height:20px;background: url(<?php echo plugins_url('images/fb_btn.png', __FILE__)?>) no-repeat right;"><strong>Add Facebook:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_fb_button]" value="true" <?php echo ($emailit_options[display_fb_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td style="height:20px;background: url(<?php echo plugins_url('images/tweeter_btn.png', __FILE__)?>) no-repeat right;"><strong>Add Twitter:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_tweeter_button]" value="true" <?php echo ($emailit_options[display_tweeter_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td style="height:20px;background: url(<?php echo plugins_url('images/g_plus_btn.png', __FILE__)?>) no-repeat right;"><strong>Add Google+:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_gplus_button]" value="true" <?php echo ($emailit_options[display_gplus_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td style="height:20px;background: url(<?php echo plugins_url('images/pinterest_btn.png', __FILE__)?>) no-repeat right;"><strong>Add Pinterest:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_pinterest_button]" value="true" <?php echo ($emailit_options[display_pinterest_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td style="height:20px;background: url(<?php echo plugins_url('images/linkedin_btn.png', __FILE__)?>) no-repeat right;"><strong>Add LinkedIn:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_linkedin_button]" value="true" <?php echo ($emailit_options[display_linkedin_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>							
+							<tr><td><h3>Show E-MAILiT Share Button on</h3></td></tr>
                     <tr><td>   
                             <strong>homepage:</strong></td>
                         <td><input type="checkbox" name="emailit_options[emailit_showonhome]" value="true" <?php echo ($emailit_options[emailit_showonhome] == true ? 'checked="checked"' : ''); ?>/></td></tr>
@@ -162,11 +178,23 @@ function emailit_display_button($content) {
     $button_id = $emailit_options["button_id"];
 
     $outputValue = "<!-- E-MAILiT Sharing Button BEGIN -->" . PHP_EOL;
+	$outputValue .= "<div class=\"e-mailit_toolbox\">" . PHP_EOL;
+	if ($emailit_options["display_fb_button"] == 'true')
+        $outputValue .= "<span class=\"e-mailit_facebook_btn\"></span>";
+	if ($emailit_options["display_tweeter_button"] == 'true')
+        $outputValue .= "<span class=\"e-mailit_twitter_btn\"></span>";
+	if ($emailit_options["display_gplus_button"] == 'true')
+        $outputValue .= "<span class=\"e-mailit_google_btn\"></span>";
+	if ($emailit_options["display_pinterest_button"] == 'true')
+        $outputValue .= "<span class=\"e-mailit_pinterest_btn\"></span>";
+	if ($emailit_options["display_linkedin_button"] == 'true')
+        $outputValue .= "<span class=\"e-mailit_linkedin_btn\"></span>";		
 
+		
     if ($button_id == "" || $button_id == "Your Button ID")
-        $outputValue .= " <div class='e_mailit_button'>";
+        $outputValue .= " <div class='e_mailit_button'>" . PHP_EOL;
     else
-        $outputValue .= " <div class='e_mailit_button' id='$button_id'>";
+        $outputValue .= " <div class='e_mailit_button' id='$button_id'>" . PHP_EOL;
 
 
     //Creates Emailit script
@@ -179,7 +207,7 @@ function emailit_display_button($content) {
                         b.src=('https:'==document.location.protocol?'https://www':'http://www')+'.e-mailit.com/widget/button/js/button.js';	
                         var c=document.getElementsByTagName('head')[0];	c.appendChild(b) })()";
     $outputValue .= "</script>" . PHP_EOL;
-    $outputValue .= "</div>";
+    $outputValue .= "</div></div>";
     $outputValue .= "<!-- E-MAILiT Sharing Button END -->" . PHP_EOL;
 
     if ($emailit_options["button_position"] == 'top')
