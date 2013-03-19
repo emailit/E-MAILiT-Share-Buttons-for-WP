@@ -1,4 +1,4 @@
-==== E-MAILiT: Share Button that generates income for websites and blogs ====
+==== E-MAILiT: Share buttons, browser extension, analytics, media solutions ====
 Contributors: Spyros Kallonis, Nikitas Georgopoulos
 Tags: bookmark, bookmarking, del.icio.us, Digg, email, e-mail, Facebook, google bookmarks, myspace, network, NewsVine, pinterest, Reddit, share, share this, sharing, social, socialize, stumbleupon, twitter, widget, windows live
 
@@ -7,12 +7,23 @@ Tested up to: 3.5.1
 Stable tag: 1.1
 License: GPLv2 or later
 
-E-MAILiT attracts Advertisers who are looking to target your Sharers.
+Perfect for Publishers, Brands & Consumers.
 
 == Description ==
-E-MAILiT WordPress plugin is an ALL-IN-ONE sharing platform. It converts social behavior into revenue. It is a complete social media marketing tool. The website visitors can share web content, follow the publisher of the website, increase social traffic (fans and followers) and even become an advertiser or client via the promotion area of the widget menu. This is how this sharing button can be an alternative method of online advertising, using the power of social media, transforming E-MAILiT into a profitable tool for publishers, advertisers and media agencies. All the above provide a strong motive for publishers to use it inside their websites, generating income from social behavior and easily attracting advertisers who are looking to target publisher's sharers and the digital audience, having full control over what is being advertised.
+E-MAILiT is an alternative method of online advertising, all-in-one! Generate income from social behavior and easily attract Advertisers who are looking to target your Sharers. Understand how sharing brings you traffic and puts you in front of a targeted audience. We help Publishers to increase engagement, turn their visitors into Sharers/Followers/Advertisers and generate income from sites' social behavior via integrated online advertising.
 
-Optionally, register for a free E-MAILiT.com account to see how E-MAILiT can analyze Social Behaviour (tracks your sharers, fans and followers), overall button activity, shares by service, follows by channel, Campaign Analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
+E-MAILiT is a complete social media marketing tool. The website visitors can share a web content, follow the publisher of a website, increase social traffic (fans and followers) and even become an advertiser or client via the promotion area of the widget menu. Now you have a strong motive to use E-MAILiT inside your website, generating income from social behavior and easily attracting advertisers who are looking to target your sharers.
+
+Target your digital audience and let sharing work for the display campaigns. Discover the innovation and how a sharing button can work for you and convince you that a share is the most valuable insight in the web. It will show you the alternative method of online advertising and how the social sharing brings traffic, targeted audience and monetization. Compatible with the most Display Networks worldwide, such as Google and Yahoo and with all types of ads - text, static, flash and animated image, rich media/interactive and video ads.
+
+Here, we provide you the standard version of our sharing button, in custom position.
+
+Want to customize the button style, the button text display, define the position inside the page (custom position or floating bar), the menu display appearance, arrange and prioritize sharing services and follow channels, select the 10 default sharing services in the frontline menu, show/hide the advertisement display, create your ad campaign, sharing analytics, campaign data metrics and more?
+
+Create an account (http://www.e-mailit.com/widget/register).
+
+Open demo (http://www.e-mailit.com/demos/demo1.html)
+
 
 <a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
 
@@ -26,7 +37,7 @@ Optionally, register for a free E-MAILiT.com account to see how E-MAILiT can ana
 *   Complete domain ownership protection
 *   Content distribution to 60 social networks
 *   Make easy for your visitors to connect with you, through social profiles, feeds and other social media channels on the internet, saving space from your website canvas (available sources: Facebook, Twitter, LinkedIn, Google+, Flickr, RSS)
-*   Localized in 60 languages (Greek, English, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bulgarian, Catalan; Valencian, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Estonian, Finnish, French, Galician, Georgian, German, Gujarati, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Latin, Latvian, Lithuanian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish)
+*   Localized in 75 languages
 *   Easily customizable for beginners or advanced users
 *   Many more publisher, advertiser and user features!
 
@@ -63,17 +74,22 @@ If you need technical help not found on the site email us at support@e-mailit.co
 
 
 == Screenshots ==
-01. Screenshot of the share button widget when a user clicks on it.
-02. Screenshot of the WordPress share menu.
-03. Screenshot of the Email Form share menu.
-04. Screenshot of the Advertisement.
-05. Screenshot of the Follow menu.
-06. Screenshot of the Analytics (1).
-07. Screenshot of the Analytics (2).
+01. Screenshot of the share button widget when a user clicks on it
+02. Screenshot of the WordPress share menu
+03. Screenshot of the Email Form share menu
+04. Screenshot of the Advertisement
+05. Screenshot of the Follow menu
+06. Screenshot of the Analytics (1)
+07. Screenshot of the Analytics (2)
 08. Screenshot of the settings interface
 09. Screenshot of button preview in content
 10. Screenshot of button preview in sidebar
 11. Screenshot of floating Bar button preview (registered version)
+12. Screenshot of floating Bar button preview (registered version)
+13. Screenshot of your button customization (1) 
+14. Screenshot of your button customization (2) 
+15. Screenshot of your button customization (3) 
+16. Screenshot of your button customization (4) 
 
 == Changelog ==
 = 1.0 = 
