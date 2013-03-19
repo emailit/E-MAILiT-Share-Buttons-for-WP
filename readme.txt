@@ -74,19 +74,19 @@ If you need technical help not found on the site email us at support@e-mailit.co
 
 
 == Screenshots ==
-02. Screenshot of the WordPress share menu 
-03. Screenshot of the Email Form share menu 
-04. Screenshot of the share button widget when a user clicks on it 
-06. Screenshot of the Analytics (1) 
-07. Screenshot of the Analytics (2) 
-08. Screenshot of the settings interface 
-09. Screenshot of button preview in content 
-10. Screenshot of button preview in sidebar 
-12. Screenshot of floating Bar button preview (registered version) 
-13. Screenshot of your button customization (1) 
-14. Screenshot of your button customization (2) 
-15. Screenshot of your button customization (3) 
-16. Screenshot of your button customization (4) 
+01. Screenshot of the WordPress share menu 
+02. Screenshot of the Email Form share menu 
+03. Screenshot of the share button widget when a user clicks on it 
+04. Screenshot of the Analytics (1) 
+05. Screenshot of the Analytics (2) 
+06. Screenshot of the settings interface 
+07. Screenshot of button preview in content 
+08. Screenshot of button preview in sidebar 
+09. Screenshot of floating Bar button preview (registered version) 
+10. Screenshot of your button customization (1) 
+11. Screenshot of your button customization (2) 
+12. Screenshot of your button customization (3) 
+13. Screenshot of your button customization (4) 
 
 == Changelog ==
 = 1.0 = 
