@@ -92,4 +92,4 @@ If you need technical help not found on the site email us at support@e-mailit.co
 = 1.0 = 
 * Initial release
 = 1.1 = 
-* Add toolbox options for Facebook, Tweeter, Google+, Pinterest and Linkedin buttons
+* Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons
