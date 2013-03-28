@@ -21,13 +21,21 @@
   Plugin URI: http://www.e-mailit.com
   Description: Social Media Share Button that Creates Income for Websites and Blogs (respects your privacy, without using cookies). E-MAILiT is automatically tracked in 75 languages, giving the opportunity to your visitors to share and distribute your content in over of 60 social networks, such as on Pinterest, Post on Wordpress or sharing via Email to your friends.
   Author: E-MAILiT
-  Version: 1.1
+  Version: 1.2
   Author URI: http://blog.e-mailit.com
  */
 
 add_action('admin_init', 'emailit_admin_init');
 add_filter('admin_menu', 'emailit_admin_menu');
 add_action('widgets_init', 'emailit_widget_init');
+add_action('wp_head', 'add_domain_verification_meta');
+
+function add_domain_verification_meta() {
+    $emailit_options = get_option('emailit_options');
+    if (isset($emailit_options[domain_verification]) && $emailit_options[domain_verification] != ""){    
+        echo '<meta name="e-mailit-site-verification" content="'.$emailit_options[domain_verification].'" />'."\n";
+    }
+}
 
 function emailit_admin_init() {
     register_setting('emailit_options', 'emailit_options');
@@ -77,6 +85,7 @@ function emailit_settings_page() {
                 $emailit_options[plugin_type] = "content";
             ?>
             <h2>Plugin options</h2>
+            <strong>Domain Verification Publisher Key (E-MAILiT_...):</strong> <input id="emailit_domain_verification"  type="text" name="emailit_options[domain_verification]" value="<?php echo $emailit_options[domain_verification]; ?>" size="50"/><br/><br/>
             <strong>Use E-MAILiT Share button</strong>
             <br/>
             in content <input onclick="hideshow('content');" type="radio" name="emailit_options[plugin_type]" value="content" <?php echo ($emailit_options[plugin_type] == 'content' ? 'checked="checked"' : ''); ?>/>

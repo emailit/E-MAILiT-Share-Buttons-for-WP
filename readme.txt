@@ -4,7 +4,7 @@ Tags: bookmark, bookmarking, del.icio.us, Digg, email, e-mail, Facebook, google 
 
 Requires at least: 2.9
 Tested up to: 3.5.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 
 Perfect for Publishers, Brands & Consumers.
@@ -93,3 +93,5 @@ If you need technical help not found on the site email us at support@e-mailit.co
 * Initial release
 = 1.1 = 
 * Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons
+= 1.2 = 
+* Add Domain Verification Publisher Key field in settings
