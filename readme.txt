@@ -10,6 +10,11 @@ License: GPLv2 or later
 Perfect for Publishers, Brands & Consumers.
 
 == Description ==
+The easy and simple to activate E-MAILiT WordPress plugin allows publishers, webmasters, web designers and developers to show social sharing and bookmarking buttons on their site, in any position, with any UI style. E-MAILiT also comes with its own sharing analytics service for tracking sharing actions amongst site users. Here are some key features:
+· Automatically add buttons to blog pages and posts,
+· Customize button styles,
+· Select which sharing options to show/hide, and many more...
+
 E-MAILiT is an alternative method of online advertising, all-in-one! Generate income from social behavior and easily attract Advertisers who are looking to target your Sharers. Understand how sharing brings you traffic and puts you in front of a targeted audience. We help Publishers to increase engagement, turn their visitors into Sharers/Followers/Advertisers and generate income from sites' social behavior via integrated online advertising.
 
 E-MAILiT is a complete social media marketing tool. The website visitors can share a web content, follow the publisher of a website, increase social traffic (fans and followers) and even become an advertiser or client via the promotion area of the widget menu. Now you have a strong motive to use E-MAILiT inside your website, generating income from social behavior and easily attracting advertisers who are looking to target your sharers.
@@ -76,14 +81,14 @@ If you need technical help not found on the site email us at support@e-mailit.co
 == Screenshots ==
 01. Screenshot of the WordPress share menu 
 02. Screenshot of the Email Form share menu 
-03. Screenshot of the share button widget when a user clicks on it 
-04. Screenshot of the Analytics (1) 
-05. Screenshot of the Analytics (2) 
-06. Screenshot of the settings interface 
+03. Clicking the E-MAILiT share button will pop up more sharing options
+04. An analytics module comes with E-MAILiT for tracking user shares and more (1) 
+05. An analytics module comes with E-MAILiT for tracking user shares and more (2) 
+06. The share widget's options can all be edited from the WP backend panel
 07. Screenshot of button preview in content 
 08. Screenshot of button preview in sidebar 
-09. Screenshot of floating Bar button preview (registered version) 
-10. Screenshot of your button customization (1) 
+09. E-MAILiT buttons can be displayed in various ways 
+10. The style and look of E-MAILiT buttons can be customized from the backend 
 11. Screenshot of your button customization (2) 
 12. Screenshot of your button customization (3) 
 13. Screenshot of your button customization (4) 
