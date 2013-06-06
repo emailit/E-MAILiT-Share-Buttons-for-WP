@@ -10,41 +10,23 @@ License: GPLv2 or later
 Perfect for Publishers, Brands & Consumers.
 
 == Description ==
-The easy and simple to activate E-MAILiT WordPress plugin allows publishers, webmasters, web designers and developers to show social sharing and bookmarking buttons on their site, in any position, with any UI style. E-MAILiT also comes with its own sharing analytics service for tracking sharing actions amongst site users. Here are some key features:
-· Automatically add buttons to blog pages and posts,
-· Customize button styles,
-· Select which sharing options to show/hide, and many more...
+The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply.
 
-E-MAILiT is an alternative method of online advertising, all-in-one! Generate income from social behavior and easily attract Advertisers who are looking to target your Sharers. Understand how sharing brings you traffic and puts you in front of a targeted audience. We help Publishers to increase engagement, turn their visitors into Sharers/Followers/Advertisers and generate income from sites' social behavior via integrated online advertising.
+The easy and simple to activate E-MAILiT WordPress plugin allows publishers, webmasters, web designers and developers to show social sharing and bookmarking buttons on their site, in any position (content or screen), with any UI style. Easily customizable for beginners or advanced users. E-MAILiT also comes with its own sharing analytics service for tracking sharing actions amongst site users. Here are some key features: Automatically add buttons to blog pages and posts, Customize button styles, Select which sharing options to show/hide, and many more...
 
-E-MAILiT is a complete social media marketing tool. The website visitors can share a web content, follow the publisher of a website, increase social traffic (fans and followers) and even become an advertiser or client via the promotion area of the widget menu. Now you have a strong motive to use E-MAILiT inside your website, generating income from social behavior and easily attracting advertisers who are looking to target your sharers.
+E-MAILiT helps Publishers to increase engagement, turn their visitors into Sharers/Followers/Advertisers and generate income from sites’ social activity via integrated online advertising and in global basis, is the only social sharing tool which monetizes content. Creates at the same time of the visits, optimization of the social traffic and income, for the Publisher, through a mix of scalable and custom features. E-MAILiT, combines all the elements together and in one place, working as an extra non stop profit source for you.
 
-Target your digital audience and let sharing work for the display campaigns. Discover the innovation and how a sharing button can work for you and convince you that a share is the most valuable insight in the web. It will show you the alternative method of online advertising and how the social sharing brings traffic, targeted audience and monetization. Compatible with the most Display Networks worldwide, such as Google and Yahoo and with all types of ads - text, static, flash and animated image, rich media/interactive and video ads.
+This plugin has a dedicated website and blog! Check out http://www.e-mailit.com and http://blog.e-mailit.com
 
-Here, we provide you the standard version of our sharing button, in custom position.
+No hotlinking use any type of third party advertising tracking cookies, to slow downloading.
 
-Want to customize the button style, the button text display, define the position inside the page (custom position or floating bar), the menu display appearance, arrange and prioritize sharing services and follow channels, select the 10 default sharing services in the frontline menu, show/hide the advertisement display, create your ad campaign, sharing analytics, campaign data metrics and more?
+You can even create your own custom advertising campaigns from our sharing buttons, to make extra revenue from your website, if you wish!
 
-Create an account (http://www.e-mailit.com/widget/register).
+<a href="http://www.e-mailit.com/solutions.html">Open demos</a>
 
-Open demo (http://www.e-mailit.com/demos/demo1.html)
-
+<a href="http://www.e-mailit.com/widget/register">Create an account</a>
 
 <a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
-
-*   Register/Sign in via E-MAILiT or Facebook account
-*   Analyze (with Google Analytics) and measure social behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics
-*   Compatible with the most Display Networks worldwide, such as Google and Yahoo and with all types of ads - text, static, flash and animated image, rich media/interactive and video ads
-*   Serve unlimited advertising campaigns, at the same time, applying to the target location preferences of the advertiser
-*   If you don't have available server to host your html advertisement unit file, contact us to provide you the required space for the ad
-*   Optimized with asynchronous script loading
-*   No use any type of third party advertising tracking cookies
-*   Complete domain ownership protection
-*   Content distribution to 60 social networks
-*   Make easy for your visitors to connect with you, through social profiles, feeds and other social media channels on the internet, saving space from your website canvas (available sources: Facebook, Twitter, LinkedIn, Google+, Flickr, RSS)
-*   Localized in 75 languages
-*   Easily customizable for beginners or advanced users
-*   Many more publisher, advertiser and user features!
 
 == Installation ==
 
