@@ -1,4 +1,4 @@
-==== E-MAILiT: Share buttons, browser extension, analytics, media solutions ====
+==== Simple share buttons and analytics that work for you by E-MAILiT ====
 Contributors: Spyros Kallonis, Nikitas Georgopoulos
 Tags: bookmark, bookmarking, del.icio.us, Digg, email, e-mail, Facebook, google bookmarks, myspace, network, NewsVine, pinterest, Reddit, share, share this, sharing, social, socialize, stumbleupon, twitter, widget, windows live
 
@@ -7,7 +7,7 @@ Tested up to: 3.5.1
 Stable tag: 1.2
 License: GPLv2 or later
 
-Perfect for Publishers, Brands & Consumers.
+Help your visitors quickly & easily share your pages and content.
 
 == Description ==
 The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply.
@@ -24,7 +24,7 @@ You can even create your own custom advertising campaigns from our sharing butto
 
 <a href="http://www.e-mailit.com/solutions.html">Open demos</a>
 
-<a href="http://www.e-mailit.com/widget/register">Create an account</a>
+<a href="http://e-mailit.com/widget/php/fb/login_facebook.php">Connect with Facebook</a>
 
 <a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
 
