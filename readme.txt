@@ -18,7 +18,7 @@ E-MAILiT helps Publishers to increase engagement, turn their visitors into Share
 
 This plugin has a dedicated website and blog! Check out http://www.e-mailit.com and http://blog.e-mailit.com
 
-No hotlinking use any type of third party advertising tracking cookies, to slow downloading.
+No hotlinking use any type of third party advertising tracking cookies, to slow downloading and violate your precious privacy.
 
 You can even create your own custom advertising campaigns from our sharing buttons, to make extra revenue from your website, if you wish!
 
