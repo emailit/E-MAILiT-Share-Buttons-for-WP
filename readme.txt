@@ -71,9 +71,9 @@ If you need technical help not found on the site email us at support@e-mailit.co
 08. Screenshot of button preview in sidebar 
 09. E-MAILiT buttons can be displayed in various ways 
 10. The style and look of E-MAILiT buttons can be customized from the backend 
-11. Screenshot of your button customization (2) 
-12. Screenshot of your button customization (3) 
-13. Screenshot of your button customization (4) 
+11. Screenshot of your button customization (1) 
+12. Screenshot of your button customization (2) 
+13. Screenshot of your button customization (3) 
 
 == Changelog ==
 = 1.0 = 
