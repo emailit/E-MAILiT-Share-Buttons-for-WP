@@ -1,4 +1,4 @@
-==== Simple share buttons and analytics that work for you by E-MAILiT ====
+==== E-MAILiT Share Buttons: Sharing Made Simple ====
 Contributors: Spyros Kallonis, Nikitas Georgopoulos
 Tags: bookmark, bookmarking, del.icio.us, Digg, email, e-mail, Facebook, google bookmarks, myspace, network, NewsVine, pinterest, Reddit, share, share this, sharing, social, socialize, stumbleupon, twitter, widget, windows live
 
@@ -7,7 +7,7 @@ Tested up to: 3.5.1
 Stable tag: 1.2
 License: GPLv2 or later
 
-Help your visitors quickly & easily share your pages and content.
+Allow your visitors to quickly & easily share your pages and content.
 
 == Description ==
 The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply.
@@ -16,7 +16,7 @@ The easy and simple to activate E-MAILiT WordPress plugin allows publishers, web
 
 E-MAILiT helps Publishers to increase engagement, turn their visitors into Sharers/Followers/Advertisers and generate income from sites’ social activity via integrated online advertising and in global basis, is the only social sharing tool which monetizes content. Creates at the same time of the visits, optimization of the social traffic and income, for the Publisher, through a mix of scalable and custom features. E-MAILiT, combines all the elements together and in one place, working as an extra non stop profit source for you.
 
-This plugin has a dedicated website and blog! Check out http://www.e-mailit.com and http://blog.e-mailit.com
+Visit our website / http://www.e-mailit.com, Like our Facebook company page / http://www.facebook.com/emailitcom and check out our Blog / http://blog.e-mailit.com
 
 No hotlinking use any type of third party advertising tracking cookies, to slow downloading and violate your precious privacy.
 
