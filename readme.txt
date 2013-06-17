@@ -10,23 +10,19 @@ License: GPLv2 or later
 Allow your visitors to quickly & easily share your pages and content.
 
 == Description ==
-The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply.
+The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply, increasing social activity on your site, with excellent fast performance (asynchronous script loading, 93% on <a href="http://bit.ly/17RIC1E">Google Page Speed Insight</a> and more).
 
-The easy and simple to activate E-MAILiT WordPress plugin allows publishers, webmasters, web designers and developers to show social sharing and bookmarking buttons on their site, in any position (content or screen), with any UI style. Easily customizable for beginners or advanced users. E-MAILiT also comes with its own sharing analytics service for tracking sharing actions amongst site users. Here are some key features: Automatically add buttons to blog pages and posts, Customize button styles, Select which sharing options to show/hide, and many more...
+With access to 60 most popular social channels (including Facebook, Twitter, Like, Pinterest, Google+, Email, LinkedIn and more) and automatically tracked in 75 languages, the E-MAILiT WordPress plugin is a quick, safe (without using cookies, respects privacy) and easy sharing solution for your site or blog to keep your audience engaged in your promoted content and get more traffic back to your site. You can also customize your widget for seamless integration to your site, with any UI style and create your own advertising campaigns to make extra revenue from your website! You have the option to use small buttons in content, add share counters or hovering/floating bars, presenting on the Top Left - Top Right - Center Left - Center Right - Bottom Left - Bottom Right side of content, making it easier for your users to share. It's always in view, even when your users scroll up and down the page.
 
-E-MAILiT helps Publishers to increase engagement, turn their visitors into Sharers/Followers/Advertisers and generate income from sites’ social activity via integrated online advertising and in global basis, is the only social sharing tool which monetizes content. Creates at the same time of the visits, optimization of the social traffic and income, for the Publisher, through a mix of scalable and custom features. E-MAILiT, combines all the elements together and in one place, working as an extra non stop profit source for you.
+Own your social data and your metrics
+We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because stats belongs to you and you must have them all in one place.
+Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
-Visit our website / http://www.e-mailit.com, Like our Facebook company page / http://www.facebook.com/emailitcom and check out our Blog / http://blog.e-mailit.com
+<a href="http://e-mailit.com/widget/php/fb/login_facebook.php">Login/Register with Facebook</a>
 
-No hotlinking use any type of third party advertising tracking cookies, to slow downloading and violate your precious privacy.
+<a href="http://www.e-mailit.com/solutions.html">Open Demos</a> | <a href="http://www.e-mailit.com">E-MAILiT Website</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
 
-You can even create your own custom advertising campaigns from our sharing buttons, to make extra revenue from your website, if you wish!
-
-<a href="http://www.e-mailit.com/solutions.html">Open demos</a>
-
-<a href="http://e-mailit.com/widget/php/fb/login_facebook.php">Connect with Facebook</a>
-
-<a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
+<a href="http://www.facebook.com/emailitcom">Like us on Facebook</a> | <a href="https://twitter.com/emailit">Follow us on Twitter</a>
 
 == Installation ==
 
