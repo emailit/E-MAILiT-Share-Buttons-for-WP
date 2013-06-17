@@ -77,4 +77,4 @@ If you need technical help not found on the site email us at support@e-mailit.co
 = 1.1 = 
 * Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons
 = 1.2 = 
-* Add Domain Verification Publisher Key field in settings
+* Add Domain Verification Publisher Key field, in settings
