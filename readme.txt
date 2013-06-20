@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.5.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 
 Allow your visitors to quickly & easily share your pages and content.
@@ -19,7 +19,7 @@ With access to 60 most popular social channels (including Facebook, Twitter, Lik
 We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because stats belongs to you and you must have them all in one place.
 Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
-<a href="http://e-mailit.com/widget/php/fb/login_facebook.php">Login/Register with Facebook</a>
+<a href="http://e-mailit.com/widget/php/fb/login_facebook.php">Login/Register with Facebook (optional)</a>
 
 <a href="http://www.e-mailit.com/solutions.html">Open Demos</a> | <a href="http://www.e-mailit.com">E-MAILiT Website</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
 
@@ -34,8 +34,7 @@ Automatic installation through WordPress:
 3. Under Search type in E-MAILiT, then click Search Plugins.
 4. In the results page, click Install Now.
 5. Once installed, click Activate Plugin. You're done!
-6. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics?
-Go to the E-MAILiT website, http://www.e-mailit.com and Register to get a free account and Button ID.
+6. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with E-MAILiT http://www.e-mailit.com At the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the digits in the appropriate text box fields in your WordPress backend Admin panel.
 
 
 Manual installation:
@@ -44,14 +43,12 @@ Manual installation:
 2. Upload the E-MAILiT folder to the '/wp-content/plugins/' directory.
 3. Go to your Wordpress dashboard and navigate to Plugins -> Installed Plugins.
 4. On the Plugin page in your WordPress Administration area, activate the E-MAILiT plugin.
-5. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics?
-Go to the E-MAILiT website, http://www.e-mailit.com and Register to get a free account and Button ID.
+5. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with E-MAILiT http://www.e-mailit.com At the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the digits in the appropriate text box fields in your WordPress backend Admin panel.
 
 To upload the plugin through WordPress, instead of FTP:
 
 1. Upload the downloaded zip file on the 'Add New' plugins screen (see the 'Upload' tab) in your WordPress admin area and activate.
-2. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics?
-Go to the E-MAILiT website, http://www.e-mailit.com and Register to get a free account and Button ID.
+2. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with E-MAILiT http://www.e-mailit.com At the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the digits in the appropriate text box fields in your WordPress backend Admin panel.
 
 
 If you need technical help not found on the site email us at support@e-mailit.com
@@ -79,3 +76,5 @@ If you need technical help not found on the site email us at support@e-mailit.co
 * Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons
 = 1.2 = 
 * Add Domain Verification Publisher Key field, in settings
+= 1.3 = 
+* Backend admin panel modifications
