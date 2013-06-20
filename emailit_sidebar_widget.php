@@ -18,7 +18,7 @@ class EmailitSidebarWidget extends WP_Widget
 	$display_counter = esc_attr($instance['display_counter']);
 ?>
   <p><label for="<?php echo $this->get_field_id('title'); ?>">Title: <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo attribute_escape($title); ?>" /></label></p>
-  <p><label for="<?php echo $this->get_field_id('button_id'); ?>">Your Button ID: <input class="widefat" id="<?php echo $this->get_field_id('button_id'); ?>" name="<?php echo $this->get_field_name('button_id'); ?>" type="text" value="<?php echo attribute_escape($button_id); ?>" /></label></p>  
+  <p><label for="<?php echo $this->get_field_id('button_id'); ?>">Your Button ID *optional: <input class="widefat" id="<?php echo $this->get_field_id('button_id'); ?>" name="<?php echo $this->get_field_name('button_id'); ?>" type="text" value="<?php echo attribute_escape($button_id); ?>" /></label></p>  
 <p>  
     <label for="<?php echo $this->get_field_id( 'display_counter' ); ?>"><?php _e('Display counter:'); ?></label>      
     <input class="checkbox" type="checkbox" <?php checked($display_counter, 'on' ); ?> id="<?php echo $this->get_field_id( 'display_counter' ); ?>" name="<?php echo $this->get_field_name( 'display_counter' ); ?>" />   
