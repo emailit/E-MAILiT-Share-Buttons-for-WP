@@ -71,10 +71,10 @@ If you need technical help not found on the site email us at support@e-mailit.co
 
 == Changelog ==
 = 1.0 = 
-* Initial release
+* Initial release.
 = 1.1 = 
-* Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons
+* Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons.
 = 1.2 = 
-* Add Domain Verification Publisher Key field, in settings
+* Add Domain Verification Publisher Key field, in settings.
 = 1.3 = 
-* Backend admin panel modifications
+* Backend admin panel modifications.
