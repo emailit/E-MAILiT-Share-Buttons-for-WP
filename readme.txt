@@ -63,11 +63,11 @@ If you need technical help not found on the site email us at support@e-mailit.co
 06. The share widget's options can all be edited from the WP backend panel
 07. Screenshot of button preview in content 
 08. Screenshot of button preview in sidebar 
-09. E-MAILiT buttons can be displayed in various ways 
-10. The style and look of E-MAILiT buttons can be customized from the backend 
-11. Screenshot of your button customization (1) 
-12. Screenshot of your button customization (2) 
-13. Screenshot of your button customization (3) 
+09. E-MAILiT buttons can be displayed in various ways (registered version)
+10. The style and look of E-MAILiT buttons can be customized from the backend (registered version)
+11. Screenshot of your button customization (1) (registered version)
+12. Screenshot of your button customization (2) (registered version)
+13. Screenshot of your button customization (3) (registered version)
 
 == Changelog ==
 = 1.3 = 
