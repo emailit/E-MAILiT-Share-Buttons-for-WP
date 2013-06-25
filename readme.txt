@@ -55,19 +55,14 @@ If you need technical help not found on the site email us at support@e-mailit.co
 
 
 == Screenshots ==
-01. Screenshot of the WordPress share menu 
-02. Screenshot of the Email Form share menu 
-03. Clicking the E-MAILiT share button will pop up more sharing options
-04. An analytics module comes with E-MAILiT for tracking user shares and more (1) 
-05. An analytics module comes with E-MAILiT for tracking user shares and more (2) 
-06. The share widget's options can all be edited from the WP backend panel
-07. Screenshot of button preview in content 
-08. Screenshot of button preview in sidebar 
-09. E-MAILiT buttons can be displayed in various ways (registered version)
-10. The style and look of E-MAILiT buttons can be customized from the backend (registered version)
-11. Screenshot of your button customization (1) (registered version)
-12. Screenshot of your button customization (2) (registered version)
-13. Screenshot of your button customization (3) (registered version)
+01. An analytics module comes with E-MAILiT for tracking user shares and more (1) 
+02. An analytics module comes with E-MAILiT for tracking user shares and more (2) 
+03. The share widget's options can all be edited from the WP backend panel
+04. E-MAILiT buttons can be displayed in various ways. You have the option to use small buttons in content or sidebar, add share counters or hovering/floating bars, making it easier for your users to share. It's always in view, even when your users scroll up and down the page.
+05. The style and look of E-MAILiT buttons can be customized from the backend (registered version)
+06. Screenshot of your button customization (1) (registered version)
+07. Screenshot of your button customization (2) (registered version)
+08. Screenshot of your button customization (3) (registered version)
 
 == Changelog ==
 = 1.3 = 
