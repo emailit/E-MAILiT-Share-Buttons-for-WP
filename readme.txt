@@ -14,7 +14,7 @@ The E-MAILiT Share Button adds share buttons to all of your posts and pages, sim
 
 With access to 60 most popular social channels (including Facebook, Twitter, Like, Pinterest, Google+, Email, LinkedIn and more) and automatically tracked in 75 languages, the E-MAILiT WordPress plugin is a quick, safe (without using cookies, respects privacy) and easy sharing solution for your site or blog to keep your audience engaged in your promoted content and get more traffic back to your site. You can also customize your widget for seamless integration to your site, with any UI style and create your own advertising campaigns to make extra revenue from your website! You have the option to use small buttons in content, add share counters or hovering/floating bars, presenting on the Top Left - Top Right - Center Left - Center Right - Bottom Left - Bottom Right side of content, making it easier for your users to share. It's always in view, even when your users scroll up and down the page.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/g1h1XdohQKg" frameborder="0" allowfullscreen></iframe>
+<object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/g1h1XdohQKg?version=3&amp;hl=el_GR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/g1h1XdohQKg?version=3&amp;hl=el_GR" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 <strong>Own your social data and your metrics</strong>
 
