@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Social Media Share Button that Creates Income for Websites and Blogs (respects your privacy, without using cookies). E-MAILiT is automatically tracked in 75 languages, giving the opportunity to your visitors to share and distribute your content in over of 60 social networks, such as on Pinterest, Post on Wordpress or sharing via Email to your friends.
   Author: E-MAILiT
-  Version: 1.3
+  Version: 1.4
   Author URI: http://blog.e-mailit.com
  */
 
@@ -136,7 +136,7 @@ function emailit_settings_page() {
                     <tr><td style="padding-bottom: 5px">    
                             <strong>pages:</strong></td>
                         <td style="padding-bottom: 5px"><input type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options[emailit_showonpages] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td style="border-top: solid 1px lightgray; padding: 5px" colspan="2"><div style="width:460px">By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? <a target="_blank" href="http://www.e-mailit.com/widget/register">Create an account</a> with E-MAILiT. At the end of the flow, you will be given the "Domain Verification Publisher Key" and "Your Button ID". Please, paste only the digits in the appropriate text box fields above.<br><img src="<?php echo plugins_url('images/e-mailit_button_id.jpg', __FILE__) ?>"></div></td></tr>
+                    <tr><td style="border-top: solid 1px lightgray; padding: 5px" colspan="2"><div style="width:460px">*By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? <a target="_blank" href="http://www.e-mailit.com/widget/register">Create an account</a> with E-MAILiT. At the end of the flow, you will be given the "Domain Verification Publisher Key" and "Your Button ID". Please, paste only the digits in the appropriate text box fields above.<br><img src="<?php echo plugins_url('images/e-mailit_button_id.jpg', __FILE__) ?>"></div></td></tr>
                 </tbody>
             </table>
             <br/>            
