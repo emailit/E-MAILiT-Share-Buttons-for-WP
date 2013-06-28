@@ -56,7 +56,7 @@ To upload the plugin through WordPress, instead of FTP:
 If you need technical help not found on the site email us at support@e-mailit.com
 
 == Frequently Asked Questions ==
-<h4>Is E-MAILiT free of charge?</h4>
+<strong>Is E-MAILiT free of charge?</strong>
 Yes!
 
 <h4>Do I need to create an account?</h4>
