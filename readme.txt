@@ -56,15 +56,13 @@ To upload the plugin through WordPress, instead of FTP:
 If you need technical help not found on the site email us at support@e-mailit.com
 
 == Frequently Asked Questions ==
-<h2>Is E-MAILiT free of charge?</h2>
-
+<h4>Is E-MAILiT free of charge?</h4>
 Yes!
 
-Do I need to create an account?
-
+<h4>Do I need to create an account?</h4>
 No. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with E-MAILiT http://www.e-mailit.com At the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the digits in the appropriate text box fields in your WordPress backend Admin panel.
 
-Do you offer Share Stats with the non registered version?
+<h4>Do you offer Share Stats with the non registered version?</h4>
 
 No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
 
