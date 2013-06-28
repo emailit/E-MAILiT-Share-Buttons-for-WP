@@ -56,14 +56,13 @@ To upload the plugin through WordPress, instead of FTP:
 If you need technical help not found on the site email us at support@e-mailit.com
 
 == Frequently Asked Questions ==
-<strong>Is E-MAILiT free of charge?</strong>
+<h4>Is E-MAILiT free of charge?</h4>
 Yes!
 
 <h4>Do I need to create an account?</h4>
 No. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with E-MAILiT http://www.e-mailit.com At the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the digits in the appropriate text box fields in your WordPress backend Admin panel.
 
 <h4>Do you offer Share Stats with the non registered version?</h4>
-
 No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
 
 Follow the simple steps below to start receiving social data for your website:
@@ -84,14 +83,14 @@ Available Event Categories & Actions:
 You can count the "Open & Close" action of "E-MAILiT Promo" category, as an impression.
 Metrics, such as clicks / leads / sales or actions are collected by the ad unit code of your Advertising/Affiliate Network.
 
-How to verify a domain?
+<h4>How to verify a domain?</h4>
 
 1. Login with your E-MAILiT account: http://www.e-mailit.com/widget/login
 2. Add a new domain (your website url): http://www.e-mailit.com/widget/control/add_domain
 3.When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:
 <meta name="e-mailit-site-verification" content="E-MAILiT_012345678901234567890" />
-Copy/paste only the E-MAILiT_XXXXXX part, to the appropriate field in your wp admin screen.
+Copy/paste only the E-MAILiT_XXXXXXXXXXXXXXXXXX part, to the appropriate field in your wp admin screen.
 Press Save Changes.
 4. Go to your E-MAILiT account and press the Verify button on the Domain Management Area.
 5. Done!
