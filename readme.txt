@@ -87,7 +87,7 @@ Metrics, such as clicks / leads / sales or actions are collected by the ad unit 
 
 1. Login with your E-MAILiT account: http://www.e-mailit.com/widget/login
 2. Add a new domain (your website url): http://www.e-mailit.com/widget/control/add_domain
-3.When press add domain, a unique meta tag code will display on your screen.
+3. When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:
 <span style=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\"><meta name=\"e-mailit-site-</span><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\">verification\" content=\"</span><strong style=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\">E-MAILiT_</strong><strong style=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\">012345678901234567890</strong><span style=\"color: #222222; font-family: arial, sans-serif; font-size: 13px;\">\" /></span>
 Copy/paste only the <strong>digits</strong>, to the appropriate field in your wp admin screen.
