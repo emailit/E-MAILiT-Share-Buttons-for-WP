@@ -90,7 +90,7 @@ Metrics, such as clicks / leads / sales or actions are collected by the ad unit 
 3. When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:                 
 &lt;meta name="e-mailit-site-verification" content="E-MAILiT_012345678901234567890" /&gt;
-Copy/paste only the <strong>digits</strong>, to the appropriate field in your wp admin screen.
+Copy/paste only the <strong>E-MAILiT_digits</strong>, to the appropriate field in your wp admin screen.
 Press Save Changes.
 4. Go to your E-MAILiT account and press the Verify button on the Domain Management Area.
 5. Done!
