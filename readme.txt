@@ -66,19 +66,22 @@ No. By default, we provide you with a standard appearance of the E-MAILiT sharin
 No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
 
 Follow the simple steps below to start receiving social data for your website:
-* **Register for Google Analytics at http://www.google.com/analytics and follow their instructions to embed their snippet into your site pages (source code).**
-* **Sign in to your E-MAILiT account. Go to your domain settings and fill in the Google Analytics field, with your unique UA id of your GA account.**
-* **After the domain verification and the button creation, add to your website pages the E-MAILiT javascript code to enable content social trend. Done! We log your social events automatically, since E-MAILiT track your Google Analytics UA id.**
-* **In your Google Analytics reports, you can find the E-MAILiT social networking/sharing trend under:**
+<ul>
+<li>Register for Google Analytics at http://www.google.com/analytics and follow their instructions to embed their snippet into your site pages (source code).</li>
+<li>Sign in to your E-MAILiT account. Go to your domain settings and fill in the Google Analytics field, with your unique UA id of your GA account.</li>
+<li>After the domain verification and the button creation, add to your website pages the E-MAILiT javascript code to enable content social trend. Done! We log your social events automatically, since E-MAILiT track your Google Analytics UA id.</li>
+<li>In your Google Analytics reports, you can find the E-MAILiT social networking/sharing trend under:</li>
+</ul>
 Content > Events > Overview > E-MAILiT
 
 Available Event Categories & Actions:
-* **E-MAILiT Promo (Open & Close for the advertisement area/ad unit/ad display)**
-* **E-MAILiT Button (Open for the menu)**
-* **E-MAILiT Email (Open & Send for the Email Form)**
-* **E-MAILiT Share (Shares by Service)**
-* **E-MAILiT Follow (Follows by Channel)**
-
+<ul>
+<li>E-MAILiT Promo (Open & Close for the advertisement area/ad unit/ad display)</li>
+<li>E-MAILiT Button (Open for the menu)</li>
+<li>E-MAILiT Email (Open & Send for the Email Form)</li>
+<li>E-MAILiT Share (Shares by Service)</li>
+<li>E-MAILiT Follow (Follows by Channel)</li>
+</ul>
 You can count the "Open & Close" action of "E-MAILiT Promo" category, as an impression.
 Metrics, such as clicks / leads / sales or actions are collected by the ad unit code of your Advertising/Affiliate Network.
 
