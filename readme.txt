@@ -56,7 +56,7 @@ To upload the plugin through WordPress, instead of FTP:
 If you need technical help not found on the site email us at support@e-mailit.com
 
 == Frequently Asked Questions ==
-Is E-MAILiT free of charge?
+<h2>Is E-MAILiT free of charge?</h2>
 
 Yes!
 
@@ -83,7 +83,7 @@ Available Event Categories & Actions:
 *E-MAILiT Share (Shares by Service)
 *E-MAILiT Follow (Follows by Channel)
 
-You can count the ''Open & Close'' action of ''E-MAILiT Promo'' category, as an impression.
+You can count the "Open & Close" action of "E-MAILiT Promo" category, as an impression.
 Metrics, such as clicks / leads / sales or actions are collected by the ad unit code of your Advertising/Affiliate Network.
 
 How to verify a domain?
