@@ -55,6 +55,46 @@ To upload the plugin through WordPress, instead of FTP:
 
 If you need technical help not found on the site email us at support@e-mailit.com
 
+== FAQ ==
+Is E-MAILiT free of charge?
+Yes!
+
+Do I need to create an account?
+No. By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with E-MAILiT http://www.e-mailit.com At the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the digits in the appropriate text box fields in your WordPress backend Admin panel.
+
+Do you offer Share Stats with the non registered version?
+No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
+
+Follow the simple steps below to start receiving social data for your website:
+*Register for Google Analytics at http://www.google.com/analytics and follow their instructions to embed their snippet into your site pages (source code).
+*Sign in to your E-MAILiT account. Go to your domain settings and fill in the Google Analytics field, with your unique UA id of your GA account.
+*After the domain verification and the button creation, add to your website pages the E-MAILiT javascript code to enable content social trend. Done! We log your social events automatically, since E-MAILiT track your Google Analytics UA id.
+*In your Google Analytics reports, you can find the E-MAILiT social networking/sharing trend under:
+
+Content > Events > Overview > E-MAILiT
+
+Available Event Categories & Actions:
+*E-MAILiT Promo (Open & Close for the advertisement area/ad unit/ad display)
+*E-MAILiT Button (Open for the menu)
+*E-MAILiT Email (Open & Send for the Email Form)
+*E-MAILiT Share (Shares by Service)
+*E-MAILiT Follow (Follows by Channel)
+
+You can count the ''Open & Close'' action of ''E-MAILiT Promo'' category, as an impression.
+Metrics, such as clicks / leads / sales or actions are collected by the ad unit code of your Advertising/Affiliate Network.
+
+How to verify a domain?
+1. Login with your E-MAILiT account: http://www.e-mailit.com/widget/login
+2. Add a new domain (your website url): http://www.e-mailit.com/widget/control/add_domain
+3.When press add domain, a unique meta tag code will display on your screen.
+For example, take a look the given below:
+<meta name="e-mailit-site-verification" content="E-MAILiT_012345678901234567890" />
+Copy/paste only the E-MAILiT_XXXXXX part, to the appropriate field in your wp admin screen.
+Press Save Changes.
+4. Go to your E-MAILiT account and press the Verify button on the Domain Management Area.
+5. Done!
+
+If you need technical help not found on the site email us at support@e-mailit.com
 
 == Screenshots ==
 01. An analytics module comes with E-MAILiT for tracking user shares and more (1) 
