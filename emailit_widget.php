@@ -90,7 +90,7 @@ function emailit_settings_page() {
             <br/>
             in content <input onclick="hideshow('content');" type="radio" name="emailit_options[plugin_type]" value="content" <?php echo ($emailit_options[plugin_type] == 'content' ? 'checked="checked"' : ''); ?>/>
             &nbsp; 
-            in sidebar (Widget)<input onclick="hideshow('sidebar');" type="radio" name="emailit_options[plugin_type]" value="sidebar" <?php echo ($emailit_options[plugin_type] == 'sidebar' ? 'checked="checked"' : ''); ?>/>
+            in sidebar (Widget) <input onclick="hideshow('sidebar');" type="radio" name="emailit_options[plugin_type]" value="sidebar" <?php echo ($emailit_options[plugin_type] == 'sidebar' ? 'checked="checked"' : ''); ?>/>
             <br/>
             <div id="sidebar_options" <?php if ($emailit_options[plugin_type] == "content") echo 'style="display:none"' ?>><br/>You can add your sidebar widget in Appearance > Widgets menu.</div>
             <table id="content_options" <?php if ($emailit_options[plugin_type] == "sidebar") echo 'style="display:none"' ?>>
