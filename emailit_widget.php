@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Social Media Share Button that Creates Income for Websites and Blogs (respects your privacy, without using cookies). E-MAILiT is automatically tracked in 75 languages, giving the opportunity to your visitors to share and distribute your content in over of 60 social networks, such as on Pinterest, Post on Wordpress or sharing via Email to your friends.
   Author: E-MAILiT
-  Version: 1.4
+  Version: 1.5
   Author URI: http://blog.e-mailit.com
  */
 
@@ -102,25 +102,25 @@ function emailit_settings_page() {
                     <tr><td><strong>Display counter:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options[display_counter] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td><strong>Button position:</strong></td>
+                    <tr><td><strong>Button position on page:</strong></td>
                         <td><select name="emailit_options[button_position]">
                                 <option value="bottom" <?php echo ($emailit_options[button_position] == 'bottom' ? 'selected="selected"' : ''); ?>>Bottom</option>
                                 <option value="top" <?php echo ($emailit_options[button_position] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>
                             </select></td></tr>
 					<tr><td><h3>E-MAILiT 3rd parties Horizontal Share Counter Toolbox options</h3></td></tr>
-                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Facebook:</strong></td>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Facebook button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_fb_button]" value="true" <?php echo ($emailit_options[display_fb_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/tweeter_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Twitter:</strong></td>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/tweeter_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Twitter button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_tweeter_button]" value="true" <?php echo ($emailit_options[display_tweeter_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/g_plus_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Google+:</strong></td>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/g_plus_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Google+ button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_gplus_button]" value="true" <?php echo ($emailit_options[display_gplus_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/pinterest_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Pinterest:</strong></td>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/pinterest_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Pinterest button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_pinterest_button]" value="true" <?php echo ($emailit_options[display_pinterest_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/linkedin_btn.png', __FILE__)?>') no-repeat right;"><strong>Add LinkedIn:</strong></td>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/linkedin_btn.png', __FILE__)?>') no-repeat right;"><strong>Add LinkedIn button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_linkedin_button]" value="true" <?php echo ($emailit_options[display_linkedin_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>							
 							<tr><td><h3>Show E-MAILiT Share Button on</h3></td></tr>
