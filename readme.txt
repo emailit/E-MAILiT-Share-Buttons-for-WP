@@ -16,7 +16,7 @@ With access to 60 most popular social channels (including Facebook, Twitter, Lik
 
 <strong>Compare E-MAILiT</strong>
 
-<a href="http://e-mailit.com/ext/wordpress/ComparisonChart.png">Compare E-MAILiT to other leading share platforms to see how it stacks up against the competition.</a>
+<a href="http://e-mailit.com/ext/wordpress/compare.png">Compare E-MAILiT to other leading share platforms to see how it stacks up against the competition.</a>
 
 Sources:
 http://network-tools.com
