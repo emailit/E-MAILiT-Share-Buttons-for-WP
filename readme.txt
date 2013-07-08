@@ -27,10 +27,6 @@ Analyze and measure Social Behaviour (track sharers, fans and followers), overal
 
 <a href="http://www.facebook.com/emailitcom">Like us on Facebook</a> | <a href="https://twitter.com/emailit">Follow us on Twitter</a>
 
-<table>
-<tr><td><a target="_blank" href="http://e-mailit.com/ext/wordpress/ComparisonChart.png">http://e-mailit.com/ext/wordpress/ComparisonChart.png</a></td></tr>
-<tr><td>test 1</td></tr>
-</table>
 
 == Installation ==
 
