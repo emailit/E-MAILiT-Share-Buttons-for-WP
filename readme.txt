@@ -18,10 +18,10 @@ With access to 60 most popular social channels (including Facebook, Twitter, Lik
 
 <a href="http://e-mailit.com/ext/wordpress/compare.png">Compare E-MAILiT to other leading share platforms to see how it stacks up against the competition.</a>
 
-Sources:
-http://network-tools.com
-http://gtmetrix.com
-https://developers.google.com/speed/pagespeed/insights
+Sources: <br/>
+http://network-tools.com <br/>
+http://gtmetrix.com <br/>
+https://developers.google.com/speed/pagespeed/insights <br/>
 Google Chrome browser - Developer Tools
 
 [youtube http://www.youtube.com/v/g1h1XdohQKg]
