@@ -29,7 +29,7 @@ Analyze and measure Social Behaviour (track sharers, fans and followers), overal
 
 <table>
 <tr><td><a target="_blank" href="http://e-mailit.com/ext/wordpress/ComparisonChart.png">http://e-mailit.com/ext/wordpress/ComparisonChart.png</a></td></tr>
-<tr><td>test</td></tr>
+<tr><td>test 1</td></tr>
 </table>
 
 == Installation ==
