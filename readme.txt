@@ -20,13 +20,7 @@ With access to 60 most popular social channels (including Facebook, Twitter, Lik
 
 Sources:
 
-http://network-tools.com
-
-http://gtmetrix.com
-
-https://developers.google.com/speed/pagespeed/insights
-
-Google Chrome browser - Developer Tools
+http://network-tools.com                 http://gtmetrix.com                 https://developers.google.com/speed/pagespeed/insights                     Google Chrome browser - Developer Tools
 
 [youtube http://www.youtube.com/v/g1h1XdohQKg]
 
