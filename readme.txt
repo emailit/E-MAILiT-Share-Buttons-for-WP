@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.5.1
-Stable tag: 1.5
+Stable tag: 1.6
 License: GPLv2 or later
 
 Allow your visitors to quickly & easily share your pages and content.
@@ -122,6 +122,10 @@ If you need technical help not found on the site email us at support@e-mailit.co
 08. Screenshot of your button customization (3) (registered version)
 
 == Changelog ==
+= 1.6 = 
+* Bug Fixes.
+* CSS and menu style appearance, resolved. Compatibility issues repaired in a variety of websites, with special meta charset, also containing a numerous of third party js tools.
+* Background color replaced when share menu is opened.
 = 1.5 = 
 * UX changes in admin settings.
 = 1.4 = 
