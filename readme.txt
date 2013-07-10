@@ -83,7 +83,7 @@ Follow the simple steps below to start receiving social data for your website:
 <ul>
 <li>Register for Google Analytics at http://www.google.com/analytics and follow their instructions to embed their snippet into your site pages (source code).</li>
 <li>Sign in to your E-MAILiT account. Go to your domain settings and fill in the Google Analytics field, with your unique UA id of your GA account.</li>
-<li>After the domain verification and the button creation, add to your website pages the E-MAILiT javascript code to enable content social trend. Done! We log your social events automatically, since E-MAILiT track your Google Analytics UA id.</li>
+<li>After the domain verification and the share button creation, we log your social events automatically, since E-MAILiT track your Google Analytics UA id.</li>
 <li>In your Google Analytics reports, you can find the E-MAILiT social networking/sharing trend under: Content > Events > Overview > E-MAILiT</li>
 </ul>
 Available Event Categories & Actions:
