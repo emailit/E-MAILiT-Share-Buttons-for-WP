@@ -30,7 +30,7 @@ Google Chrome browser - Developer Tools
 
 [youtube http://www.youtube.com/v/g1h1XdohQKg]
 
-<strong>Own your social data and your metrics</strong>
+*Own your social data and your metrics
 
 We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because stats belongs to you and you must have them all in one place.
 Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
