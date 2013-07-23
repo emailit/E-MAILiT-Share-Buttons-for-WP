@@ -124,6 +124,8 @@ If you need technical help not found on the site email us at support@e-mailit.co
 == Changelog ==
 = 1.7 =
 * Social Services icons, re-designed
+* Follow Channel Flickr replaced with Pinterest.
+* Follow Channel LinkedIn, for personal profiles, replaced with LinkedIn for companies
 = 1.6 = 
 * Bug Fixes.
 * CSS and menu style appearance, resolved. Compatibility issues repaired in a variety of websites, with special meta charset, also containing numerous third party js tools.
