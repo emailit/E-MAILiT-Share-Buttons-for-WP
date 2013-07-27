@@ -1,4 +1,4 @@
-==== E-MAILiT Share Buttons: Sharing Made Simple ====
+==== Share Buttons by E-MAILiT ====
 Contributors: skallonis, e-mailit
 Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer
 
@@ -7,7 +7,7 @@ Tested up to: 3.5.1
 Stable tag: 1.7
 License: GPLv2 or later
 
-Allow your visitors to quickly & easily share your pages and content.
+E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and earn revenue.
 
 == Description ==
 The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply, increasing social activity on your site, with excellent fast performance (asynchronous script loading, 93% on <a href="http://bit.ly/17RIC1E">Google Page Speed Insight</a> and more).
