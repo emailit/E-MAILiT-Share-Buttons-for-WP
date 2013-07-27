@@ -23,7 +23,7 @@ Analyze and measure Social Behaviour (track sharers, fans and followers), overal
 
 <a href="http://www.e-mailit.com/solutions.html">Share Buttons</a> (demo)
 
-<a href="https://twitter.com/emailit">Follow us on Twitter</a>
+<a href="https://twitter.com/emailit">Follow us on Twitter for the latest updates</a>
 
 == Installation ==
 
