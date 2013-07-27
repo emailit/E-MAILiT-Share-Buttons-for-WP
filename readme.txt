@@ -21,9 +21,9 @@ Analyze and measure Social Behaviour (track sharers, fans and followers), overal
 
 <a href="http://e-mailit.com/widget/php/fb/login_facebook.php">Login/Register with Facebook (optional)</a>
 
-<a href="http://www.e-mailit.com/solutions.html">Open Demos</a> | <a href="http://www.e-mailit.com">E-MAILiT Website</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos.html">Terms of Service</a>
+<a href="http://www.e-mailit.com/solutions.html">Share Buttons</a> (demo)
 
-<a href="http://www.facebook.com/emailitcom">Like us on Facebook</a> | <a href="https://twitter.com/emailit">Follow us on Twitter</a>
+<a href="https://twitter.com/emailit">Follow us on Twitter</a>
 
 == Installation ==
 
