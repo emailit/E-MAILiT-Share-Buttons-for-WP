@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.5.1
-Stable tag: 1.7
+Stable tag: 1.8
 License: GPLv2 or later
 
 E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and earn revenue.
@@ -106,6 +106,9 @@ If you need technical help not found on the site email us at support@e-mailit.co
 08. Screenshot of your button customization (3) (registered version)
 
 == Changelog ==
+= 1.8 =
+* UX changes in internal admin system.
+* Bug Fixes.
 = 1.7 =
 * Social Services icons, re-designed
 * Follow Channel Flickr replaced with Pinterest.
