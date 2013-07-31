@@ -19,7 +19,7 @@ With access to 60 popular social channels (including Facebook, Twitter, Like, Pi
 We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because stats belongs to you and you must have them all in one place.
 Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
-<a href="http://www.e-mailit.com/widget/login">Sign In (optional)</a>
+<a href="http://www.e-mailit.com/widget/login">Sign In/Register (optional)</a>
 
 <a href="http://www.e-mailit.com/solutions.html">Share Buttons</a> (demo)
 
