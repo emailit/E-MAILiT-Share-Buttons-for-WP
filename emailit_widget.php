@@ -112,8 +112,8 @@ function emailit_settings_page() {
                         <td><input type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options[emailit_showonpages] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                     <tr><td style="padding-bottom:20px"><strong>button position on page:</strong></td>
                         <td style="padding-bottom:20px"><select name="emailit_options[button_position]">
+                                <option value="top" <?php echo ($emailit_options[button_position] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>                                
                                 <option value="bottom" <?php echo ($emailit_options[button_position] == 'bottom' ? 'selected="selected"' : ''); ?>>Bottom</option>
-                                <option value="top" <?php echo ($emailit_options[button_position] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>
                             </select></td></tr>
                     <tr><td style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__)?>') no-repeat right;"><strong>Show E-MAILiT share counter:</strong></td>
                         <td>
