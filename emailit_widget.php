@@ -19,10 +19,10 @@
 /*
   Plugin Name: E-MAILiT Social Media Sharing Widget
   Plugin URI: http://www.e-mailit.com
-  Description: Social Media Share Button that Creates Income for Websites and Blogs (respects your privacy, without using cookies). E-MAILiT is automatically tracked in 75 languages, giving the opportunity to your visitors to share and distribute your content in over of 60 social networks, such as on Pinterest, Post on Wordpress or sharing via Email to your friends.
+  Description: E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit. Over 10,000 Publishers use E-MAILiT to share over 7,000 times/month in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels, with over 4.7 million visitors and 8.6 million views in total, localized in 75 languages and access to various tracking reports, keep their audience engaged in the promoted content, know how is being shared over the web and get more traffic back to their site.
   Author: E-MAILiT
-  Version: 1.8
-  Author URI: http://blog.e-mailit.com
+  Version: 1.9
+  Author URI: http://www.e-mailit.com
  */
 
 add_action('admin_init', 'emailit_admin_init');
@@ -65,12 +65,15 @@ function emailit_settings_page() {
             function hideshow(plugin_type){
                 content_options = document.getElementById('content_options'); 
                 sidebar_options = document.getElementById('sidebar_options'); 
+                button_id =  document.getElementById('button_id'); 
                 if(plugin_type == 'content'){
                     content_options.style.display = 'table';
                     sidebar_options.style.display = 'none';
+                    button_id.style.display = 'block';
                 }else{
                     content_options.style.display = 'none';
                     sidebar_options.style.display = 'block';
+                    button_id.style.display = 'none';
                 }
             }
         </script>
@@ -85,29 +88,37 @@ function emailit_settings_page() {
                 $emailit_options[plugin_type] = "content";
             ?>
             <h2>Plugin options</h2>
-            <strong>Domain Verification Publisher Key (E-MAILiT_...) *optional:</strong> <input id="emailit_domain_verification"  type="text" name="emailit_options[domain_verification]" value="<?php echo $emailit_options[domain_verification]; ?>" size="50"/><br/><br/>
+
             <strong>Use E-MAILiT Share button</strong>
             <br/>
             in content <input onclick="hideshow('content');" type="radio" name="emailit_options[plugin_type]" value="content" <?php echo ($emailit_options[plugin_type] == 'content' ? 'checked="checked"' : ''); ?>/>
             &nbsp; 
             in sidebar (Widget) <input onclick="hideshow('sidebar');" type="radio" name="emailit_options[plugin_type]" value="sidebar" <?php echo ($emailit_options[plugin_type] == 'sidebar' ? 'checked="checked"' : ''); ?>/>
             <br/>
-            <div id="sidebar_options" <?php if ($emailit_options[plugin_type] == "content") echo 'style="display:none"' ?>><br/>You can add your sidebar widget in Appearance > Widgets menu.</div>
-            <table id="content_options" <?php if ($emailit_options[plugin_type] == "sidebar") echo 'style="display:none"' ?>>
+            <div id="sidebar_options" <?php if ($emailit_options[plugin_type] == "content") echo 'style="display:none"' ?>><br/><strong>Edit</strong>: Go to Appearance > Widgets > Main Sidebar > E-MAILiT Share</div>
+            <table width="550px" id="content_options" <?php if ($emailit_options[plugin_type] == "sidebar") echo 'style="display:none"' ?>>
                 <tbody>
-                    <tr><td><h3>In Content options</h3></td></tr>
-                    <tr><td><strong>Your Button ID *optional:</strong></td>
-                        <td><input id="emailit_button_id"  type="text" name="emailit_options[button_id]" value="<?php echo $emailit_options[button_id]; ?>"/></td></tr>
-
-                    <tr><td><strong>Display counter:</strong></td>
-                        <td>
-                            <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options[display_counter] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td><strong>Button position on page:</strong></td>
-                        <td><select name="emailit_options[button_position]">
+                    <tr><td>   
+                            <strong>homepage:</strong></td>
+                        <td><input type="checkbox" name="emailit_options[emailit_showonhome]" value="true" <?php echo ($emailit_options[emailit_showonhome] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td>   
+                            <strong>archives:</strong></td>
+                        <td><input type="checkbox" name="emailit_options[emailit_showonarchives]" value="true" <?php echo ($emailit_options[emailit_showonarchives] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td>   
+                            <strong>categories:</strong></td>
+                        <td><input type="checkbox" name="emailit_options[emailit_showoncats]" value="true" <?php echo ($emailit_options[emailit_showoncats] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td>    
+                            <strong>pages:</strong></td>
+                        <td><input type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options[emailit_showonpages] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td style="padding-bottom:20px"><strong>button position on page:</strong></td>
+                        <td style="padding-bottom:20px"><select name="emailit_options[button_position]">
                                 <option value="bottom" <?php echo ($emailit_options[button_position] == 'bottom' ? 'selected="selected"' : ''); ?>>Bottom</option>
                                 <option value="top" <?php echo ($emailit_options[button_position] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>
                             </select></td></tr>
-					<tr><td><h3>E-MAILiT 3rd parties Horizontal Share Counter Toolbox options</h3></td></tr>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__)?>') no-repeat right;"><strong>Show E-MAILiT share counter:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options[display_counter] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+
                     <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Facebook button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_fb_button]" value="true" <?php echo ($emailit_options[display_fb_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
@@ -123,24 +134,27 @@ function emailit_settings_page() {
                     <tr><td style="height:20px;background: url('<?php echo plugins_url('images/linkedin_btn.png', __FILE__)?>') no-repeat right;"><strong>Add LinkedIn button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_linkedin_button]" value="true" <?php echo ($emailit_options[display_linkedin_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>							
-							<tr><td><h3>Show E-MAILiT Share Button on</h3></td></tr>
-                    <tr><td>   
-                            <strong>homepage:</strong></td>
-                        <td><input type="checkbox" name="emailit_options[emailit_showonhome]" value="true" <?php echo ($emailit_options[emailit_showonhome] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td>   
-                            <strong>archives:</strong></td>
-                        <td><input type="checkbox" name="emailit_options[emailit_showonarchives]" value="true" <?php echo ($emailit_options[emailit_showonarchives] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td>   
-                            <strong>categories:</strong></td>
-                        <td><input type="checkbox" name="emailit_options[emailit_showoncats]" value="true" <?php echo ($emailit_options[emailit_showoncats] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td style="padding-bottom: 5px">    
-                            <strong>pages:</strong></td>
-                        <td style="padding-bottom: 5px"><input type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options[emailit_showonpages] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                    <tr><td style="border-top: solid 1px lightgray; padding: 5px" colspan="2"><div style="width:460px">*By default, we provide you with a standard appearance of the E-MAILiT sharing button. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? <a target="_blank" href="http://www.e-mailit.com/widget/register">Create an account</a> with E-MAILiT. At the end of the flow, you will be given the "Domain Verification Publisher Key" and "Your Button ID". Please, paste only the digits in the appropriate text box fields above.<br><img src="<?php echo plugins_url('images/e-mailit_button_id.jpg', __FILE__) ?>"></div></td></tr>
+
                 </tbody>
             </table>
+            <br/>
+            <p>
+                <div style="width:500px;border-top: solid 1px lightgray; padding: 5px"><br/><br/>
+                <a target="_blank" href="http://www.e-mailit.com/widget/register">Create Your Account To Access</a><br/>
+                - Social Sharing Analytics &
+                Advertising Campaign Data Metrics,<br/>
+                - Custom Stylish Buttons (small buttons,
+                hovering/floating bars),<br/>
+                - Create your own advertising campaigns
+                to make extra profit, and many more...            
+            </p>          
+<div id="button_id" <?php if ($emailit_options[plugin_type] == "sidebar") echo 'style="display:none"' ?>><strong>Your Button ID:</strong>
+                        <input id="emailit_button_id"  type="text" name="emailit_options[button_id]" value="<?php echo $emailit_options[button_id]; ?>"/><br/><br/></div>
+            
+            <strong>Domain Verification Publisher Key:</strong> <input id="emailit_domain_verification"  type="text" name="emailit_options[domain_verification]" value="<?php echo $emailit_options[domain_verification]; ?>" size="50"/><br/><br/>            
             <br/>            
             <input name="Submit" type="submit" value="<?php esc_attr_e('Save Changes'); ?>" />
+                </div>
         </form></div>
 
     <?php

@@ -3,8 +3,8 @@ Contributors: skallonis, e-mailit
 Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer
 
 Requires at least: 2.9
-Tested up to: 3.5.1
-Stable tag: 1.8
+Tested up to: 3.6
+Stable tag: 1.9
 License: GPLv2 or later
 
 E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit.
@@ -110,6 +110,10 @@ If you need technical help not found on the site email us at support@e-mailit.co
 08. Screenshot of your button customization (3) (registered version)
 
 == Changelog ==
+= 1.9 =
+* Show 3rd party share counter buttons in Sidebar. Done.
+* WordPress frontend Admin panel, re-designed.
+* Bug Fixes.
 = 1.8 =
 * UX changes in internal admin system.
 * Bug Fixes.
