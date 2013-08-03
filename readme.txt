@@ -25,7 +25,7 @@ Analyze and measure Social Behaviour (track sharers, fans and followers), overal
 
 <a href="http://www.e-mailit.com/widget/login">Sign In / Register</a>
 
-<a href="http://www.e-mailit.com/solutions.html">Preview our button</a>
+<a href="http://www.e-mailit.com/solutions.html">Preview our Button</a>
 
 <a href="https://twitter.com/emailit">Follow us on Twitter for the latest updates</a>
 
