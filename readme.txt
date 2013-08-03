@@ -7,12 +7,12 @@ Tested up to: 3.5.1
 Stable tag: 1.8
 License: GPLv2 or later
 
-E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and earn revenue.
+E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit.
 
 == Description ==
 The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply, increasing social activity on your site, with excellent fast performance (asynchronous script loading, 93% on <a href="http://bit.ly/17RIC1E">Google Page Speed Insight</a> and more).
 
-E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and earn revenue.
+E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit.
 
 With access to 60 popular social channels (including Facebook, Twitter, Like, Pinterest, Google+, Email, LinkedIn, StumbleUpon and more) and automatically tracked in 75 languages, the E-MAILiT WordPress plugin is a quick and easy sharing solution for your site or blog to keep your audience engaged in your promoted content, know how is being shared over the web, access to various tracking reports and get more traffic back to your site.
 You can also customize your widget for seamless integration to your site, with any UI style and create your own advertising campaigns to make extra revenue from your website!
@@ -25,7 +25,7 @@ Analyze and measure Social Behaviour (track sharers, fans and followers), overal
 
 <a href="http://www.e-mailit.com/widget/login">Sign In / Register</a>
 
-<a href="http://www.e-mailit.com/solutions.html">Share Buttons</a> (demo)
+<a href="http://www.e-mailit.com/solutions.html">Preview our button</a>
 
 <a href="https://twitter.com/emailit">Follow us on Twitter for the latest updates</a>
 
