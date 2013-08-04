@@ -94,7 +94,7 @@ For example, take a look the given below:
 &lt;meta name="e-mailit-site-verification" content="**E-MAILiT_0123456789012345678**" /&gt;
 Paste only the **E-MAILiT_digits**, to the appropriate text box field at your WordPress backend Admin panel.
 Press Save Changes.
-4. Go to your E-MAILiT account and press the Verify now button at the Website Settings.
+4. Go to your E-MAILiT account and press the **Verify now** button at the Website Settings.
 5. Done!
 
 If you need technical help not found on the site email us at support@e-mailit.com
