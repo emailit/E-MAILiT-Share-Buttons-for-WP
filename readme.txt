@@ -26,7 +26,7 @@ E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, 
 * Install E-MAILiT WordPress plugin and access to various tracking reports, keep your audience engaged in the promoted content, know how is being shared over the web and get more traffic back to your site.
 * Create your own unlimited advertising campaigns, using our customized Advertising Generator) inside the E-MAILiT share menu, target your sharers and make profit, using our unobtrusive and small button.
 * Customize, arrange and prioritize which Services (for Sharing) and Channels (for Following) you want to include and select the 10 most popular services to show up on initial hover.
-* We also support <a href="http://www.e-mailit.com/bookmarklet.html">sharing toolbar</a>, in any browser.
+* We also support <a href="http://www.e-mailit.com/bookmarklet.html">**Sharing Toolbar**</a>, in any browser.
 
 **Other Products**   
 E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a E-MAILiT Promotions Beta Publisher at support@e-mailit.com! Contact us to learn more.
