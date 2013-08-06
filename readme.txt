@@ -20,7 +20,7 @@ E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, 
 * Embedded Advertisement inside the E-MAILiT sharing button. 
 * You can fully customize the -unlimited- button(s): Change the in-text, colors and button position on page based on your willingness and website/brand favorite colors. 
 * Available in 75 languages. 
-* Fast performance - Script loading (async) as measured 99% on <a href="http://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js">Google PageSpeed Insights</a>. 
+* Fast performance - Script loading (async) as measured **99%** on <a href="http://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js">Google PageSpeed Insights</a>. 
 * Use small E-MAILiT buttons in content and share counters. Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons.
 * Also available, hovering/floating bar share buttons (it's always in view, even when your users scroll up and down the page).
 * Install E-MAILiT WordPress plugin and access to various tracking reports, keep your audience engaged in the promoted content, know how is being shared over the web and get more traffic back to your site.
