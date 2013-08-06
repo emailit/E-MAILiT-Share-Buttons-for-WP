@@ -1,4 +1,4 @@
-==== Share Buttons by E-MAILiT ====
+==== Share Buttons and Social Data Metrics by E-MAILiT ====
 Contributors: skallonis, e-mailit
 Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer
 
@@ -10,24 +10,31 @@ License: GPLv2 or later
 E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit.
 
 == Description ==
-The E-MAILiT Share Button adds share buttons to all of your posts and pages, simply, increasing social activity on your site, with excellent fast performance (asynchronous script loading, 93% on <a href="http://bit.ly/17RIC1E">Google Page Speed Insight</a> and more).
+**Empower your Content Distribution with E-MAILiT!**
 
-E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit.
+**E-MAILiT Facts & Resources**
+* By registering to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media Follow Channels.
+* Connected with the most popular social networking and bookmarking sites (including Twitter, Facebook, Google+ and Pinterest), to let your visitors share your content.
+* Measurable Sharing Events embedded in your Google Analytics acount.
+* Embedded Advertisement inside the E-MAILiT sharing button.
+* You can fully customize the -unlimited- button(s): Change the in-text, colors and button position on page based on your willingness and website/brand favorite colors.
+* Available in 75 languages.
+* Fast performance - Script loading (async) as measured 93% on Google Page Speed Insight.
+* Use small E-MAILiT buttons in content and share counters. Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons.
+* Also available, hovering/floating bar share buttons (it's always in view, even when your users scroll up and down the page).
+* Install E-MAILiT WordPress plugin and access to various tracking reports, keep your audience engaged in the promoted content, know how is being shared over the web and get more traffic back to your site.
+* Create your own unlimited advertising campaigns, using our customized Advertising Generator) inside the E-MAILiT share menu, target your sharers and make profit, using our unobtrusive and small button.
+* Customize, arrange and prioritize which Services (for Sharing) and Channels (for Following) you want to include and select the 10 most popular services to show up on initial hover.
+* We also support sharing toolbar, in any browser.
 
-With access to 60 popular social channels (including Facebook, Twitter, Like, Pinterest, Google+, Email, LinkedIn, StumbleUpon and more) and automatically tracked in 75 languages, the E-MAILiT WordPress plugin is a quick and easy sharing solution for your site or blog to keep your audience engaged in your promoted content, know how is being shared over the web, access to various tracking reports and get more traffic back to your site.
-You can also customize your widget for seamless integration to your site, with any UI style and create your own advertising campaigns to make extra revenue from your website!
-You have the option to use small buttons in content, add sharecounters or hovering/floating bars, presenting on the Top Left - Top Right - Center Left - Center Right - Bottom Left - Bottom Right side of content, making it easier for your users to share. It's always in view, even when your users scroll up and down the page.
+**Other Products**
+E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a E-MAILiT Promotions Beta Publisher at support@e-mailit.com! Contact us to learn more.
 
-**Own your social data and your metrics**
+<a href="http://www.e-mailit.com/widget/login">Sign In or Register</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
-We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because stats belongs to you and you must have them all in one place.
-Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
+<a href="http://www.e-mailit.com/solutions.html">Check out the sharing buttons</a> | <a href="http://www.e-mailit.com/sample/adunit.html">Open a sample ad unit page preview</a>
 
-<a href="http://www.e-mailit.com/widget/login">Sign In / Register</a>
-
-<a href="http://www.e-mailit.com/solutions.html">Preview our Button</a>
-
-<a href="https://twitter.com/emailit">Follow us on Twitter for the latest updates</a>
+<a href="http://twitter.com/emailit">Follow us on Twitter</a>
 
 == Installation ==
 
@@ -38,7 +45,7 @@ Automatic installation through WordPress:
 3. Under Search type in E-MAILiT, then click Search Plugins.
 4. In the results page, click Install Now.
 5. Once installed, click Activate Plugin. You're done!
-6. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the E-MAILiT_digits to the appropriate text box fields at your WordPress backend Admin panel.
+6. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 
 Manual installation:
@@ -47,12 +54,12 @@ Manual installation:
 2. Upload the E-MAILiT folder to the '/wp-content/plugins/' directory.
 3. Go to your Wordpress dashboard and navigate to Plugins -> Installed Plugins.
 4. On the Plugin page in your WordPress Administration area, activate the E-MAILiT plugin.
-5. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the E-MAILiT_digits to the appropriate text box fields at your WordPress backend Admin panel.
+5. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 To upload the plugin through WordPress, instead of FTP:
 
 1. Upload the downloaded zip file on the 'Add New' plugins screen (see the 'Upload' tab) in your WordPress admin area and activate.
-2. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the E-MAILiT_digits to the appropriate text box fields at your WordPress backend Admin panel.
+2. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 
 If you need technical help not found on the site email us at support@e-mailit.com
@@ -62,10 +69,11 @@ If you need technical help not found on the site email us at support@e-mailit.co
 Yes!
 
 <h4>Do I need to create an account?</h4>
-No. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and ''Your Button ID''. Please, paste only the E-MAILiT_digits to the appropriate text box fields at your WordPress backend Admin panel.
+No. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 <h4>Do you offer Share Stats with the non registered version?</h4>
 No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
+Own your social data and your metrics. We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because stats belongs to you and you must have them all in one place. Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
 Follow the simple steps below to start receiving social data for your website:
 <ul>
