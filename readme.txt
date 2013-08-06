@@ -12,8 +12,8 @@ E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, 
 == Description ==
 **Empower your Content Distribution with E-MAILiT!**
 
-
 **E-MAILiT Facts & Resources**  
+
 * By <a href="http://www.e-mailit.com/widget/register">registering</a> to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media Follow Channels.
 * Connected with the most popular social networking and bookmarking sites (including Twitter, Facebook, Google+ and Pinterest), to let your visitors share your content.
 * Measurable Sharing Events embedded in your Google Analytics acount.
@@ -28,8 +28,8 @@ E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, 
 * Customize, arrange and prioritize which Services (for Sharing) and Channels (for Following) you want to include and select the 10 most popular services to show up on initial hover.
 * We also support <a href="http://www.e-mailit.com/bookmarklet.html">sharing toolbar</a>, in any browser.
 
-
 **Other Products**  
+
 E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a E-MAILiT Promotions Beta Publisher at support@e-mailit.com! Contact us to learn more.
 
 <a href="http://www.e-mailit.com/widget/login">Sign In or Register</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
