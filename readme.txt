@@ -1,4 +1,4 @@
-==== Share Buttons and Social Data Metrics by E-MAILiT ====
+==== Share Buttons and Data Metrics by E-MAILiT ====
 Contributors: skallonis, e-mailit
 Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer
 
@@ -13,6 +13,7 @@ E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, 
 **Empower your Content Distribution with E-MAILiT!**
 
 **E-MAILiT Facts & Resources**
+
 * By registering to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media Follow Channels.
 * Connected with the most popular social networking and bookmarking sites (including Twitter, Facebook, Google+ and Pinterest), to let your visitors share your content.
 * Measurable Sharing Events embedded in your Google Analytics acount.
@@ -28,6 +29,7 @@ E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, 
 * We also support sharing toolbar, in any browser.
 
 **Other Products**
+
 E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a E-MAILiT Promotions Beta Publisher at support@e-mailit.com! Contact us to learn more.
 
 <a href="http://www.e-mailit.com/widget/login">Sign In or Register</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
