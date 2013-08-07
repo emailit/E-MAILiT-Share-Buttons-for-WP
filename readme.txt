@@ -37,7 +37,7 @@ E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a E-MA
 
 <a href="http://twitter.com/emailit">Follow us on Twitter</a>
 
-(c) 2013 E-MAILiT. All Rights Reserved. GR Patent Number 6,437.
+(c) 2013 E-MAILiT. All Rights Reserved. GR Patent Number 6,437
 
 == Installation ==
 
