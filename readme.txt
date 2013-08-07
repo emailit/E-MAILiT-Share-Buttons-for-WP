@@ -109,14 +109,27 @@ Press Save Changes.
 If you need technical help not found on the site email us at support@e-mailit.com
 
 == Screenshots ==
-01. An analytics module comes with E-MAILiT for tracking user shares and more (1) 
-02. An analytics module comes with E-MAILiT for tracking user shares and more (2) 
-03. The share widget's options can all be edited from the WP backend panel
-04. E-MAILiT buttons can be displayed in various ways. You have the option to use small buttons in content or sidebar, add share counters or hovering/floating bars, making it easier for your users to share. It's always in view, even when your users scroll up and down the page.
-05. The style and look of E-MAILiT buttons can be customized from the backend (registered version)
-06. Screenshot of your button customization (1) (registered version)
-07. Screenshot of your button customization (2) (registered version)
-08. Screenshot of your button customization (3) (registered version)
+01. Choose where to position our sharing tools
+02. Choose where to position our sharing tools
+03. Choose where to position our sharing tools
+04. Choose where to position our sharing tools
+05. Your E-MAILiT's account Dashboard
+06. Add a new domain
+07. Domain Manager
+08. Edit a domain
+09. Create a button for a website
+10. Customize your button
+11. Customize your button
+12. Preview your customized button
+13. Create your ad campaign
+14. Preview your button
+15. Email form
+16. Post to WordPress
+17. Button Manager
+18. Your Button ID
+19. Your Domain Verification Publisher Key
+20. Your Analytics
+21. E-MAILiT in your language
 
 == Changelog ==
 = 1.9 =
