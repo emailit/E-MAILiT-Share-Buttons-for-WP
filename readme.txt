@@ -7,7 +7,7 @@ Tested up to: 3.6
 Stable tag: 1.9
 License: GPLv2 or later
 
-E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit.
+E-MAILiT is the safest way (no ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and monetize.
 
 == Description ==
 **Broadcast your Content Distribution with E-MAILiT!**
