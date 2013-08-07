@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.6
-Stable tag: 1.9
+Stable tag: 2.0
 License: GPLv2 or later
 
 E-MAILiT is the safest way (no ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and monetize.
@@ -135,6 +135,8 @@ If you need technical help not found on the site email us at support@e-mailit.co
 21. E-MAILiT in your language
 
 == Changelog ==
+= 2.0 =
+* Add alert check validation to Domain Verification Publisher Key text box, at WordPress frontend Admin panel / E-MAILiT Settings.
 = 1.9 =
 * Show 3rd party share counter buttons in Sidebar. Done.
 * WordPress frontend Admin panel, re-designed.

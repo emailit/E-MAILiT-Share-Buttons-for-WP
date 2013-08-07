@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit. Over 10,000 Publishers use E-MAILiT to share over 7,000 times/month in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels, with over 4.7 million visitors and 8.6 million views in total, localized in 75 languages and access to various tracking reports, keep their audience engaged in the promoted content, know how is being shared over the web and get more traffic back to their site.
   Author: E-MAILiT
-  Version: 1.9
+  Version: 2.0
   Author URI: http://www.e-mailit.com
  */
 
@@ -76,9 +76,18 @@ function emailit_settings_page() {
                     button_id.style.display = 'none';
                 }
             }
+            
+            function validate(){
+                emailit_domain_verification = document.getElementById('emailit_domain_verification'); 
+                if(emailit_domain_verification.value != "" && emailit_domain_verification.value.substr(0, 9) != "E-MAILiT_"){
+                    alert("Error! Paste not valid. Domain Verification Publisher Key, always starts with 'E-MAILiT_'");
+                    return false;
+                }
+                return true;
+            }
         </script>
         <h2><img src="<?php echo plugins_url('images/logo.png', __FILE__) ?>"/></h2>
-        <form id="emailit_options" action="options.php" method="post">
+        <form onsubmit="return validate()" id="emailit_options" action="options.php" method="post">
 
             <?php
             settings_fields('emailit_options');
