@@ -10,7 +10,7 @@ License: GPLv2 or later
 E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and make profit.
 
 == Description ==
-**Empower your Content Distribution with E-MAILiT!**
+**Broadcast your Content Distribution with E-MAILiT!**
 
 **Facts & Resources**  
 
@@ -36,6 +36,9 @@ E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a E-MA
 <a href="http://www.e-mailit.com/solutions.html">Check out the sharing buttons</a> | <a href="http://www.e-mailit.com/sample/adunit.html">Open a sample ad unit page preview</a>
 
 <a href="http://twitter.com/emailit">Follow us on Twitter</a>
+
+
+(c) 2008 - 2013 E-MAILiT.  All Rights Reserved. GR Patent Number 6,437.
 
 == Installation ==
 
