@@ -29,7 +29,7 @@ E-MAILiT is the safest way (no ad tracking cookies) to boost your traffic, to ge
 * We also support <a href="http://www.e-mailit.com/bookmarklet.html">**Sharing Toolbar**</a>, in any browser.
 
 **Other Products**   
-E-MAILiT Promotions Beta - UNRELEASED.
+E-MAILiT Promotions Beta - UNRELEASED.   
 Send us an email if you want to be a **E-MAILiT Promotions Beta Publisher** at support@e-mailit.com! Contact us to learn more.
 
 <a href="http://www.e-mailit.com/widget/login">**Sign In or Register**</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
