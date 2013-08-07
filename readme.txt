@@ -14,24 +14,24 @@ E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, 
 
 **Facts & Resources**  
 
-* By <a href="http://www.e-mailit.com/widget/register">registering</a> to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media Follow Channels. 
-* Connected with the most popular social networking and bookmarking sites (including Twitter, Facebook, Google+, LinkedIn and Pinterest), to let your visitors share your content. 
+* By <a href="http://www.e-mailit.com/widget/register">**registering**</a> to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media **Follow Channels** (**Facebook**, **Twitter**, **LinkedIn** for Companies, **Google+**, **Pinterest**, **RSS Feed**). 
+* Connected with the most popular **social networking** and **bookmarking sites** (including **Twitter**, **Facebook**, **Google+**, **LinkedIn** and **Pinterest**), to let your visitors share your content. 
 * Measurable Sharing Events embedded in your Google Analytics acount. 
 * Embedded Advertisement inside the E-MAILiT sharing button. 
 * You can fully customize the -unlimited- button(s): Change the in-text, colors and button position on page based on your willingness and website/brand favorite colors. 
 * Available in 75 languages. 
 * Fast performance - Script loading (async) as measured **91%** on <a href="http://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/demos/demo1.html">Google PageSpeed Insights</a>. 
-* Use small E-MAILiT buttons in content and share counters. Add Toolbox options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons.
+* Use small E-MAILiT buttons in content and share counters. Add **Toolbox** options for Facebook, Twitter, Google+, Pinterest and LinkedIn Horizontal Share Counter Buttons.
 * Also available, hovering/floating bar share buttons (it's always in view, even when your users scroll up and down the page).
 * Install E-MAILiT WordPress plugin and access to various tracking reports, keep your audience engaged in the promoted content, know how is being shared over the web and get more traffic back to your site.
-* Create your own unlimited advertising campaigns, using our customized Advertising Generator) inside the E-MAILiT share menu, target your sharers and make profit, using our unobtrusive and small button.
-* Customize, arrange and prioritize which Services (for Sharing) and Channels (for Following) you want to include and select the 10 most popular services to show up on initial hover.
+* Create your own unlimited **advertising campaigns**, using our customized Advertising Generator) inside the E-MAILiT share menu, target your sharers and make profit, using our unobtrusive and small button.
+* Customize, arrange and prioritize which Services (for **Sharing**) and Channels (for **Following**) you want to include and select the 10 most popular services to show up on initial hover.
 * We also support <a href="http://www.e-mailit.com/bookmarklet.html">**Sharing Toolbar**</a>, in any browser.
 
 **Other Products**   
-E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a E-MAILiT Promotions Beta Publisher at support@e-mailit.com! Contact us to learn more.
+E-MAILiT Promotions Beta - UNRELEASED. Send us an email if you want to be a **E-MAILiT Promotions Beta Publisher** at support@e-mailit.com! Contact us to learn more.
 
-<a href="http://www.e-mailit.com/widget/login">Sign In or Register</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
+<a href="http://www.e-mailit.com/widget/login">**Sign In or Register**</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
 <a href="http://www.e-mailit.com/solutions.html">Check out the sharing buttons</a> | <a href="http://www.e-mailit.com/sample/adunit.html">Open a sample ad unit page preview</a>
 
