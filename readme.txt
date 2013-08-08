@@ -12,7 +12,7 @@ E-MAILiT is the safest way (no ad tracking cookies) to boost your traffic, to ge
 == Description ==
 **Broadcast your Content Distribution with E-MAILiT!**
 
-**Facts & Resources**  
+**Facts & Resources**   
 
 * By <a href="http://www.e-mailit.com/widget/register">**registering**</a> to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media **Follow Channels** (**Facebook**, **Twitter**, **LinkedIn** for Companies, **Google+**, **Pinterest**, **RSS Feed**). 
 * Connected with the most popular **social networking** and **bookmarking sites** (including **Twitter**, **Facebook**, **Google+**, **LinkedIn**, **Reddit**, **StumbleUpon** and **Pinterest**), to let your visitors share your content. 
