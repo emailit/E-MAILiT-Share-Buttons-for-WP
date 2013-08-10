@@ -7,7 +7,7 @@ Tested up to: 3.6
 Stable tag: 2.0
 License: GPLv2 or later
 
-E-MAILiT is the safest way (no ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and monetize.
+Social Buttons, for share, bookmark, follow, email, monetize (targeting your sharers), including Facebook, Twitter, Pinterest, Google+ and LinkedIn.
 
 == Description ==
 **Broadcast your Content Distribution with E-MAILiT!**
@@ -29,8 +29,8 @@ E-MAILiT is the safest way (no ad tracking cookies) to boost your traffic, to ge
 * We also support <a href="http://www.e-mailit.com/bookmarklet.html">**Sharing Toolbar**</a>, in any browser.
 
 **Other Products**   
-E-MAILiT Promotions Beta - UNRELEASED
-Send us an email if you want to be a **E-MAILiT Promotions Beta Publisher** at support@e-mailit.com! Contact us to learn more.
+E-MAILiT Login Ads Beta (UNRELEASED)
+Send us an email if you want to be a **E-MAILiT Login Ads Beta Publisher** at support@e-mailit.com! Contact us to learn more.
 
 <a href="http://www.e-mailit.com/widget/login">**Sign In or Register**</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
