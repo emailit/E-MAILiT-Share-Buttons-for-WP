@@ -34,11 +34,11 @@ E-MAILiT Login Ads Beta (UNRELEASED)
 
 <a href="http://www.e-mailit.com/widget/login">**Sign In** or **Create Account**</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
-<a href="http://www.e-mailit.com/solutions.html">Check out the sharing buttons</a> | <a href="http://www.e-mailit.com/sample/adunit.html">Open a sample ad unit page preview</a>
+<a href="http://www.e-mailit.com/solutions.html">Check out the sharing buttons</a>
+
+<a href="http://www.e-mailit.com/sample/adunit.html">Open a sample ad unit page preview</a>
 
 <a href="http://twitter.com/emailit">Follow us on Twitter</a>
-
-(c) 2013 E-MAILiT. All Rights Reserved. GR Patent Number 6,437
 
 == Installation ==
 
