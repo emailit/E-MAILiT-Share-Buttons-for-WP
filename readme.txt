@@ -30,7 +30,7 @@ Social Buttons, for share, bookmark, follow, email, monetize (targeting your sha
 
 **Other Products**   
 E-MAILiT Login Ads Beta (UNRELEASED)
-Send us an email if you want to be a **E-MAILiT Login Ads Beta Publisher** at support@e-mailit.com! Contact us to learn more.
+<a href="mailto:support@e-mailit.com">**Send us an email**</a> if you want to be a **E-MAILiT Login Ads Beta Publisher**
 
 <a href="http://www.e-mailit.com/widget/login">**Sign In** or **Create Account**</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
