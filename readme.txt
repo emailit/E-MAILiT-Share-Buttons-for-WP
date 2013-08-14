@@ -10,7 +10,7 @@ License: GPLv2 or later
 Social Buttons, for share, bookmark, follow, email, monetize (targeting your sharers), including Facebook, Twitter, Pinterest, Google+ and LinkedIn.
 
 == Description ==
-**Broadcast your Content Distribution with E-MAILiT** 
+**Broadcast your Content Distribution with E-MAILiT**
 
 **Facts & Resources** 
 
