@@ -7,14 +7,12 @@ Tested up to: 3.6
 Stable tag: 2.0
 License: GPLv2 or later
 
-Social Buttons, for share, bookmark, follow, email, monetize (targeting your sharers), including Facebook, Twitter, Pinterest, Google+ and LinkedIn.
+E-MAILiT Share Buttons help your visitors easily share, bookmark and email your pages and content using any service.
 
 == Description ==
-**Broadcast your Content Distribution with E-MAILiT**
 
-**Facts & Resources** 
+By <a href="http://www.e-mailit.com/widget/register">**Creating an Account**</a> to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media **Follow Channels**. 
 
-* By <a href="http://www.e-mailit.com/widget/register">**Creating an Account**</a> to our platform you take advantage of our full security features and take access on your social media followers by enabling your social media **Follow Channels**. 
 * Connected with the most popular **social networking** and **bookmarking sites** (including **Twitter**, **Facebook**, **Google+**, **LinkedIn**, **Reddit**, **StumbleUpon** and **Pinterest**), to let your visitors share your content. 
 * Measurable Sharing Events embedded in your Google Analytics acount. 
 * Embedded Advertisement inside the E-MAILiT sharing button. 
