@@ -4,20 +4,26 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.6
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 
 E-MAILiT Share Buttons help your visitors easily share, bookmark and email your pages and content using any service.
 
 == Description ==
 
-E-MAILiT is the safest way (without ad tracking cookies) to boost your traffic, to get more followers, to target your sharers and earn instant revenue (transforming a share button to a complete monetization tool). Use E-MAILiT to share in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels in 75 languages. Keep your audience engaged in the promoted content and get more traffic back to your site. And the best of all: our Support Team is trying very hard every single day to give the maximum quality of support to our users/publishers, without of thinking the time cost consuming or anything else. Small or Big Publisher accounts, they have the same treating from us.
+E-MAILiT Share platform is the safest way (without using online behavioral advertising practices) to boost your traffic, to get more followers, to target your sharers and earn instant revenue (transforming a share button to a complete monetization tool). Use E-MAILiT to share in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels in 75 languages. Keep your audience engaged in the promoted content and get more traffic back to your site. Buttons contain a searchable menu of every applicable service, with the most popular displayed by default.
+
+Launched in early June 2008, E-MAILiT has been used on MTV, PC World, Favoritus Bookmarks, and many more websites and blogs. New products, services and features are constantly added and updated.
+
+Our Support Team is trying very hard every single day to give the maximum quality of support to our users/publishers, without of thinking the time cost consuming or anything else. Small or Big Publisher accounts, they have the same treating from us.
 
 Optionally, <a href="http://www.e-mailit.com/widget/login">sign in or create an account</a> with us to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics. 
 
 Soon, we will release E-MAILiT Login Ads Beta. <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a **E-MAILiT Login Ads Beta Publisher**.
 
-<a href="http://twitter.com/emailit">Follow us on Twitter</a> | <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
+If you have a question, you can tweet at <a href="http://twitter.com/emailit">@emailit</a>, or email support@e-mailit.com
+
+<a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
 <a href="http://www.e-mailit.com/solutions.html">Check out the sharing buttons</a>
 
@@ -116,6 +122,8 @@ If you need technical help not found on the site email us at support@e-mailit.co
 21. E-MAILiT in your language
 
 == Changelog ==
+= 2.1 =
+* Conflict occured when Twitter tools already installed on page, resolved.
 = 2.0 =
 * Add alert check validation to Domain Verification Publisher Key text box, at WordPress Admin panel / E-MAILiT Settings.
 = 1.9 =
@@ -126,9 +134,9 @@ If you need technical help not found on the site email us at support@e-mailit.co
 * UX changes in internal admin system.
 * Bug Fixes.
 = 1.7 =
-* Social Services icons, re-designed
+* Social Services icons, re-designed.
 * Follow Channel Flickr replaced with Pinterest.
-* Follow Channel LinkedIn, for personal profiles, replaced with LinkedIn for companies
+* Follow Channel LinkedIn, for personal profiles, replaced with LinkedIn for companies.
 = 1.6 = 
 * Bug Fixes.
 * CSS and menu style appearance, resolved. Compatibility issues repaired in a variety of websites, with special meta charset, also containing numerous third party js tools.
