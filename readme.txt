@@ -11,17 +11,17 @@ E-MAILiT Share Buttons help your visitors easily share, bookmark and email your 
 
 == Description ==
 
-E-MAILiT Share platform is the safest way (without using online behavioral advertising practices) to boost your traffic, to get more followers, to target your sharers and earn instant revenue (transforming a share button to a complete monetization tool). Use E-MAILiT to share in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels in 75 languages. Keep your audience engaged in the promoted content and get more traffic back to your site. Buttons contain a searchable menu of every applicable service, with the most popular displayed by default.
+E-MAILiT Share platform is the safest way (**without using online behavioral advertising practices**) to boost your traffic, to get more followers, to target your sharers and earn instant revenue (transforming a share button to a complete monetization tool). Use E-MAILiT to share in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels in 75 languages. Keep your audience engaged in the promoted content and get more traffic back to your site. Buttons contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-Launched in early June 2008, E-MAILiT has been used on MTV, PC World, Favoritus Bookmarks, and many more websites and blogs. New products, services and features are constantly added and updated.
+Launched in early June 2008, E-MAILiT has been used on **MTV**, **PC World**, **Favoritus Bookmarks**, and many more websites and blogs. New products, services and features are constantly added and updated.
 
-Our Support Team is trying very hard every single day to give the maximum quality of support to our users/publishers, without of thinking the time cost consuming or anything else. Small or Big Publisher accounts, they have the same treating from us.
+Our Support Team is trying very hard every single day to give the maximum quality of support to our users/publishers, without of thinking the time cost consuming or anything else. **Small or Big Publisher accounts, they have the same treating from us**.
 
-Optionally, <a href="http://www.e-mailit.com/widget/login">sign in or create an account</a> with us to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics. 
+Optionally, <a href="http://www.e-mailit.com/widget/login">**sign in or create an account**</a> with us to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics. 
 
-Soon, we will release E-MAILiT Login Ads Beta. <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a **E-MAILiT Login Ads Beta Publisher**.
+Soon, we will release **E-MAILiT Login Ads Beta**. <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
 
-If you have a question, you can tweet at <a href="http://twitter.com/emailit">@emailit</a>, or email support@e-mailit.com
+If you have a question, you can **tweet at <a href="http://twitter.com/emailit">@emailit</a>**, or email support@e-mailit.com
 
 <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
