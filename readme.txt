@@ -21,7 +21,7 @@ Optionally, <a href="http://www.e-mailit.com/widget/login">**sign in or create a
 
 Soon, we will release **E-MAILiT Login Ads Beta**. <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
 
-If you have a question, you can **tweet at <a href="http://twitter.com/emailit">@emailit</a>**, or email support@e-mailit.com
+If you have a question, you can **tweet at** <a href="http://twitter.com/emailit">**@emailit**</a>, or email support@e-mailit.com
 
 <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
