@@ -25,7 +25,7 @@ If you have a question, you can **tweet at** <a href="http://twitter.com/emailit
 
 <a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
 
-<a href="http://www.e-mailit.com/solutions.html">Check out the sharing buttons</a>
+<a href="http://www.e-mailit.com/solutions.html">Demos</a>
 
 == Installation ==
 
