@@ -19,7 +19,7 @@ Our Support Team is trying very hard every single day to give the maximum qualit
 
 Optionally, <a href="http://www.e-mailit.com/widget/login">**sign in or create an account**</a> with us to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics. 
 
-Soon, we will release **E-MAILiT Login Ads Beta**. <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
+Soon, we will release E-MAILiT Login Ads Beta. <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
 
 If you have a question, you can **tweet at** <a href="http://twitter.com/emailit">**@emailit**</a>, or email support@e-mailit.com
 
