@@ -11,7 +11,7 @@ E-MAILiT Share Buttons help your visitors easily share, bookmark and email your 
 
 == Description ==  
 
-E-MAILiT Share platform is the safest way (**without using online behavioral advertising practices**) to boost your traffic, to get more followers, to target your sharers and earn instant revenue (transforming a share button to a complete monetization tool). Use E-MAILiT to share in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels in 75 languages. Keep your audience engaged in the promoted content and get more traffic back to your site. Buttons contain a searchable menu of every applicable service, with the most popular displayed by default.
+E-MAILiT Share platform is the safest way (**without using online behavioral advertising practices**) to boost your traffic, to get more followers, to target your sharers and earn instant revenue (transforming a share button to a complete monetization tool). Use E-MAILiT to share in Facebook, Twitter, Google+, Gmail, Pinterest, LinkedIn, StumbleUpon, Blogger, Tumblr and more social channels in **75 languages**. Keep your audience engaged in the promoted content and get more traffic back to your site. Buttons contain a searchable menu of every applicable service, with the most popular displayed by default.
 
 Launched in early June 2008, E-MAILiT has been used on **MTV**, **PC World**, **Favoritus Bookmarks**, and many more websites and blogs. New products, services and features are constantly added and updated.
 
