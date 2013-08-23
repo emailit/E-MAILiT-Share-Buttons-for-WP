@@ -15,7 +15,7 @@ E-MAILiT Share platform is the safest way (**without using online behavioral adv
 
 Launched in early June 2008, E-MAILiT has been used on **MTV**, **PC World**, **Favoritus Bookmarks**, and many more websites and blogs. New products, services and features are constantly added and updated.
 
-Our Support Team is trying hard each day to give the maximum quality of support to our users/publishers, without of thinking the time cost consuming or anything else. **Small or Big Publisher accounts, they have the same treating from us**.
+Our Support Team is trying hard every day to give the maximum quality of support to our users/publishers, without of thinking the time cost consuming or anything else. **Small or Big Publisher accounts, they have the same treating from us**.
 
 Optionally, <a href="http://www.e-mailit.com/widget/login">**Sign In or Create Account**</a> with us to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics. 
 
