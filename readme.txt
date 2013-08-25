@@ -22,13 +22,13 @@ New products, services and features are constantly added and updated (currently,
 
 Soon, we will release **E-MAILiT Login Ads Beta** 
 
-* Used in 163 countries, operating in a global market. 
-* Over 20K publishers to date and growing. 
-* 30K button share menu widget displays per month and growing. 
-* 2K new users per week and growing. 
-* 75 languages. 
-* 65% new visits per month, every month and growing. 
-* Over 4.7 million visitors and 8.6 million views in total.
+* Used in 163 countries, operating in a global market
+* Over 20K publishers to date and growing
+* 30K button share menu widget displays per month and growing
+* 2K new users per week and growing
+* 75 languages
+* 65% new visits per month, every month and growing
+* Over 4.7 million visitors and 8.6 million views in total
 
 <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
 
