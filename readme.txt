@@ -20,14 +20,16 @@ Launched in early June 2008, E-MAILiT has been used on MTV, PC World, and many m
 
 New products, services and features are constantly added and updated (currently, we are going to release the new design-refreshed website and blog, the mobile-ready version of the share button, an android app and many more features).
 
-Soon, we will release E-MAILiT Login Ads Beta.
-+ Used in 163 countries, operating in a global market. 
-+ Over 20K publishers to date and growing. 
-+ 30K button share menu widget displays per month and growing. 
-+ 2K new users per week and growing. 
-+ 75 languages. 
-+ 65% new visits per month, every month and growing. 
-+ Over 4.7 million visitors and 8.6 million views in total.
+Soon, we will release **E-MAILiT Login Ads Beta** 
+
+* Used in 163 countries, operating in a global market. 
+* Over 20K publishers to date and growing. 
+* 30K button share menu widget displays per month and growing. 
+* 2K new users per week and growing. 
+* 75 languages. 
+* 65% new visits per month, every month and growing. 
+* Over 4.7 million visitors and 8.6 million views in total.
+
 <a href="mailto:support@e-mailit.com">Send us an email</a> if you want to be a E-MAILiT Login Ads Beta Publisher.
 
 If you have a question, you can tweet at <a href="http://twitter.com/emailit">@emailit</a>, or email support@e-mailit.com
