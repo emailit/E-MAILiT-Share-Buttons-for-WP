@@ -30,7 +30,7 @@ New products, services and features are constantly added and updated (currently,
 * 65% new visits per month, every month and growing
 * Over 4.7 million visitors and 8.6 million views in total
 
-We've just released Login Ads in open beta! Contact us to learn more.
+We've just released **Login Ads** in open beta! Contact us to learn more.
 As we enter into the Beta phase of our product, we hope that you can provide feedback and work with us on new E-MAILiT Promotions features.
 
 If you have a question, you can tweet at <a href="http://twitter.com/emailit">@emailit</a>, or email support@e-mailit.com
