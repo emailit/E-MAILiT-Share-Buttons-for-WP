@@ -14,7 +14,8 @@ E-MAILiT Share Buttons help your visitors easily share, bookmark and email your 
 Share, bookmark, email, follow and monetize a content, with E-MAILiT Share Buttons, in your WordPress-powered website or blog.
 Increase site traffic and engagement with the simplest, privacy safe (without using online behavioral advertising practices), most complete social sharing tool in the web. The Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics, <a href="http://www.e-mailit.com/widget/login">**Sign In / Create Account**</a>.
+Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,
+<a href="http://www.e-mailit.com/widget/login">**Sign In / Create Account**</a>
 
 Launched in early June 2008, E-MAILiT has been used on MTV, PC World, and many more websites and blogs.
 New products, services and features are constantly added and updated (currently, we are going to release the new design-refreshed website and blog, the mobile-ready version of the share button, an android app and many more features).
