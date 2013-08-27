@@ -22,14 +22,6 @@ New products, services and features are constantly added and updated (currently,
 
 <a href="http://www.e-mailit.com/widget/login">**Login Ads Beta**</a> **- Released on August 26, 2013** 
 
-* Used in 163 countries, operating in a global market
-* Over 20K publishers to date and growing
-* 30K button share menu widget displays per month and growing
-* 2K new users per week and growing
-* 75 languages
-* 65% new visits per month, every month and growing
-* Over 4.7 million visitors and 8.6 million views in total
-
 We've just released Login Ads in open beta! Contact us to learn more.
 As we enter into the Beta phase of our product, we hope that you can provide feedback and work with us on new E-MAILiT Promotions features.
 
