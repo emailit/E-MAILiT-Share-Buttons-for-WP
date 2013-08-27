@@ -17,11 +17,9 @@ Increase site traffic and engagement with the simplest, privacy safe (without us
 Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics, <a href="http://www.e-mailit.com/widget/login">**Sign In / Create Account**</a>.
 
 Launched in early June 2008, E-MAILiT has been used on MTV, PC World, and many more websites and blogs.
-
 New products, services and features are constantly added and updated (currently, we are going to release the new design-refreshed website and blog, the mobile-ready version of the share button, an android app and many more features).
 
-<a href="http://www.e-mailit.com/widget/login">**Login Ads Beta**</a> **- Released on August 26, 2013** 
-
+<a href="http://www.e-mailit.com/widget/login">**Login Ads Beta**</a> **- Released on August 26, 2013**
 We've just released Login Ads in open beta! Contact us to learn more.
 As we enter into the Beta phase of our product, we hope that you can provide feedback and work with us on new E-MAILiT Promotions features.
 
