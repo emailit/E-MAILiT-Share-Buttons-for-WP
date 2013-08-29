@@ -9,7 +9,7 @@ License: GPLv2 or later
 
 E-MAILiT Share Buttons help your visitors easily share, bookmark and email your pages and content using any service.
 
-== Description == 
+== Description ==
 
 Share, bookmark, email, follow and monetize a content, with E-MAILiT Share Buttons, in your WordPress-powered website or blog.
 Increase site traffic and engagement with the simplest, privacy safe (without using online behavioral advertising practices), most complete social sharing tool in the web. The Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
