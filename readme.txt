@@ -7,27 +7,19 @@ Tested up to: 3.6
 Stable tag: 2.1
 License: GPLv2 or later 
 
-E-MAILiT Share Buttons help your visitors easily share, bookmark and email your pages and content using any service.
+Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions.
 
 == Description == 
 
-Share, bookmark, email, follow and monetize a content, with E-MAILiT Share Buttons, in your WordPress-powered website or blog.
-Increase site traffic and engagement with the simplest, privacy safe (without using online behavioral advertising practices), most complete social sharing tool in the web. The Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
+The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.  
+<a href="http://www.e-mailit.com/demos/demo1.html">Live Preview</a>
 
-Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,
+Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
+<a href="http://www.e-mailit.com/widget/login">Sign In / Create Account</a>
 
-<a href="http://www.e-mailit.com/widget/login">**Sign In / Create Account**</a>
+If you have a question or want to see what other awesome features are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a> and <a href="http://facebook.com/emailitpage">Like us on Facebook</a>!
 
-Launched in early June 2008, E-MAILiT has been used on MTV, PC World, and many more websites and blogs. New products, services and features are constantly added and updated (currently, we are going to release the new design-refreshed website and blog, the mobile-ready version of the share button, an android app and many more features).
-
-<a href="http://www.e-mailit.com/widget/login">**Login Ads Beta**</a> **- Released on August 26, 2013**  
-We've just released Login Ads in open beta! Contact us to learn more.
-
-If you have a question, you can tweet at <a href="http://twitter.com/emailit">@emailit</a>, or email support@e-mailit.com
-
-<a href="http://www.e-mailit.com/tos.html">We Do Not Track You</a>
-
-<a href="http://www.e-mailit.com/solutions.html">Live Preview</a>
+<a href="http://www.e-mailit.com/tos">We Do Not Track You</a>. We don't use online behavioral advertising practices.
 
 == Installation ==
 
