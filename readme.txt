@@ -17,7 +17,7 @@ The E-MAILiT Share Buttons, contain a searchable menu of every applicable servic
 Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
 <a href="http://www.e-mailit.com/widget/login">Sign In / Create Account</a>
 
-If you have a question or want to see what other awesome features are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a> and <a href="http://facebook.com/emailitpage">Like us on Facebook</a>!
+If you have a question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a> and <a href="http://facebook.com/emailitpage">Like us on Facebook</a>!
 
 <a href="http://www.e-mailit.com/tos">We Do Not Track You</a>. We don't use online behavioral advertising practices.
 
@@ -35,7 +35,7 @@ Automatic installation through WordPress:
 
 Manual installation:
 
-1. Download here: http://wordpress.org/extend/plugins/e-mailit and unarchive the plugin folder.
+1. Download here: http://wordpress.org/plugins/e-mailit and unarchive the plugin folder.
 2. Upload the E-MAILiT folder to the '/wp-content/plugins/' directory.
 3. Go to your Wordpress dashboard and navigate to Plugins -> Installed Plugins.
 4. On the Plugin page in your WordPress Administration area, activate the E-MAILiT plugin.
@@ -80,8 +80,10 @@ Metrics, such as clicks / leads / sales or actions are collected by the ad unit 
 
 <h4>How to verify a domain?</h4>
 
-1. Login with your E-MAILiT account: http://www.e-mailit.com/widget/login
-2. Add a new domain (your website url): http://www.e-mailit.com/widget/control/add_domain
+1. Login with your E-MAILiT account:
+http://www.e-mailit.com/widget/login
+2. Add a new domain (your website url):
+http://www.e-mailit.com/widget/control/add_domain
 3. When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:                 
 &lt;meta name="e-mailit-site-verification" content="**E-MAILiT_0123456789012345678**" /&gt;
