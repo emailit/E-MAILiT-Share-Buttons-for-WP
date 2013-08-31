@@ -82,7 +82,7 @@ Metrics, such as clicks / leads / sales or actions are collected by the ad unit 
 
 1. Login with your E-MAILiT account:
 http://www.e-mailit.com/widget/login
-2. Add a new domain (your website url):
+2. Add a new domain (your site url):
 http://www.e-mailit.com/widget/control/add_domain
 3. When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:                 
