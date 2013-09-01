@@ -7,17 +7,34 @@ Tested up to: 3.6
 Stable tag: 2.1
 License: GPLv2 or later 
 
-Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions.
+Help your visitors easily share, bookmark and email your pages and content using any service.
 
 == Description == 
 
+Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions.  
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.  
-<a href="http://www.e-mailit.com/demos/demo1.html">Live Preview</a>
+<a href="http://www.e-mailit.com/demos/demo1.html">Share Button</a> (demo)
 
-Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
+3rd party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button** and **Pinterest Share Button**.
+
+* Achieve boost of your site's traffic, easy content distribution, better rankings, extended reach, Analytics included  
+* 75 languages automatically localized  
+* We protect your E-MAILiT domain registration with our automated verification system  
+* Well-engineered code will not slow or block your website pages from loading  
+* Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content  
+* Google Page Speed Insight Compliant / Optimized, and measured 91%  
+* Small share counter buttons in content  
+* Hovering/floating bar share counter buttons available (it's always in view, even when your users scroll up and down the page)  
+* Customizable and Light-weight code  
+* One account = Unlimited domain registrations, buttons and campaigns  
+* Avoid clutter and save space from your website's canvas (all-inclusive service)  
+
+If you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
 <a href="http://www.e-mailit.com/widget/login">Sign In / Create Account</a>
 
 If you have a question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a> and <a href="http://facebook.com/emailitpage">Like us on Facebook</a>!
+
+<a href="http://www.e-mailit.com/share/bm_share.php?url=http://wordpress.org/plugins/e-mailit/">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
 
 <a href="http://www.e-mailit.com/tos">We Do Not Track You</a>. We don't use online behavioral advertising practices.
 
