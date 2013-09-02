@@ -7,11 +7,16 @@ Tested up to: 3.6
 Stable tag: 2.1
 License: GPLv2 or later 
 
-Help your visitors easily share, bookmark and email your pages and content using any service.
+Share buttons help visitors to share, bookmark and email your content using Facebook, Twitter, Pinterest and more.
 
 == Description == 
 
-Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions.  
+**Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions**.
+
+Install the E-MAILiT WordPress plugin and get more traffic back to your site.
+
+Choose from to 60 social channels, including Facebook, Twitter, LinkedIn, and Pinterest.
+
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.  
 
 <a href="http://www.e-mailit.com/demos/demo1.html">Share Button</a> (demo)
