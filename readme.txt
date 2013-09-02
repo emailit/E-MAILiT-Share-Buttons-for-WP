@@ -7,7 +7,7 @@ Tested up to: 3.6
 Stable tag: 2.1
 License: GPLv2 or later
 
-Share buttons help visitors to share, bookmark and email your content using Facebook, Twitter, Pinterest and more.
+Help visitors to share, bookmark and email your content in Facebook, Twitter and more, without using online behavioral advertising practices.
 
 == Description == 
 
@@ -41,7 +41,7 @@ If you have a question or want to see what other awesome features we are buildin
 
 <a href="http://www.e-mailit.com/share/bm_share.php?url=http://wordpress.org/plugins/e-mailit/">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
 
-<a href="http://www.e-mailit.com/tos">We Do Not Track You</a>. We don't use online behavioral advertising practices.
+<a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
 
 == Installation ==
 
