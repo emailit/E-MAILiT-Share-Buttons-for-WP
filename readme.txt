@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.6
 Stable tag: 2.1
-License: GPLv2 or later
+License: GPLv2 or later 
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, without using online behavioral advertising practices.
 
