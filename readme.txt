@@ -31,7 +31,7 @@ The E-MAILiT Share Buttons, contain a searchable menu of every applicable servic
 * Small share counter buttons in content  
 * Hovering / floating bar share counter buttons available (it's always in view, even when your users scroll up and down the page)  
 * Customizable and Light-weight code  
-* One account = Unlimited domain registrations, buttons and campaigns  
+* One account > Unlimited domain registrations, buttons and campaigns  
 * Avoid clutter and save space from your website's canvas (all-inclusive service)  
 
 If you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
