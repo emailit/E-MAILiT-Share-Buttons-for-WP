@@ -19,7 +19,7 @@ Choose from to 60 social channels, including Facebook, Twitter, LinkedIn, and Pi
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.  
 
-<a href="http://www.e-mailit.com/demos/demo1.html">Share Button</a> (demo)
+<a href="http://www.e-mailit.com/demos/demo1">Share Button</a> (demo)
 
 3rd party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button** and **Pinterest Share Button**.
 
