@@ -13,7 +13,7 @@ Help visitors to share, bookmark and email your content in Facebook, Twitter and
 
 **Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions**.
 
-Install the E-MAILiT WordPress Plugin and get more traffic back to your site.
+Install the E-MAILiT WordPress Plugin and get more traffic back to your site or blog.
 
 Choose from to 60 social channels, including Facebook, Twitter, LinkedIn, and Pinterest.
 
