@@ -9,7 +9,7 @@ License: GPLv2 or later
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, without using online behavioral advertising practices.
 
-== Description ==
+== Description == 
 
 **Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions**.
 
