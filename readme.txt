@@ -3,8 +3,8 @@ Contributors: skallonis, e-mailit
 Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer, links, admin
 
 Requires at least: 2.9
-Tested up to: 3.6
-Stable tag: 2.1
+Tested up to: 3.6.1
+Stable tag: 3.0
 License: GPLv2 or later 
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, without using online behavioral advertising practices.
@@ -140,6 +140,8 @@ If you need technical help not found on the site email us at support@e-mailit.co
 21. E-MAILiT in your language
 
 == Changelog ==
+= 3.0 =
+* Ηave the Share button appear after each post in the same page, and targeted to help people share each post.
 = 2.1 =
 * Conflict occured when Twitter tools already installed on page, resolved.
 = 2.0 =
