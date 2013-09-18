@@ -11,26 +11,38 @@ Help visitors to share, bookmark and email your content in Facebook, Twitter and
 
 == Description == 
 
-**Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading sharing tools, analytics, and media solutions**.
+**Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe(1), sharing tools, analytics, and media solutions. Install the E-MAILiT WordPress Plugin and get more traffic back to your website or blog**.
 
-Install the E-MAILiT WordPress Plugin and get more traffic back to your website or blog.
+(1)We Do Not Track You. We don't use cookies and technologies used to track you, what you do and what you click on, as you go from site to site, surfing the Web. Over time, this tactic can help make an online profile of you usually including the sites you visit, your searches, purchases, and other behavior. Your profile can then be exchanged and sold between various companies, as well as being sold to other advertisers and marketers.
 
-Choose from to 60 social channels, including Facebook, Twitter, LinkedIn, and Pinterest.
-
-The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.  
+The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default. Choose from to 60 social channels, including Facebook, Twitter, LinkedIn, and Pinterest.
 
 <a href="http://www.e-mailit.com/demos/demo1">Share Button</a> (demo)
 
-3rd party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button** and **Pinterest Share Button**.
+Share Buttons, Widget, Plugins, Analytics & Media Solutions (2) for publishers & advertisers.
 
-* Achieve boost of your site's traffic, easy content distribution, better rankings, extended reach, Analytics included  
+(2)<a href="http://blog.e-mailit.com/2013/09/why-show-ads.html">Why show ads?</a>
+
+Well-engineered and optimized code will not slow or block your website pages from loading.
+
+We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver content more efficiently to users.
+
+Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content.
+
+Google Page Speed Insight Compliant / Optimized.
+
+<a href="http://www.e-mailit.com/share/bm_share.php?url=http://wordpress.org/plugins/e-mailit/">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
+
+- E-MAILiT Share buttons are compact and can be placed in just a small space on your site
+- Use very light weight script which do not effect your site's loading speed
+- Beautiful and attractive design
+- Share anywhere and anytime on your mobile websites with E-MAILiT Mobile-ready auto-optimized share tool. <a href="http://www.e-mailit.com/features#mobile">Learn more</a>
+
+Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button** and **Pinterest Share Button**.
+
 * 75 languages automatically localized  
-* We protect your E-MAILiT domain registration with our automated verification system  
-* Well-engineered code will not slow or block your website pages from loading  
-* Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content  
 * Small share counter buttons in content  
 * Hovering/floating bar share counter buttons available (it's always in view, even when your users scroll up and down the page)  
-* Customizable and Light-weight code  
 * One account: Unlimited domain registrations, buttons and campaigns  
 * Avoid clutter and save space from your website's canvas (all-inclusive service)  
 
@@ -38,8 +50,6 @@ If you want to customize your sharing buttons, get access to targeted analytics 
 <a href="http://www.e-mailit.com/widget/login">Sign In / Create Account</a>
 
 If you have a question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a> and <a href="http://facebook.com/emailitpage">Like us on Facebook</a>!
-
-<a href="http://www.e-mailit.com/share/bm_share.php?url=http://wordpress.org/plugins/e-mailit/">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
 
 <a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
 
