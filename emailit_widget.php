@@ -160,7 +160,7 @@ function emailit_settings_page() {
             <br/>
             <p>
                 <div style="width:500px;border-top: solid 1px lightgray; padding: 5px"><br/><br/>
-                <a target="_blank" href="http://www.e-mailit.com/widget/register">Create Your Account To Access</a><br/>
+                <a target="_blank" href="http://www.e-mailit.com/widget/login">Create Your Account To Access</a><br/>
                 - Social Sharing Analytics &
                 Advertising Campaign Data Metrics,<br/>
                 - Custom Stylish Buttons (small buttons,

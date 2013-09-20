@@ -45,7 +45,7 @@ class EmailitSidebarWidget extends WP_Widget {
             <input class="checkbox" type="checkbox" <?php checked($linkedin_btn, 'on'); ?> id="<?php echo $this->get_field_id('linkedin_btn'); ?>" name="<?php echo $this->get_field_name('linkedin_btn'); ?>" />   
         </p>       
         <p>
-            <a target="_blank" href="http://www.e-mailit.com/widget/register">Create Your Account To Access</a><br/>
+            <a target="_blank" href="http://www.e-mailit.com/widget/login">Create Your Account To Access</a><br/>
             - Social Sharing Analytics &
             Advertising Campaign Data Metrics,<br/>
             - Custom Stylish Buttons (small buttons,
