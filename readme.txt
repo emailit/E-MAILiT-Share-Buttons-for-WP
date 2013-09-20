@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.6.1
-Stable tag: 3.0
+Stable tag: 3.1
 License: GPLv2 or later 
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, without using online behavioral advertising practices.
@@ -150,6 +150,8 @@ If you need technical help not found on the site email us at support@e-mailit.co
 21. E-MAILiT in your language
 
 == Changelog ==
+= 3.1 =
+* Introducing Mobile Sharing. Share anywhere and anytime on your websites with E-MAILiT Mobile-ready auto-optimized share tool, with automatic detection of device-type. If you are already have installed E-MAILiT on your site, you have nothing to worry about and you ensure that your visitors will share and access your content on multiple devices (PC, tablets and smartphones). The mobile widget will automatically show the mobile sharing layout.
 = 3.0 =
 * Ηave the Share button appear after each post in the same page, and targeted to help people share each post.
 = 2.1 =
