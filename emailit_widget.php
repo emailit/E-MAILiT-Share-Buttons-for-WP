@@ -93,7 +93,6 @@ function emailit_settings_page() {
             ?>
             <h2>Plugin options</h2>
             <p><strong>Use E-MAILiT Share buttons in content and sidebar (Widget)</strong><p>
-            <p><strong>Glopal options</strong><p>
             <table width="650px" >
             <tr><td width="300px" style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__)?>') no-repeat right;"><strong>Show E-MAILiT share counter:</strong></td>
                 <td>
