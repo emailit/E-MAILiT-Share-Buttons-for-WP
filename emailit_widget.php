@@ -139,7 +139,7 @@ function emailit_settings_page() {
 
                 </tbody>
             </table>
-            <div><br/><strong>Edit Sidebar (Widget) Settings:</strong>: Go to Appearance > Widgets > Main Sidebar > E-MAILiT Share</div>            
+            <div><br/><strong>Edit Sidebar (Widget) Settings:</strong> Go to Appearance > Widgets > Main Sidebar > E-MAILiT Share</div>            
             <br/>
             <p>
                 <div style="width:500px;border-top: solid 1px lightgray; padding: 5px"><br/><br/>
