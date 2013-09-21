@@ -93,14 +93,14 @@ function emailit_settings_page() {
             ?>
             <h2>Plugin options</h2>
             <p><strong>Use E-MAILiT Share buttons in content and sidebar (Widget)</strong><p>
-            <p><strong>Glopal options (content and sidebar widget)</strong><p>
+            <p><strong>Glopal options</strong><p>
             <table width="650px" >
             <tr><td width="300px" style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__)?>') no-repeat right;"><strong>Show E-MAILiT share counter:</strong></td>
                 <td>
                     <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options[display_counter] == true ? 'checked="checked"' : ''); ?>/>
                 </td>
             </tr>
-            <tr><td style="padding-bottom:20px"><strong>Twitter via:</strong></td><td style="padding-bottom:20px"><input placeholder="YourTwitterUsername" type="text" name="emailit_options[TwitterID]" value="<?php echo $emailit_options[TwitterID]; ?>"/></td></tr>
+            <tr><td style="padding-bottom:20px"><strong>Set your own "via @Twitter Username":</strong></td><td style="padding-bottom:20px"><input placeholder="YourTwitterUsername" type="text" name="emailit_options[TwitterID]" value="<?php echo $emailit_options[TwitterID]; ?>"/></td></tr>
             </table>
             <p><strong>Content Settings</strong></p>
             <table width="650px" id="content_options">
