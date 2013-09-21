@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
   Author: E-MAILiT
-  Version: 3.1
+  Version: 3.5
   Author URI: http://www.e-mailit.com
  */
 
@@ -38,8 +38,17 @@ function add_domain_verification_meta() {
     
     //Creates Emailit script
     $outputValue = "<script type='text/javascript'>\r\n";
+    $configValues = array();
     if (!$emailit_options["display_counter"] == 'true')
-        $outputValue .= "var e_mailit_config = {display_counter:false};";    
+        $configValues[] = "display_counter:false";
+    else
+        $configValues[] = "display_counter:true";
+    if ($emailit_options["TwitterID"] != "")
+        $configValues[]= "TwitterID:'".$emailit_options["TwitterID"]."'";
+    else
+        $configValues[]= "TwitterID:''";  
+    
+        $outputValue .= "var e_mailit_config = {".  implode(",", $configValues)."};";    
     $outputValue .= "(function() {	var b=document.createElement('script');	
                         b.type='text/javascript';b.async=true;	
                         b.src=('https:'==document.location.protocol?'https://www':'http://www')+'.e-mailit.com/widget/button/js/button.js';	
@@ -53,16 +62,8 @@ function emailit_admin_init() {
 }
 
 function emailit_widget_init() {
-    $emailit_options = get_option('emailit_options');
-    if (!isset($emailit_options[plugin_type]))
-        $emailit_options[plugin_type] = "content";
-
     require_once('emailit_sidebar_widget.php');
-    if ($emailit_options[plugin_type] == "sidebar") {
-        register_widget('EmailitSidebarWidget');
-    } else {
-        unregister_widget('EmailitSidebarWidget');
-    }
+    register_widget('EmailitSidebarWidget');
 }
 
 function emailit_admin_menu() {
@@ -73,21 +74,6 @@ function emailit_settings_page() {
     ?>
     <div>
         <script type="text/javascript">
-            function hideshow(plugin_type){
-                content_options = document.getElementById('content_options'); 
-                sidebar_options = document.getElementById('sidebar_options'); 
-                button_id =  document.getElementById('button_id'); 
-                if(plugin_type == 'content'){
-                    content_options.style.display = 'table';
-                    sidebar_options.style.display = 'none';
-                    button_id.style.display = 'block';
-                }else{
-                    content_options.style.display = 'none';
-                    sidebar_options.style.display = 'block';
-                    button_id.style.display = 'none';
-                }
-            }
-            
             function validate(){
                 emailit_domain_verification = document.getElementById('emailit_domain_verification'); 
                 if(emailit_domain_verification.value != "" && emailit_domain_verification.value.substr(0, 9) != "E-MAILiT_"){
@@ -101,24 +87,25 @@ function emailit_settings_page() {
         <form onsubmit="return validate()" id="emailit_options" action="options.php" method="post">
 
             <?php
-            settings_fields('emailit_options');
+                settings_fields('emailit_options');
 
-            $emailit_options = get_option('emailit_options');
-            if (!isset($emailit_options[plugin_type]))
-                $emailit_options[plugin_type] = "content";
+                $emailit_options = get_option('emailit_options');
             ?>
             <h2>Plugin options</h2>
-
-            <strong>Use E-MAILiT Share button</strong>
-            <br/>
-            in content <input onclick="hideshow('content');" type="radio" name="emailit_options[plugin_type]" value="content" <?php echo ($emailit_options[plugin_type] == 'content' ? 'checked="checked"' : ''); ?>/>
-            &nbsp; 
-            in sidebar (Widget) <input onclick="hideshow('sidebar');" type="radio" name="emailit_options[plugin_type]" value="sidebar" <?php echo ($emailit_options[plugin_type] == 'sidebar' ? 'checked="checked"' : ''); ?>/>
-            <br/>
-            <div id="sidebar_options" <?php if ($emailit_options[plugin_type] == "content") echo 'style="display:none"' ?>><br/><strong>Edit</strong>: Go to Appearance > Widgets > Main Sidebar > E-MAILiT Share</div>
-            <table width="550px" id="content_options" <?php if ($emailit_options[plugin_type] == "sidebar") echo 'style="display:none"' ?>>
+            <p><strong>Use E-MAILiT Share buttons in content and sidebar (Widget)</strong><p>
+            <p><strong>Glopal options (content and sidebar widget)</strong><p>
+            <table width="650px" >
+            <tr><td width="300px" style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__)?>') no-repeat right;"><strong>Show E-MAILiT share counter:</strong></td>
+                <td>
+                    <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options[display_counter] == true ? 'checked="checked"' : ''); ?>/>
+                </td>
+            </tr>
+            <tr><td style="padding-bottom:20px"><strong>Twitter via:</strong></td><td style="padding-bottom:20px"><input placeholder="YourTwitterUsername" type="text" name="emailit_options[TwitterID]" value="<?php echo $emailit_options[TwitterID]; ?>"/></td></tr>
+            </table>
+            <p><strong>Content Settings</strong></p>
+            <table width="650px" id="content_options">
                 <tbody>
-                    <tr><td>   
+                    <tr><td width="300px">   
                             <strong>homepage:</strong></td>
                         <td><input type="checkbox" name="emailit_options[emailit_showonhome]" value="true" <?php echo ($emailit_options[emailit_showonhome] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                     <tr><td>   
@@ -135,10 +122,6 @@ function emailit_settings_page() {
                                 <option value="top" <?php echo ($emailit_options[button_position] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>                                
                                 <option value="bottom" <?php echo ($emailit_options[button_position] == 'bottom' ? 'selected="selected"' : ''); ?>>Bottom</option>
                             </select></td></tr>
-                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__)?>') no-repeat right;"><strong>Show E-MAILiT share counter:</strong></td>
-                        <td>
-                            <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options[display_counter] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-
                     <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__)?>') no-repeat right;"><strong>Add Facebook button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_fb_button]" value="true" <?php echo ($emailit_options[display_fb_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
@@ -157,6 +140,7 @@ function emailit_settings_page() {
 
                 </tbody>
             </table>
+            <div><br/><strong>Edit Sidebar (Widget) Settings:</strong>: Go to Appearance > Widgets > Main Sidebar > E-MAILiT Share</div>            
             <br/>
             <p>
                 <div style="width:500px;border-top: solid 1px lightgray; padding: 5px"><br/><br/>
