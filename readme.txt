@@ -127,27 +127,26 @@ Press Save Changes.
 If you need technical help not found on the site email us at support@e-mailit.com
 
 == Screenshots ==
-01. Choose where to position our sharing tools
-02. Choose where to position our sharing tools
-03. Choose where to position our sharing tools
-04. Choose where to position our sharing tools
-05. Your E-MAILiT's account Dashboard
-06. Add a new domain
-07. Domain Manager
-08. Edit a domain
-09. Create a button for a website
+01. Plugin options (a)
+02. Plugin options (b)
+03. Plugin options (c)
+04. Your E-MAILiT's account Dashboard
+05. Add a new domain
+06. Domain Manager
+07. Edit a domain
+08. Create a button for a website
+09. Customize your button
 10. Customize your button
-11. Customize your button
-12. Preview your customized button
-13. Create your ad campaign
-14. Preview your button
-15. Email form
-16. Post to WordPress
-17. Button Manager
-18. Your Button ID
-19. Your Domain Verification Publisher Key
-20. Your Analytics
-21. E-MAILiT in your language
+11. Preview your customized button
+12. Create your ad campaign
+13. Preview your button
+14. Email form
+15. Post to WordPress
+16. Button Manager
+17. Your Button ID
+18. Your Domain Verification Publisher Key
+19. Your Analytics
+20. E-MAILiT in your language
 
 == Changelog ==
 = 3.5 =
