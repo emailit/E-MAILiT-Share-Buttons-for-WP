@@ -13,7 +13,7 @@ Help visitors to share, bookmark and email your content in Facebook, Twitter and
 
 **Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe(1), sharing tools, analytics, and media solutions. Install the E-MAILiT WordPress Plugin and get more traffic back to your website or blog**.
 
-(1) We Do Not Track You. We don't use cookies and technologies used to track you, what you do and what you click on, as you go from site to site, surfing the Web. Over time, this tactic can help make an online profile of you usually including the sites you visit, your searches, purchases, and other behavior. Your profile can then be exchanged and sold between various companies, as well as being sold to other advertisers and marketers.
+(1)We Do Not Track You. We don't use cookies and technologies used to track you, what you do and what you click on, as you go from site to site, surfing the Web. Over time, this tactic can help make an online profile of you usually including the sites you visit, your searches, purchases, and other behavior. Your profile can then be exchanged and sold between various companies, as well as being sold to other advertisers and marketers.
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default. Choose from to 60 social channels, including Facebook, Twitter, LinkedIn, and Pinterest.
 
