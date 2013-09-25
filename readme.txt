@@ -31,7 +31,7 @@ Asynchronous ensure a fast page launch by loading your E-MAILiT button script at
 
 Google Page Speed Insight Compliant / Optimized.
 
-<a href="http://www.e-mailit.com/share/bm_share.php?url=http://wordpress.org/plugins/e-mailit/">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
+<a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
 
 - E-MAILiT Share buttons are compact and can be placed in just a small space on your site
 - Use very light weight script which do not effect your site's loading speed
