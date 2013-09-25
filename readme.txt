@@ -46,6 +46,8 @@ Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button
 * One account: Unlimited domain registrations, buttons and campaigns  
 * Avoid clutter and save space from your website's canvas (all-inclusive service)  
 
+E-MAILiT is a self-funding startup and offers consumer web services, via its web and mobile social media sharing platform. Currently, 30,000 websites use E-MAILiT's share buttons, with over 50,000 monthly social interactions. From August 2012 to August 2013, we have reached more than 50,000,000 users worldwide. This is the number of the audience from the websites, which have installed E-MAILiT. Also, we are operating in 182 countries, with 70% new visits per month, every month and growing.  
+
 If you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
 <a href="http://www.e-mailit.com/widget/login">Sign In / Create Account</a>
 
