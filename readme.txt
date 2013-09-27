@@ -30,7 +30,7 @@ The E-MAILiT Share Buttons, contain a searchable menu of every applicable servic
 
 **More features**
 
-* E-MAILiT Share buttons are compact and can be placed in just a small space on your site
+* E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
 * Use very light weight script which do not effect your site's loading speed
 * Beautiful and attractive design
 * Share anywhere and anytime on your mobile websites with E-MAILiT Mobile-ready auto-optimized share tool. <a href="http://www.e-mailit.com/features#mobile">Learn more</a>
@@ -41,7 +41,7 @@ The E-MAILiT Share Buttons, contain a searchable menu of every applicable servic
 * One account: Unlimited domain registrations, buttons and campaigns  
 * Avoid clutter and save space from your website's canvas (all-in-one social media service)  
 
-If you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
+Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
 <a href="http://www.e-mailit.com">Sign In / Create Account</a>
 
 **Our vision is to build a better worldwide social web**.
