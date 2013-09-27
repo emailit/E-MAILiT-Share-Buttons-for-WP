@@ -7,49 +7,46 @@ Tested up to: 3.6.1
 Stable tag: 3.5
 License: GPLv2 or later 
 
-Help visitors to share, bookmark and email your content in Facebook, Twitter and more, without using online behavioral advertising practices.
+Help visitors to share, bookmark and email your content in Facebook, Twitter and more, but without using intrusive behavioral advertising practices.
 
 == Description == 
 
-**Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe (1), sharing tools, analytics, and media solutions. Install the E-MAILiT WordPress Plugin and get more traffic back to your website or blog**.
+**Install the E-MAILiT WordPress Plugin and increase your site's traffic via our social life-cycle engagement suite (Facebook, Twitter, Pinterest and 57 more social networks), our industry leading sharing tools, analytics and media solutions**.
 
-(1)We Do Not Track You. We do not use cookies and technologies used to track you, what you do and what you click on, as you go from site to site, surfing the Web. Over time, this tactic can help make an online profile of you usually including the sites you visit, your searches, purchases, and other behavior. Your profile can then be exchanged and sold between various companies, as well as being sold to other advertisers and marketers.
-
-The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default. Choose from to 60 social channels, including Facebook, Twitter, LinkedIn, and Pinterest.
+The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
 <a href="http://www.e-mailit.com/demos/demo1">Share Button</a> (demo)
 
-Share Buttons, Widget, Plugins, Analytics & Media Solutions (2) for publishers & advertisers.
-
-(2)<a href="http://blog.e-mailit.com/2013/09/why-show-ads.html">Why show ads?</a>
-
-Well-engineered and optimized code will not slow or block your website pages from loading.
-
-We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver content more efficiently to users.
-
-Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content.
-
-Google Page Speed Insight Compliant / Optimized.
-
 <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
 
-- E-MAILiT Share buttons are compact and can be placed in just a small space on your site
-- Use very light weight script which do not effect your site's loading speed
-- Beautiful and attractive design
-- Share anywhere and anytime on your mobile websites with E-MAILiT Mobile-ready auto-optimized share tool. <a href="http://www.e-mailit.com/features#mobile">Learn more</a>
 
-Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button** and **Pinterest Share Button**.
+**Performance**
 
+* Well-engineered and optimized code will not slow or block your website pages from loading
+* We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver content more efficiently to users
+* Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content
+* Google Page Speed Insight Compliant / Optimized
+
+
+**More features**
+
+* E-MAILiT Share buttons are compact and can be placed in just a small space on your site
+* Use very light weight script which do not effect your site's loading speed
+* Beautiful and attractive design
+* Share anywhere and anytime on your mobile websites with E-MAILiT Mobile-ready auto-optimized share tool. <a href="http://www.e-mailit.com/features#mobile">Learn more</a>
+* Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button** and **Pinterest Share Button**
 * 75 languages automatically localized  
 * Small share counter buttons in content  
 * Hovering/floating bar share counter buttons available (it's always in view, even when your users scroll up and down the page)  
 * One account: Unlimited domain registrations, buttons and campaigns  
-* Avoid clutter and save space from your website's canvas (all-inclusive service)  
-
-E-MAILiT is a self-funding startup and offers consumer web services, via its web and mobile social media sharing platform. Currently, 30,000 websites use E-MAILiT's share buttons, with over 50,000 monthly social interactions. From August 2012 to August 2013, we have reached more than 50,000,000 users worldwide, operating in 182 countries.  
+* Avoid clutter and save space from your website's canvas (all-in-one social media service)  
 
 If you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
 <a href="http://www.e-mailit.com">Sign In / Create Account</a>
+
+**Our vision is to build a better worldwide social web**.
+
+**Our mission is to conquer the social web and be the best sharing platform by providing unique and innovative marketing tools and services, worldwide**.
 
 If you have a question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a> and <a href="http://facebook.com/emailitpage">Like us on Facebook</a>!
 
