@@ -41,8 +41,7 @@ The E-MAILiT Share Buttons, contain a searchable menu of every applicable servic
 * One account: Unlimited domain registrations, buttons and campaigns  
 * Avoid clutter and save space from your website's canvas (all-in-one social media service)  
 
-Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle and advertising campaign data metrics,  
-<a href="http://www.e-mailit.com">Sign In / Create Account</a>
+Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
 
 **Our vision is to build a better worldwide social web**.
 
@@ -61,8 +60,6 @@ Automatic installation through WordPress:
 3. Under Search type in E-MAILiT, then click Search Plugins.
 4. In the results page, click Install Now.
 5. Once installed, click Activate Plugin. You're done!
-6. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
-
 
 Manual installation:
 
@@ -70,15 +67,10 @@ Manual installation:
 2. Upload the E-MAILiT folder to the '/wp-content/plugins/' directory.
 3. Go to your Wordpress dashboard and navigate to Plugins -> Installed Plugins.
 4. On the Plugin page in your WordPress Administration area, activate the E-MAILiT plugin.
-5. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 To upload the plugin through WordPress, instead of FTP:
 
-1. Upload the downloaded zip file on the 'Add New' plugins screen (see the 'Upload' tab) in your WordPress admin area and activate.
-2. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
-
-
-If you need technical help not found on the site email us at support@e-mailit.com
+Upload the downloaded zip file on the 'Add New' plugins screen in your WP admin area and activate.
 
 == Frequently Asked Questions ==
 <h4>Is E-MAILiT free of charge?</h4>
@@ -111,10 +103,8 @@ Metrics, such as clicks / leads / sales or actions are collected by the ad unit 
 
 <h4>How to verify a domain?</h4>
 
-1. Login with your E-MAILiT account:
-http://www.e-mailit.com/widget/login
-2. Add a new domain (your site url):
-http://www.e-mailit.com/widget/control/add_domain
+1. Login with your E-MAILiT account
+2. Add a new domain (your site url)
 3. When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:                 
 &lt;meta name="e-mailit-site-verification" content="**E-MAILiT_0123456789012345678**" /&gt;
@@ -122,8 +112,6 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 Press Save Changes.
 4. Go to your E-MAILiT account and press the **Verify now** button at the Website Settings.
 5. Done!
-
-If you need technical help not found on the site email us at support@e-mailit.com
 
 == Screenshots ==
 01. Plugin options (a)
