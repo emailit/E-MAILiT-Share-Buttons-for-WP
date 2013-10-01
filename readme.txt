@@ -4,8 +4,8 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.6.1
-Stable tag: 3.5
-License: GPLv2 or later
+Stable tag: 3.6
+License: GPLv2 or later 
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, but without using intrusive behavioral advertising practices.
 
@@ -136,6 +136,8 @@ Press Save Changes.
 20. E-MAILiT in your language
 
 == Changelog ==
+= 3.6 =
+* IE v10 loading bug, fixed.
 = 3.5 =
 * Enable automagically your own Twitter id to your tweets. You can set your own "via @Twitter Username" and simply remove "via @EMAILiT".
 * You can now add, instantly, share buttons in Content and Sidebar, as well. Have them both, in a single page, without conflicts.
