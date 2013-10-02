@@ -92,14 +92,14 @@ Follow the simple steps below to start receiving social data for your website:
 </ul>
 Available Event Categories & Actions:
 <ul>
-<li>E-MAILiT Promo (Open & Close for the advertisement area/ad unit/ad display)</li>
 <li>E-MAILiT Button (Open for the menu)</li>
-<li>E-MAILiT Email (Open & Send for the Email Form)</li>
 <li>E-MAILiT Share (Shares by Service)</li>
+<li>E-MAILiT Mobile Share (Shares by Service)</li>
+<li>E-MAILiT Email (Open & Send for the Email Form)</li>
 <li>E-MAILiT Follow (Follows by Channel)</li>
+<li>E-MAILiT Promo (Open & Close for the advertisement area/ad unit/ad display)</li>
 </ul>
-You can count the "Open & Close" action of "E-MAILiT Promo" category, as an impression.
-Metrics, such as clicks / leads / sales or actions are collected by the ad unit code of your Advertising/Affiliate Network.
+You can count the "Open & Close" action, as an impression. Metrics, such as clicks / leads / sales or actions are collected by the ad unit code of your Advertising/Affiliate Network.
 
 <h4>How to verify a domain?</h4>
 
