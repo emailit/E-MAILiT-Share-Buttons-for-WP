@@ -11,7 +11,7 @@ Help visitors to share, bookmark and email your content in Facebook, Twitter and
 
 == Description == 
 
-**Install the E-MAILiT WordPress Plugin and increase your site's traffic via our social life-cycle engagement suite (Facebook, Twitter, Pinterest and 57 more social networks), our industry leading sharing tools, analytics and media solutions**.
+**Install the E-MAILiT WordPress Plugin and increase your site's traffic via our social life-cycle engagement suite (Facebook, Twitter, Pinterest and 50+ more social networks), our industry leading sharing tools, analytics and media solutions. Reached 60+ million users worldwide in 70+ languages**.
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
