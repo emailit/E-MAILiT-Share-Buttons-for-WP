@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.6.1
-Stable tag: 3.6
+Stable tag: 3.7
 License: GPLv2 or later
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, but without using intrusive behavioral advertising practices.
@@ -15,7 +15,7 @@ Help visitors to share, bookmark and email your content in Facebook, Twitter and
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-<a href="http://www.e-mailit.com/demos/demo1">Share Button</a> (live demo)
+<a href="http://www.e-mailit.com/demos/demo1">Share button</a> (live demo)
 
 <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
 
@@ -136,6 +136,8 @@ Press Save Changes.
 20. E-MAILiT in your language
 
 == Changelog ==
+= 3.7 =
+* Prioritized the most popular sharing services to the top, in mobile version.
 = 3.6 =
 * IE v10 loading bug, fixed.
 = 3.5 =
