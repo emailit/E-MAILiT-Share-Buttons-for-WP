@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.6.1
-Stable tag: 3.7.1
+Stable tag: 4.0
 License: GPLv2 or later
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, but without using intrusive behavioral advertising practices.
@@ -136,6 +136,8 @@ Press Save Changes.
 20. E-MAILiT in your language
 
 == Changelog ==
+= 4.0 =
+* Code Performance improvements..
 = 3.7.1 =
 * Sharing services icons/submission url's (Web & Mobile): re-designed/replaced.
 = 3.7 =
