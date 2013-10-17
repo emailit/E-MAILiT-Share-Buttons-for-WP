@@ -23,7 +23,7 @@ The E-MAILiT Share Buttons, contain a searchable menu of every applicable servic
 **Performance**
 
 * Well-engineered and optimized code will not slow or block your website pages from loading
-* We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver content more efficiently to users
+* We use caching via major global CDNs. A Content Delivery Network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver content more efficiently to users
 * Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content
 * Google Page Speed Insight Compliant / Optimized
 
