@@ -15,7 +15,7 @@ Help visitors to share, bookmark and email your content in Facebook, Twitter and
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-<a href="http://www.e-mailit.com/demos/demo1">Share button</a> (live demo)
+<a href="http://www.e-mailit.com/demos/demo1">Share Button</a> (Live Demo)
 
 <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
 
@@ -137,7 +137,7 @@ Press Save Changes.
 
 == Changelog ==
 = 4.0 =
-* Code Performance improvements..
+* Code Performance improvements.
 = 3.7.1 =
 * Sharing services icons/submission url's (Web & Mobile): re-designed/replaced.
 = 3.7 =
