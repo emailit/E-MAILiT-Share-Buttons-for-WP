@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.6.1
-Stable tag: 4.0
+Stable tag: 4.1
 License: GPLv2 or later
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, but without using intrusive behavioral advertising practices.
@@ -136,6 +136,12 @@ Press Save Changes.
 20. E-MAILiT in your language
 
 == Changelog ==
+= 4.1 =
+* E-MAILiT site-verification meta tag registration accepted from: WHATWG Wiki community.
+* 10 Sharing services icons (Web & Mobile): re-designed/replaced.
+* New Sharing Service to Share with E-MAILiT: Foursquare.
+* Prioritized the Outlook email service, alphabetically, in mobile version.
+* Bug Fixes.
 = 4.0 =
 * Code Performance improvements.
 = 3.7.1 =
