@@ -45,7 +45,7 @@ Optionally, if you want to customize your sharing buttons, get access to targete
 
 **Our vision is to build a better worldwide social web**.
 
-**Our mission is to conquer the social web and be the best sharing platform by providing unique and innovative marketing tools and services, worldwide**.
+**Our mission is to conquer the social web and be the best sharing platform by providing unique and innovative marketing tools and services, worldwide. Help Publishers promote their web content online through innovation**.
 
 If you have a question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a> and <a href="http://facebook.com/emailitpage">Like us on Facebook</a>!
 
