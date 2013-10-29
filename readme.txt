@@ -1,10 +1,10 @@
 ==== Share Buttons by E-MAILiT ====
 Contributors: skallonis, e-mailit
-Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer, links, admin
+Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer, links, admin, vkontakte
 
 Requires at least: 2.9
-Tested up to: 3.6.1
-Stable tag: 4.1
+Tested up to: 3.7.1
+Stable tag: 4.2
 License: GPLv2 or later
 
 Help visitors to share, bookmark and email your content in Facebook, Twitter and more, but without using intrusive behavioral advertising practices.
@@ -126,6 +126,8 @@ Press Save Changes.
 20. E-MAILiT in your language
 
 == Changelog ==
+= 4.2 =
+* New third-party counter button to Share with E-MAILiT: VKontakte.
 = 4.1 =
 * E-MAILiT site-verification meta tag registration accepted from: WHATWG Wiki community.
 * 10 Sharing services icons (Web & Mobile): re-designed/replaced.

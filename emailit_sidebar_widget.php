@@ -3,12 +3,12 @@
 class EmailitSidebarWidget extends WP_Widget {
 
     function EmailitSidebarWidget() {
-        $widget_ops = array('classname' => 'EmailitWidget', 'description' => 'Give the opportunity to your visitors to share and distribute your content in over of 60 social networks.');
+        $widget_ops = array('classname' => 'EmailitWidget', 'description' => 'Increase your site traffic with E-MAILiT\'s social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.');
         $this->WP_Widget('EmailitWidget', 'E-MAILiT Share', $widget_ops);
     }
 
     function form($instance) {
-        $defaults = array('title' => __('E-MAILiT', 'example'), 'button_id' => '', 'facebook_btn' => '', 'tweet_btn' => '', 'googleplus_btn' => '', 'pinterest_btn' => '', 'linkedin_btn' => '');
+        $defaults = array('title' => __('E-MAILiT', 'example'), 'button_id' => '', 'facebook_btn' => '', 'tweet_btn' => '', 'googleplus_btn' => '', 'pinterest_btn' => '', 'linkedin_btn' => '' , 'vkontakte_btn' => '');
         $instance = wp_parse_args((array) $instance, $defaults);
         $title = esc_attr($instance['title']);
         $button_id = esc_attr($instance['button_id']);
@@ -17,6 +17,7 @@ class EmailitSidebarWidget extends WP_Widget {
         $googleplus_btn = esc_attr($instance['googleplus_btn']);
         $pinterest_btn = esc_attr($instance['pinterest_btn']);
         $linkedin_btn = esc_attr($instance['linkedin_btn']);
+        $vkontakte_btn = esc_attr($instance['vkontakte_btn']);
         ?>
         <p><label for="<?php echo $this->get_field_id('title'); ?>">Title: <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo attribute_escape($title); ?>" /></label></p>
         <p>  
@@ -38,7 +39,11 @@ class EmailitSidebarWidget extends WP_Widget {
         <p>  
             <label for="<?php echo $this->get_field_id('linkedin_btn'); ?>"><?php _e('Add Linkedin share counter button:'); ?></label>      
             <input class="checkbox" type="checkbox" <?php checked($linkedin_btn, 'on'); ?> id="<?php echo $this->get_field_id('linkedin_btn'); ?>" name="<?php echo $this->get_field_name('linkedin_btn'); ?>" />   
-        </p>       
+        </p>   
+        <p>  
+            <label for="<?php echo $this->get_field_id('vkontakte_btn'); ?>"><?php _e('Add VKontakte share counter button:'); ?></label>      
+            <input class="checkbox" type="checkbox" <?php checked($vkontakte_btn, 'on'); ?> id="<?php echo $this->get_field_id('vkontakte_btn'); ?>" name="<?php echo $this->get_field_name('vkontakte_btn'); ?>" />   
+        </p>           
         <p>
             <a target="_blank" href="http://www.e-mailit.com/widget/login">Create Your Account To Access</a><br/>
             - Social Sharing Analytics &
@@ -61,6 +66,7 @@ class EmailitSidebarWidget extends WP_Widget {
         $instance['googleplus_btn'] = strip_tags($new_instance['googleplus_btn']);
         $instance['pinterest_btn'] = strip_tags($new_instance['pinterest_btn']);
         $instance['linkedin_btn'] = strip_tags($new_instance['linkedin_btn']);
+        $instance['vkontakte_btn'] = strip_tags($new_instance['vkontakte_btn']);
         return $instance;
     }
 
@@ -82,7 +88,8 @@ class EmailitSidebarWidget extends WP_Widget {
         $googleplus_btn = isset($instance['googleplus_btn']) ? $instance['googleplus_btn'] : '';
         $pinterest_btn = isset($instance['pinterest_btn']) ? $instance['pinterest_btn'] : '';
         $linkedin_btn = isset($instance['linkedin_btn']) ? $instance['linkedin_btn'] : '';
-
+        $vkontakte_btn = isset($instance['linkedin_btn']) ? $instance['vkontakte_btn'] : '';
+        
         $outputValue = "<!-- E-MAILiT Sharing Button BEGIN -->" . PHP_EOL;
         $outputValue .= "<div class=\"e-mailit_toolbox\">" . PHP_EOL;
         if ($facebook_btn != '')
@@ -95,6 +102,8 @@ class EmailitSidebarWidget extends WP_Widget {
             $outputValue .= "<span class=\"e-mailit_pinterest_btn\"></span>";
         if ($linkedin_btn != '')
             $outputValue .= "<span class=\"e-mailit_linkedin_btn\"></span>";
+        if ($vkontakte_btn != '')
+            $outputValue .= "<span class=\"e-mailit_vkontakte_btn\"></span>";        
         if ($button_id == "" || $button_id == "Your Button ID")
             $outputValue .= " <div class='e_mailit_button'>";
         else
