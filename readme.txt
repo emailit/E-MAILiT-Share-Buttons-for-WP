@@ -29,7 +29,7 @@ The E-MAILiT Share Buttons, contain a searchable menu of every applicable servic
 * Use very light weight script which do not effect your site's loading speed
 * Beautiful and attractive design
 * Share anywhere and anytime on your mobile websites with E-MAILiT Mobile-ready auto-optimized share tool.
-* Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button** and **Pinterest Share Button**  
+* Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and **VKontakte Share Button**  
 
 Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
 
@@ -37,7 +37,7 @@ Optionally, if you want to customize your sharing buttons, get access to targete
 
 **Our mission is to conquer the social web and be the best sharing platform by providing unique and innovative marketing tools and services, worldwide. Help Publishers promote their web content online through innovation**.
 
-If you have a question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">**Follow us on Twitter**</a>!
+If you have a **support question** or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">**Follow us on Twitter**</a>!
 
 <a href="http://www.e-mailit.com">E-MAILiT Homepage</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
 
@@ -102,6 +102,8 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 Press Save Changes.
 4. Go to your E-MAILiT account and press the **Verify now** button at the Website Settings.
 5. Done!
+
+**ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag to the specified url source code, which was given by you, to the Domain Manager > Website Settings > Domain.
 
 == Screenshots ==
 01. Plugin options (a)
