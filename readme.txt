@@ -11,35 +11,26 @@ Help visitors to share, bookmark and email your content in Facebook, Twitter and
 
 == Description == 
 
-**Install the E-MAILiT WordPress Plugin and increase your site's traffic via our social life-cycle engagement suite (Facebook, Twitter, Pinterest and 50+ more social networks), our industry leading sharing tools, analytics and media solutions. Reached 60+ million users worldwide in 70+ languages**.
+Install the E-MAILiT WordPress Plugin and increase your site's traffic via our **social life-cycle engagement suite**, such as Facebook, Twitter, Pinterest, and over 50 more sharing and social bookmarking sites.
 
-The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
+Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and (new) **VKontakte Share Button**.
 
 <a href="http://www.e-mailit.com/demos/demo1">Share Button</a> (live demo)
 
-<a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type).
+The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-
-<a href="http://www.e-mailit.com/features">**Features**</a>
-
-
-**More goodies**
-
+* <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
 * Use very light weight script which do not effect your site's loading speed
 * Beautiful and attractive design
-* Share anywhere and anytime on your mobile websites with E-MAILiT Mobile-ready auto-optimized share tool.
-* Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and **VKontakte Share Button**  
 
 Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
 
-**Our vision is to build a better worldwide social web**.
+If you have a support question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a>!
 
-**Our mission is to conquer the social web and be the best sharing platform by providing unique and innovative marketing tools and services, worldwide. Help Publishers promote their web content online through innovation**.
+With **constant research and development**, **50+ thousand websites** use E-MAILiT's share buttons, **100+ thousand monthly social interactions**, **2+ thousand daily Facebook sharings**, reached more than **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
 
-If you have a **support question** or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">**Follow us on Twitter**</a>!
-
-<a href="http://www.e-mailit.com">E-MAILiT Homepage</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
+<a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
 
 == Installation ==
 
