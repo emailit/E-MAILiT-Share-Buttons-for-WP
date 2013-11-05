@@ -19,7 +19,7 @@ Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-* <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type)
+* <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
 * Use very light weight script which do not effect your site's loading speed
 * Beautiful and attractive design
@@ -28,7 +28,7 @@ Optionally, if you want to customize your sharing buttons, get access to targete
 
 If you have a support question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a>!
 
-With **constant research and development**, **50+ thousand websites** use E-MAILiT's share buttons, **100+ thousand monthly social interactions**, **2+ thousand daily Facebook sharings**, reached more than **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
+With **constant research and development**, **50+ thousand websites** use E-MAILiT's share buttons, **100+ thousand monthly social interactions**, **2+ thousand daily Facebook sharings**, reached **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
 
 <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
 
