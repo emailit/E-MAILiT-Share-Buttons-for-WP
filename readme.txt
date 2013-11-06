@@ -68,7 +68,7 @@ Manual process:
 1. Open any ftp software, on your computer.
 2. Enter the server's credentials.
 3. Open the root folder.
-4. Go to /wp-content/plugins/ directory.
+4. Go /wp-content/plugins/ directory.
 5. Search for 'emailit' folder and select.
 6. Click delete.
 
