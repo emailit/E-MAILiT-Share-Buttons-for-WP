@@ -54,17 +54,16 @@ To upload the plugin through WordPress, instead of FTP:
 Upload the downloaded zip file on the 'Add New' plugins screen in your WP admin area and activate.
 
 
+
 How to Un-install
 
-Through WP admin:
-
+Through WP admin:  
 1. Go to <a href="http://codex.wordpress.org/Administration_Panels#Plugins">Plugins</a> screen
 2. Find the E-MAILiT Plugin > deactivate and un-install
 3. Click deactivate
 4. Click delete if you want to completely remove the plugin
 
-Manual process:
-
+Manual process:  
 1. Open any ftp software, on your computer
 2. Enter the server's credentials
 3. Open the root folder
