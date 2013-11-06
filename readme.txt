@@ -54,7 +54,7 @@ To upload the plugin through WordPress, instead of FTP:
 Upload the downloaded zip file on the 'Add New' plugins screen in your WP admin area and activate.
 
 
-How to Un-install  
+How to Un-install
 
 Through WP admin:
 
