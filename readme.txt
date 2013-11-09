@@ -7,7 +7,7 @@ Tested up to: 3.7.1
 Stable tag: 4.2
 License: GPLv2 or later
 
-Help visitors to share your content in Facebook, Twitter & more, but without using intrusive behavioral advertising practices. We Do Not Track You!
+Socialize your Content, without intrusive behavioral advertising practices.
 
 == Description == 
 
