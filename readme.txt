@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.7.1
-Stable tag: 4.2
+Stable tag: 4.2.1
 License: GPLv2 or later
 
 Help visitors to Share, Bookmark, Email and Follow your Content, including Facebook, Twitter and many more, without tracking you.
@@ -138,6 +138,8 @@ Press Save Changes.
 20. E-MAILiT in your language
 
 == Changelog ==
+= 4.2.1 =
+* Bug Fixes.
 = 4.2 =
 * New third-party counter button to Share with E-MAILiT: VKontakte.
 = 4.1 =
