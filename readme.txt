@@ -7,7 +7,7 @@ Tested up to: 3.7.1
 Stable tag: 4.2
 License: GPLv2 or later
 
-Generate referral traffic from your visitors & socialize your content, without behavioral advertising practices.
+Help visitors to Share, Bookmark, Email and Follow your Content, including Facebook, Twitter and many more, without tracking you.
 
 == Description == 
 
