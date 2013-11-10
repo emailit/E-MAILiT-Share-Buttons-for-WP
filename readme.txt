@@ -7,7 +7,7 @@ Tested up to: 3.7.1
 Stable tag: 4.2
 License: GPLv2 or later
 
-Socialize your Content, without intrusive behavioral advertising practices.
+Generate referral traffic from your visitors & socialize your content, without behavioral advertising practices.
 
 == Description == 
 
