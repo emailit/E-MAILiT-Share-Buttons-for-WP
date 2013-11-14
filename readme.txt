@@ -13,7 +13,7 @@ Help visitors to Share, Bookmark, Email and Follow your Content, including Faceb
 
 Install the E-MAILiT WordPress Plugin and increase your site's traffic via our **social life-cycle engagement suite**, such as Facebook, Twitter, Pinterest, and over 50 more sharing and social bookmarking sites.
 
-Third-party buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and (new) **VKontakte Share Button**.
+Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and (new) **VKontakte Share Button**.
 
 <a href="http://www.e-mailit.com/demos/demo1">Share button</a> (live preview)
 
