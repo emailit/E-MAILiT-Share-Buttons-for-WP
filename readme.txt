@@ -119,23 +119,6 @@ Press Save Changes.
 01. Plugin options (a)
 02. Plugin options (b)
 03. Plugin options (c)
-04. Your E-MAILiT's account Dashboard
-05. Add a new domain
-06. Domain Manager
-07. Edit a domain
-08. Create a button for a website
-09. Customize your button
-10. Customize your button
-11. Preview your customized button
-12. Create your ad campaign
-13. Preview your button
-14. Email form
-15. Post to WordPress
-16. Button Manager
-17. Your Button ID
-18. Your Domain Verification Publisher Key
-19. Your Analytics
-20. E-MAILiT in your language
 
 == Changelog ==
 = 4.2.1 =
