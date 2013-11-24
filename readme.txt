@@ -7,7 +7,7 @@ Tested up to: 3.7.1
 Stable tag: 4.2.1
 License: GPLv2 or later
 
-Help visitors to Share, Bookmark, Email and Follow your Content, including Facebook, Twitter and many more, without tracking you.
+Share your content with an attractive social sharing menu for your WordPress site or blog.
 
 == Description == 
 
@@ -15,9 +15,13 @@ Install the E-MAILiT WordPress Plugin and increase your site's traffic via our *
 
 Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and (new) **VKontakte Share Button**.
 
-<a href="http://www.e-mailit.com/demos/demo1">Share Button</a> (Demo)
+Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
+
+E-MAILiT Screenshots
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/28569825" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 * <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
