@@ -19,7 +19,7 @@ Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-[slideshare id=28569825&doc=e-mailitscreenshots-131124052722-phpapp02]
+<p><iframe src='http://www.slideshare.net/slideshow/embed_code/28569825' width='500' height='410'></iframe>
 
 * <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
