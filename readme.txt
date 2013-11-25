@@ -30,7 +30,7 @@ Optionally, if you want to customize your sharing buttons, get access to targete
 
 If you have a support question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a>!
 
-With **constant research and development**, **50+ thousand websites** use E-MAILiT's share buttons, **100+ thousand monthly social interactions**, **2+ thousand daily Facebook sharings**, reached **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
+With **constant research and development**, **60+ thousand websites** use E-MAILiT's share buttons, **200+ thousand monthly social interactions**, reached **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
 
 <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
 
