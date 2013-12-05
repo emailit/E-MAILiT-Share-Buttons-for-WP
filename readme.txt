@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.7.1
 Stable tag: 4.5.5
-License: GPLv2 or later
+License: GPLv2 or later 
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
 
