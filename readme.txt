@@ -124,8 +124,8 @@ Press Save Changes.
 
 == Changelog ==
 = 4.5.9 =
-* Sharing services icons (Desktop & Mobile): re-designed/replaced. 
-**Desktop Version**: AOL Mail, Baidu, Bebo, Blogger, Delicious, Email, Evernote, Gmail, Google, Hyves, LinkedIn, LiveJournal, Meneame, Myspace, Odnoklassniki, Orkut, Pinterest, PrintFriendly, Reddit, Sina Weibo, StumbleUpon, Tuenti, Tumblr, Twitter, VKontakte, Yahoo Bookmarks, Yahoo Mail. 
+* Sharing services icons (Desktop & Mobile): re-designed/replaced.  
+**Desktop Version**: AOL Mail, Baidu, Bebo, Blogger, Delicious, Email, Evernote, Gmail, Google, Hyves, LinkedIn, LiveJournal, Meneame, Myspace, Odnoklassniki, Orkut, Pinterest, PrintFriendly, Reddit, Sina Weibo, StumbleUpon, Tuenti, Tumblr, Twitter, VKontakte, Yahoo Bookmarks, Yahoo Mail.  
 **Mobile Version**: AOL Mail, Baidu, Bebo, BizSugar, Blogger, Delicious, Digg, Email, Evernote, Facebook, Favoritus, Gmail, Google+, Hyves, LinkedIn, LiveJournal, Meneame, Myspace, Odnoklassniki, Pinterest, Reddit, Sina Weibo, StumbleUpon, Translate, Tuenti, Tumblr, Twitter, VKontakte, Yahoo Bookmarks.
 = 4.5.5 =
 * Minor bug fixes: style/template conflicts resolved.
