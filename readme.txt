@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.7.1
-Stable tag: 4.5.5
+Stable tag: 4.5.9
 License: GPLv2 or later 
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -123,6 +123,10 @@ Press Save Changes.
 03. Plugin options (c)
 
 == Changelog ==
+= 4.5.9 =
+* Sharing services icons (Desktop & Mobile): re-designed/replaced. 
+**Desktop Version**: AOL Mail, Baidu, Bebo, Blogger, Delicious, Email, Evernote, Gmail, Google, Hyves, LinkedIn, LiveJournal, Meneame, Myspace, Odnoklassniki, Orkut, Pinterest, PrintFriendly, Reddit, Sina Weibo, StumbleUpon, Tuenti, Tumblr, Twitter, VKontakte, Yahoo Bookmarks, Yahoo Mail. 
+**Mobile Version**: AOL Mail, Baidu, Bebo, BizSugar, Blogger, Delicious, Digg, Email, Evernote, Facebook, Favoritus, Gmail, Google+, Hyves, LinkedIn, LiveJournal, Meneame, Myspace, Odnoklassniki, Pinterest, Reddit, Sina Weibo, StumbleUpon, Translate, Tuenti, Tumblr, Twitter, VKontakte, Yahoo Bookmarks.
 = 4.5.5 =
 * Minor bug fixes: style/template conflicts resolved.
 = 4.5 =
