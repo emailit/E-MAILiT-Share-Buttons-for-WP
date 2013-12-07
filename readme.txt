@@ -17,7 +17,7 @@ Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet 
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
+> Check out the <a href="http://www.e-mailit.com/demos/demo1">Live Demo</a>
 
 * <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
