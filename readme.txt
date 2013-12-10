@@ -110,8 +110,8 @@ You can count the "Open & Close" action, as an impression. Metrics, such as clic
 3. When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:                 
 `&lt;meta name="e-mailit-site-verification" content="E-MAILiT_0123456789012345678" /&gt;`
-Paste only the **E-MAILiT_digits**, to the appropriate text box field at your WordPress backend Admin panel. Press Save Changes.
-4. Go to your E-MAILiT account and press the **Verify now** button at the Website Settings.
+Paste only the **E-MAILiT_digits**, to the appropriate text box field at your WordPress backend Admin panel. Press Save Changes.  
+4. Go to your E-MAILiT account and press the **Verify now** button at the Website Settings.  
 5. Done!
 
 > **ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag to the specified url source code, which was given by you, to the Domain Manager > Website Settings > Domain.
