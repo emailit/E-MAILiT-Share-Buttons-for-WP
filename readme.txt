@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.7.1
-Stable tag: 4.5.9
+Stable tag: 4.5.9.1
 License: GPLv2 or later 
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -17,7 +17,7 @@ Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet 
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-> Check out the <a href="http://www.e-mailit.com/demos/demo1">Live Demo</a>.
+> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
 
 * <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
@@ -32,7 +32,7 @@ If you have a support question or want to see what other awesome features we are
 
 With **constant research and development**, **60+ thousand websites** use E-MAILiT's share buttons, **200+ thousand monthly social interactions**, reached **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
 
-<a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
+<a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
 
 == Installation ==
 
@@ -47,7 +47,7 @@ Automatic installation through WordPress:
 Manual installation:
 
 1. Download here: http://wordpress.org/plugins/e-mailit and unarchive the plugin folder.
-2. Upload the E-MAILiT folder to the '/wp-content/plugins/' directory.
+2. Upload the E-MAILiT folder to the `/wp-content/plugins/` directory.
 3. Go to your Wordpress dashboard and navigate to Plugins -> Installed Plugins.
 4. On the Plugin page in your WordPress Administration area, activate the E-MAILiT plugin.
 
@@ -70,8 +70,8 @@ Manual process:
 1. Open any ftp software, on your computer.
 2. Enter the server's credentials.
 3. Open the root folder.
-4. Go /wp-content/plugins/ directory.
-5. Search for 'emailit' folder and select.
+4. Go `/wp-content/plugins/` directory.
+5. Search for `emailit` folder and select.
 6. Click delete.
 
 == Frequently Asked Questions ==
@@ -109,13 +109,13 @@ You can count the "Open & Close" action, as an impression. Metrics, such as clic
 2. Add a new domain (your site url)
 3. When press add domain, a unique meta tag code will display on your screen.
 For example, take a look the given below:                 
-&lt;meta name="e-mailit-site-verification" content="**E-MAILiT_0123456789012345678**" /&gt;
+`&lt;meta name="e-mailit-site-verification" content="**E-MAILiT_0123456789012345678**" /&gt;`
 Paste only the **E-MAILiT_digits**, to the appropriate text box field at your WordPress backend Admin panel.
 Press Save Changes.
 4. Go to your E-MAILiT account and press the **Verify now** button at the Website Settings.
 5. Done!
 
-**ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag to the specified url source code, which was given by you, to the Domain Manager > Website Settings > Domain.
+> **ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag to the specified url source code, which was given by you, to the Domain Manager > Website Settings > Domain.
 
 == Screenshots ==
 01. Plugin options (a)
@@ -123,6 +123,8 @@ Press Save Changes.
 03. Plugin options (c)
 
 == Changelog ==
+= 4.5.9.1 =
+* Update Facebook Like button.
 = 4.5.9 =
 * Sharing services icons (Desktop & Mobile): re-designed/replaced.  
 **Desktop Version**: AOL Mail, Baidu, Bebo, Blogger, Delicious, Email, Evernote, Gmail, Google, Hyves, LinkedIn, LiveJournal, Meneame, Myspace, Odnoklassniki, Orkut, Pinterest, PrintFriendly, Reddit, Sina Weibo, StumbleUpon, Tuenti, Tumblr, Twitter, VKontakte, Yahoo Bookmarks, Yahoo Mail.  
