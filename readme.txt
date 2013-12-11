@@ -13,11 +13,11 @@ Share your content with an attractive social sharing menu for your WordPress sit
 
 Install the E-MAILiT WordPress Plugin and increase your site's traffic via our **social life-cycle engagement suite**, such as Facebook, Twitter, Pinterest, and over 50 more sharing and social bookmarking sites.
 
-Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and (new) **VKontakte Share Button**.
+Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and **VKontakte Share Button**.
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
+> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
 
 * <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
@@ -151,7 +151,7 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 = 3.6 =
 * IE v10 loading bug, fixed.
 = 3.5 =
-* Enable automagically your own Twitter id to your tweets. You can set your own "via @Twitter Username" and simply remove "via @EMAILiT".
+* Enable automatically your own Twitter id to your tweets. You can set your own "via @Twitter Username" and simply remove "via @EMAILiT".
 * You can now add, instantly, share buttons in Content and Sidebar, as well. Have them both, in a single page, without conflicts.
 = 3.1 =
 * Introducing Mobile Sharing. Share anywhere and anytime on your websites with E-MAILiT Mobile-ready auto-optimized share tool, with automatic detection of device-type. If you are already have installed E-MAILiT on your site, you have nothing to worry about and you ensure that your visitors will share and access your content on multiple devices (PC, tablets and smartphones). The mobile widget will automatically show the mobile sharing layout.
