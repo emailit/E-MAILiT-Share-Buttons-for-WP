@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.7.1
-Stable tag: 4.5.9.1
+Stable tag: 4.6
 License: GPLv2 or later 
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -28,7 +28,7 @@ Optionally, if you want to customize your sharing buttons, get access to targete
 
 <p>http://www.youtube.com/watch?v=tKBlk_q83II</p>
 
-If you have a support question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a>!
+> If you have a support question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a>! Using the button on your website? Please let us know, we'd love to see it in action :) @emailit
 
 With **constant research and development**, **60+ thousand websites** use E-MAILiT's share buttons, **200+ thousand monthly social interactions**, reached **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
 
@@ -122,6 +122,11 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 03. Plugin options (c)
 
 == Changelog ==
+= 4.6 =
+* Minor bug fixes.
+* Bug fix: Style conflicts with some themes resolved.
+* Fix conflict with other plugins.
+* CSS Fixes.
 = 4.5.9.1 =
 * Update Facebook Like button.
 = 4.5.9 =
