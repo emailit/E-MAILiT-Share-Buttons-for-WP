@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 4.6
+Stable tag: 4.7
 License: GPLv2 or later
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -17,7 +17,7 @@ Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet 
 
 The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
+> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
 
 * <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
 * E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
@@ -122,6 +122,10 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 03. Plugin options (c)
 
 == Changelog ==
+= 4.7 =
+* UX changes in E-MAILiT Share Mobile Version.
+* WordPress 3.8 compatibility.
+* Bug Fixes.
 = 4.6 =
 * Minor bug fixes.
 * Bug fix: Style conflicts with some themes resolved.
