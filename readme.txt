@@ -125,7 +125,7 @@ There is no need to edit any line of code. The whole installation procedure of o
 
 <h4>How do I eliminate the plugin from certain pages?</h4>
 
-Unfortunately, there is no option in WordPress for something like this. There is no an automated solution to delete locally and in certain pages, the share button code. Also, if you choose to auto-install our plugin you can't edit the html source code of your wp pages, to delete our code in certain pages. You can do the opposite, though, if you are familiar editing html and javascript code. Try to put in your preferred pages our share button code, manually. Please, if you want our default version, follow this link. Otherwise, if you want to customize it, please Create a free account.
+Unfortunately, there is no option in WordPress for something like this. There is no an automated solution to delete locally and in certain pages, the share button code. Also, if you choose to auto-install our plugin you can't edit the html source code of your wp pages, to delete our code in certain pages. You can do the opposite, though, if you are familiar editing html and javascript code. Try to put in your preferred pages our share button code, manually. Please, if you want our default version, follow this link http://www.e-mailit.com/get Otherwise, if you want to customize it, please Create a free account http://www.e-mailit.com/widget/login
 
 <h4>How do I activate / de-activate your plugin?</h4>
 
