@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 4.7
+Stable tag: 4.8
 License: GPLv2 or later
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -75,6 +75,9 @@ Manual process:
 6. Click delete.
 
 == Frequently Asked Questions ==
+<h4>You can find here the most of the possible popular questions/answers. Please, visit also our Support Forum if you don't find something which is not included here.</h4>
+We try hard every day to give efficiency and the maximum quality of support to our users/publishers, without thinking the time cost consuming or anything else. Small or Big users/publishers, they all have the same treating from us, unlike the competition.
+
 <h4>Is E-MAILiT free of charge?</h4>
 Yes!
 
@@ -116,12 +119,51 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 
 > **ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag to the specified url source code, which was given by you, to the Domain Manager > Website Settings > Domain.
 
+<h4>Do I need to edit html or javascript?</h4>
+
+There is no need to edit any line of code. The whole installation procedure of our plugin, will take place at your WordPress admin control panel. If you want a custom solution, you should create an E-MAILiT account. In that case you must combine the E-MAILiT admin control panel with your WordPress admin control panel.
+
+<h4>How do I eliminate the plugin from certain pages?</h4>
+
+Unfortunately, there is no option in WordPress for something like this. There is no an automated solution to delete locally and in certain pages, the share button code. Also, if you choose to auto-install our plugin you can't edit the html source code of your wp pages, to delete our code in certain pages. You can do the opposite, though, if you are familiar editing html and javascript code. Try to put in your preferred pages our share button code, manually. Please, if you want our default version, follow this link. Otherwise, if you want to customize it, please Create a free account.
+
+<h4>How do I activate / de-activate your plugin?</h4>
+
+Please, read the guide here http://wordpress.org/plugins/e-mailit/installation
+
+<h4>I can't remove your plugin. Are you giving us a trouble plugin?</h4>
+
+Our focus, which seperates us from the worldwide competition, is to provide a safe and secure plugin, extremely easy to setup/uninstall, without using online behavioral advertising practices, cookies and technologies used to track you, not sold your data to other advertisers and marketers, secured from vulnerability attacks. So, it would be dumb and catastrophic for us, to develop a plugin which can not uninstall from the computer systems. After receiving a few support messages, on how to remove the plugin, have been revealed that the default un-installation procedure, isn't working for all, because when they installed the E-MAILiT button they had done it using the manual installation process, as described here http://www.e-mailit.com/get As a result, when they decided to un-install, they thought that by removing the plugin, it will also remove the javascript code which they had manually inserted in their websites. The result of this awkward situation is that those specific users are contacting with our support team, claiming that our plugin is a harmful malware, which leaves code behind, because they can not un-install it from their website. The only code that the plugin is going to position in a website, can be found here /wp-content/plugins/emailit directory, and there is no way for our plugin to work properly, if this folder has been deleted. We would like to inform, that our plugin is officially being accepted, after a thorough testing, from the WordPress Plugins Directory. Also, we don't write the un-uninstallation code of the plugin. This is an automated proccess through WordPress. After some threads to our support forum and a single private message via email, we wanted to put an end on this and finally to make it clear to any user, who tries to un-install with the wrong way our plugin.
+
+<h4>How do I link the Facebook Like Button or the Tweet Button to my pages?</h4>
+
+Facebook Like Button displays the likes about a specific url. In order to show correctly your likes you must place the button in the right place. If you haven't inserted the button in your home page, propably your likes are linked to it. If in case this is valid, by placing the button in your home page you will see the correct like counter for your site.
+
+<h4>What ''we do not track you'' means? Is this a marketing trick of yours? Is my website in danger with your plugin?</h4>
+
+We do not use any type of cookies. We do not collect or distribute browser cookies. We do not collect or distribute IP addresses. We collect only the social networking/sharing trend, from the websites in which E-MAILiT is active. We don't use cookies and technologies used to track you, what you do and what you click on, as you go from site to site, surfing the Web. Over time, this tactic can help make an online profile of you usually including the sites you visit, your searches, purchases, and other behavior. Your profile can then be exchanged and sold between various companies, as well as being sold to other advertisers and marketers. Data which concern the sharing button use (the social sharing click events), are sending to the E-MAILiT's Google Analytics account UA-6640442-5. The account's push are not associated with the remaining data of the E-MAILiT's website, but they are related only with the events, which are caused from the sharing button use. The current event collection from E-MAILiT, is absolutely normal to take place under that way. Additionaly, the same data are being sent to the Publisher's Google Analytics account too.
+
+<h4>How do I set the integrated Follow Channels inside to my share button menu?</h4>
+
+Create a free account and go to Domain Manager > Website Settings http://www.e-mailit.com/widget/control/add_domain
+
+<h4>What languages do you support?</h4>
+
+Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan; Valencian, Central Khmer, Chinese, Croatian, Czech, Danish, Dutch; Flemish, English, Esperanto, Estonian, Faroese, Finnish, French, Galician,  Georgian, German, Greek, Gujarati, Haitian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Kurdish, Latin, Latvian, Lithuanian, Luxembourgish, Malay, Maltese, Mongolian, Northern Sami, Norwegian, Pashto, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tamil, Tatar, Telugu, Thai, Tswana, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish.
+
+<h4>Why do I get your ads? How can I terminate them? Are you a spammer?</h4>
+
+We are not spammers. By default, when a visitor returns to your site, after clicking to share your content via a service, they will see an advertisement, on the left of the share menu. This advertisement never shows when the share menu of the E-MAILiT button opens at first. It will never show up on your visitor's screen, if they do not click on a sharing service. Our strategy is not making you or your visitors feel frustrated, so we display advertisements in this smart way. On the other hand, you have the option to automatically show/hide the Ad Display on the widget's share menu. The advertisement is there for anyone interested to see, or you can simply hide it! It is that easy. The only thing you need to do is to create a free account and customize your settings.
+
 == Screenshots ==
 01. Plugin options (a)
 02. Plugin options (b)
 03. Plugin options (c)
 
 == Changelog ==
+= 4.8 =
+* Update FAQ.
+* Bug Fixes.
 = 4.7 =
 * UX changes in E-MAILiT Share Mobile Version.
 * WordPress 3.8 compatibility.
