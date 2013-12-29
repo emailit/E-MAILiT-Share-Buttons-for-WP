@@ -4,35 +4,28 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 4.8.1
+Stable tag: 4.8.2
 License: GPLv2 or later 
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
 
 == Description == 
 
-Install the E-MAILiT WordPress Plugin and increase your site's traffic via our **social life-cycle engagement suite**, such as Facebook, Twitter, Pinterest, and over 50 more sharing and social bookmarking sites.
+WordPress E-MAILiT Share plugin increases your site's traffic, is using industry best practices and very light weight JavaScript which do not effect your site's loading speed with its simplicity and performance because all of the processing runs on our cloud servers and not yours and is hosted on CloudFlare's CDN, making it reliable as possible, it doesn’t add any useless burden on your users, is securing everybody's privacy because it doesn't use tracking cookies and allows you to painlessly and super fast add social life-cycle engagement suite (sharing and following features) to all your posts, pages and custom post types.
 
-Third-party share buttons include the **Facebook Like Button**, **Twitter Tweet Button**, **Google+ Share Button**, **LinkedIn Share Button**, **Pinterest Share Button** and **VKontakte Share Button**.
+E-MAILiT Share Buttons (with integrated third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default.
 
-The E-MAILiT Share Buttons, contain a searchable menu of every applicable service, with the most popular displayed by default.
+E-MAILiT is localized in 75 languages and builds a better social web, helping Publishers and Users by providing innovative engagement tools and services. Optimized for mobile devices like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type)!
 
 > Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
 
-* <a href="http://www.e-mailit.com/share/mobile?url=http://wordpress.org/plugins/e-mailit/&title=Share Buttons by E-MAILiT">Share this</a> plugin, anywhere and anytime on your mobile websites, with the new E-MAILiT Mobile-ready auto-optimized share tool (with **automatic detection of device-type**)
-* E-MAILiT Share Buttons are compact and can be placed in just a small space on your site
-* Use very light weight script which do not effect your site's loading speed
-* Beautiful and attractive design
+2014 will be a year of many milestones for E-MAILiT, focusing on three different tasks: 
+* **New** revenue streams for publishers, and
+* **New** features for users to make SHARING easier.
 
-Optionally, if you want to customize your sharing buttons, get access to targeted analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
+Optionally, if you want to customize your sharing buttons, get access to analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
 
-<p>http://www.youtube.com/watch?v=tKBlk_q83II</p>
-
-> If you have a support question or want to see what other awesome features we are building, you can <a href="http://twitter.com/emailit">Follow us on Twitter</a>! Using the button on your website? Please let us know, we'd love to see it in action :) @emailit
-
-With **constant research and development**, **60+ thousand websites** use E-MAILiT's share buttons, **200+ thousand monthly social interactions**, reached **70+ million hits worldwide**, we trying to build a better worldwide social web, to be **the best sharing platform** by providing unique and innovative marketing tools and services, worldwide and help Publishers promote their web content online through innovation!
-
-<a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/tos">Privacy & Terms</a>
+<a href="http://twitter.com/emailit">Follow us on Twitter</a> | <a href="https://www.quantcast.com/e-mailit.com">Quantcast Analytics</a> | <a href="http://www.crunchbase.com/company/e-mailit">CrunchBase Profile</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Terms</a>
 
 == Installation ==
 
@@ -161,6 +154,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 4.8.2 =
+* Minor bug fixes.
 = 4.8.1 =
 * CSS Fixes.
 = 4.8 =
