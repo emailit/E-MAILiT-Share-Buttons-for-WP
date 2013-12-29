@@ -19,11 +19,11 @@ E-MAILiT is localized in **75 languages** and builds a better social web, helpin
 
 > Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
 
+If you want to customize your sharing buttons, get access to analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
+
 2014 will be a year of many milestones for E-MAILiT, focusing on two different tasks:  
 **New** revenue streams for publishers, and  
 **New** features for users to make SHARING easier.
-
-Optionally, if you want to customize your sharing buttons, get access to analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
 
 <a href="http://twitter.com/emailit">Follow us on Twitter</a> | <a href="https://www.quantcast.com/e-mailit.com">Quantcast Analytics</a> | <a href="http://www.crunchbase.com/company/e-mailit">CrunchBase Profile</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Terms</a>
 
