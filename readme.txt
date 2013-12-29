@@ -19,7 +19,7 @@ E-MAILiT is localized in **75 languages** and builds a better social web, helpin
 
 > Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
 
-2014 will be a year of many milestones for E-MAILiT, focusing on three different tasks:  
+2014 will be a year of many milestones for E-MAILiT, focusing on two different tasks:  
 **New** revenue streams for publishers, and  
 **New** features for users to make SHARING easier.
 
