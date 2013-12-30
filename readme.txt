@@ -11,15 +11,23 @@ Share your content with an attractive social sharing menu for your WordPress sit
 
 == Description == 
 
-E-MAILiT share plugin  
-* increases your site's traffic. 
-* uses industry best practices and its light weight JavaScript does not effect your site's loading speed with its simplicity and performance, because all of the processing runs on our cloud servers and not yours. 
-* is hosted on CloudFlare's CDN, making it as reliable as possible. 
-* it does not add any useless burden on your users, it secures everybody's privacy, because it does not use tracking cookies. 
-* allows you to painlessly and super fast add social life-cycle engagement suite (sharing and following features) to all your posts, pages and custom post types. 
-* is localized in 75 languages. 
+E-MAILiT share plugin 
+
+* Increases your site's traffic. 
+
+* Uses industry best practices and its light weight JavaScript does not effect your site's loading speed with its simplicity and performance, because all of the processing runs on our cloud servers and not yours. 
+
+* Is hosted on CloudFlare's CDN, making it as reliable as possible. 
+
+* It does not add any useless burden on your users, it secures everybody's privacy, because it does not use tracking cookies. 
+
+* Allows you to painlessly and super fast add social life-cycle engagement suite (sharing and following features) to all your posts, pages and custom post types. 
+
+* Is localized in 75 languages. 
+
 * E-MAILiT builds a better social web, helping Publishers and Users by providing innovative engagement tools and services. 
-* optimized for mobile devices like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
+
+* Optimized for mobile devices like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
 
 > Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
 
