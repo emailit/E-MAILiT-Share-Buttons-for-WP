@@ -17,7 +17,7 @@ E-MAILiT Share Buttons (with integrated **third-party share counter buttons**) c
 
 E-MAILiT is localized in **75 languages** and builds a better social web, helping Publishers and Users by providing innovative engagement tools and services. Optimized for **mobile** devices like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type)!
 
-> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
+> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
 
 If you want to customize your sharing buttons, get access to analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
 
