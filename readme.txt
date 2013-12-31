@@ -13,27 +13,27 @@ Share your content with an attractive social sharing menu for your WordPress sit
 
 E-MAILiT share plugin 
 
-* Increases your site's traffic. 
+* Increases your site's **traffic**. 
 
-* Uses industry best practices and its light weight JavaScript does not effect your site's loading speed with its simplicity and performance, because all of the processing runs on our cloud servers and not yours. 
+* Uses industry best practices and its **light weight** JavaScript does not effect your site's loading speed with its simplicity and performance, because all of the processing runs on **our cloud servers** and not yours. 
 
-* Is hosted on CloudFlare's CDN, making it as reliable as possible. 
+* Is hosted on CloudFlare's CDN, making it as **reliable** as possible. 
 
-* It does not add any useless burden on your users, it secures everybody's privacy, because it does not use tracking cookies. 
+* Does not add any useless burden on your users and secures everybody's **privacy**, because it **does not** use tracking cookies. 
 
-* Allows you to painlessly and super fast add social life-cycle engagement suite (sharing and following features) to all your posts, pages and custom post types. 
+* Allows you to painlessly and super fast add **social life-cycle engagement suite** (sharing and following features) to all your posts, pages and custom post types. 
 
 * Is localized in 75 languages. 
 
-* E-MAILiT builds a better social web, helping Publishers and Users by providing innovative engagement tools and services. 
+* Builds a better social web, helping Publishers and Users by providing **innovative** engagement tools and services. 
 
-* Optimized for mobile devices like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
+* Optimized for **mobile devices** like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
 
 > Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
 
-E-MAILiT Share Buttons (with integrated third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default.
+E-MAILiT Share Buttons (with integrated third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**.
 
-If you want to customize your sharing buttons, get access to analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
+If you want to **customize** your sharing buttons, get access to analytics of your complete social life-cycle, advertising campaign data metrics, and more, sign up for a free E-MAILiT.com account.
 
 2014 will be a year of many milestones for E-MAILiT, focusing on two different tasks:  
 **New** revenue streams for publishers, and  
