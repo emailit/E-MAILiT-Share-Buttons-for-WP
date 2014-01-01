@@ -29,7 +29,7 @@ E-MAILiT share plugin
 
 * Optimized for **mobile devices** like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
 
-> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>.
+> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
 
 E-MAILiT Share Buttons (with integrated third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**.
 
