@@ -80,6 +80,11 @@ function emailit_settings_page() {
                     alert("Error! Paste not valid. Domain Verification Publisher Key, always starts with 'E-MAILiT_'");
                     return false;
                 }
+                emailit_button_id = document.getElementById('emailit_button_id');
+                if(emailit_button_id.value != "" && isNaN(emailit_button_id.value)){
+                    alert("Error! Paste not valid. ''Your Button ID'', must contain only digits.");
+                    return false;
+                }                
                 return true;
             }
         </script>
@@ -145,7 +150,7 @@ function emailit_settings_page() {
             <br/>
             <p>
             <div style="width:500px;border-top: solid 1px lightgray; padding: 5px"><br/><br/>
-                <a target="_blank" href="http://www.e-mailit.com/widget/login">Create Your Account To Access</a><br/>
+                <a target="_blank" href="http://www.e-mailit.com/widget/login">Optionally, Create Your Account To Access</a><br/>
                 - Social Sharing Analytics &
                 Advertising Campaign Data Metrics,<br/>
                 - Custom Stylish Buttons (small buttons,
@@ -153,10 +158,9 @@ function emailit_settings_page() {
                 - Create your own advertising campaigns
                 to make extra profit, and many more...            
                 </p>          
+                <strong>Domain Verification Publisher Key:</strong> <input id="emailit_domain_verification"  type="text" name="emailit_options[domain_verification]" value="<?php echo $emailit_options[domain_verification]; ?>" size="50"/><br/><br/>                            
                 <div id="button_id" <?php if ($emailit_options[plugin_type] == "sidebar") echo 'style="display:none"' ?>><strong>Your Button ID:</strong>
                     <input id="emailit_button_id"  type="text" name="emailit_options[button_id]" value="<?php echo $emailit_options[button_id]; ?>"/><br/><br/></div>
-
-                <strong>Domain Verification Publisher Key:</strong> <input id="emailit_domain_verification"  type="text" name="emailit_options[domain_verification]" value="<?php echo $emailit_options[domain_verification]; ?>" size="50"/><br/><br/>            
                 <br/>            
                 <input name="Submit" type="submit" value="<?php esc_attr_e('Save Changes'); ?>" />
             </div>
