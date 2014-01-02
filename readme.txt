@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 4.8.2
+Stable tag: 5.0
 License: GPLv2 or later 
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -12,6 +12,8 @@ Share your content with an attractive social sharing menu for your WordPress sit
 == Description == 
 
 E-MAILiT share plugin 
+
+> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo)
 
 * Increases your site's **traffic**. 
 
@@ -29,13 +31,7 @@ E-MAILiT share plugin
 
 * Optimized for **mobile devices** like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
 
-> Check out the <a href="http://www.e-mailit.com/demos/demo1">live demo</a>
-
-E-MAILiT Share Buttons (with integrated third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**.
-
-You do not need to create an account. By default, we provide you with a standard version of our plugin.
-
-Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more.
+> E-MAILiT Share Buttons (with integrated/customized third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**. You can also show/hide the counter and set your own ''via @Twitter Username''. You do not need to create an account. By default, we provide you with a standard version of our plugin. Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more.
 
 2014 will be a year of many milestones for E-MAILiT, focusing on two different tasks:  
 **New** revenue streams for publishers, and  
@@ -170,6 +166,12 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 5.0 =
+* UX changes in account email alert notifications.
+* UX changes in E-MAILiT Share Mobile Version.
+* Add alert check validation to Your Button ID text box, at WordPress Admin panel / E-MAILiT 
+Settings.
+* UX changes in WordPress frontend Admin panel.
 = 4.8.2 =
 * Minor bug fixes.
 = 4.8.1 =
