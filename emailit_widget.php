@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
   Author: E-MAILiT
-  Version: 5.0
+  Version: 5.1
   Author URI: http://www.e-mailit.com
  */
 
@@ -126,9 +126,12 @@ function emailit_settings_page() {
                                 <option value="top" <?php echo ($emailit_options[button_position] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>                                
                                 <option value="bottom" <?php echo ($emailit_options[button_position] == 'bottom' ? 'selected="selected"' : ''); ?>>Bottom</option>
                             </select></td></tr>
-                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__) ?>') no-repeat right;"><strong>Add Facebook button:</strong></td>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__) ?>') no-repeat right;"><strong>Add Facebook Like button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_fb_button]" value="true" <?php echo ($emailit_options[display_fb_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_share_btn.png', __FILE__) ?>') no-repeat right;"><strong>Add Facebook Share button:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_fb_share_button]" value="true" <?php echo ($emailit_options[display_fb_share_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>                    
                     <tr><td style="height:20px;background: url('<?php echo plugins_url('images/tweeter_btn.png', __FILE__) ?>') no-repeat right;"><strong>Add Twitter button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_tweeter_button]" value="true" <?php echo ($emailit_options[display_tweeter_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
@@ -219,6 +222,8 @@ function emailit_display_button($content) {
     $outputValue .= "<div class=\"e-mailit_toolbox\">" . PHP_EOL;
     if ($emailit_options["display_fb_button"] == 'true')
         $outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title></span>";
+    if ($emailit_options["display_fb_share_button"] == 'true')
+        $outputValue .= "<span class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></span>";    
     if ($emailit_options["display_tweeter_button"] == 'true')
         $outputValue .= "<span class=\"e-mailit_twitter_btn\" $shared_url $shared_title></span>";
     if ($emailit_options["display_gplus_button"] == 'true')

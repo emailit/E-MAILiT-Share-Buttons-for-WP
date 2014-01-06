@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 5.0
+Stable tag: 5.1
 License: GPLv2 or later 
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -166,6 +166,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 5.1 =
+* New third-party counter button to Share with E-MAILiT: Facebook share
 = 5.0 =
 * UX changes in account email alert notifications.
 * UX changes in E-MAILiT Share Mobile Version.

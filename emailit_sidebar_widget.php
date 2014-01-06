@@ -8,11 +8,12 @@ class EmailitSidebarWidget extends WP_Widget {
     }
 
     function form($instance) {
-        $defaults = array('title' => __('E-MAILiT', 'example'), 'button_id' => '', 'facebook_btn' => '', 'tweet_btn' => '', 'googleplus_btn' => '', 'pinterest_btn' => '', 'linkedin_btn' => '' , 'vkontakte_btn' => '');
+        $defaults = array('title' => __('E-MAILiT', 'example'), 'button_id' => '', 'facebook_btn' => '', 'facebook_share_btn' => '', 'tweet_btn' => '', 'googleplus_btn' => '', 'pinterest_btn' => '', 'linkedin_btn' => '' , 'vkontakte_btn' => '');
         $instance = wp_parse_args((array) $instance, $defaults);
         $title = esc_attr($instance['title']);
         $button_id = esc_attr($instance['button_id']);
         $facebook_btn = esc_attr($instance['facebook_btn']);
+        $facebook_share_btn = esc_attr($instance['facebook_share_btn']);
         $tweet_btn = esc_attr($instance['tweet_btn']);
         $googleplus_btn = esc_attr($instance['googleplus_btn']);
         $pinterest_btn = esc_attr($instance['pinterest_btn']);
@@ -23,7 +24,11 @@ class EmailitSidebarWidget extends WP_Widget {
         <p>  
             <label for="<?php echo $this->get_field_id('facebook_btn'); ?>"><?php _e('Add Facebook Like button:'); ?></label>      
             <input class="checkbox" type="checkbox" <?php checked($facebook_btn, 'on'); ?> id="<?php echo $this->get_field_id('facebook_btn'); ?>" name="<?php echo $this->get_field_name('facebook_btn'); ?>" />   
-        </p> 
+        </p>
+        <p>  
+            <label for="<?php echo $this->get_field_id('facebook_share_btn'); ?>"><?php _e('Add Facebook Share button:'); ?></label>      
+            <input class="checkbox" type="checkbox" <?php checked($facebook_share_btn, 'on'); ?> id="<?php echo $this->get_field_id('facebook_share_btn'); ?>" name="<?php echo $this->get_field_name('facebook_share_btn'); ?>" />   
+        </p>         
         <p>  
             <label for="<?php echo $this->get_field_id('tweet_btn'); ?>"><?php _e('Add Tweet share counter button:'); ?></label>      
             <input class="checkbox" type="checkbox" <?php checked($tweet_btn, 'on'); ?> id="<?php echo $this->get_field_id('tweet_btn'); ?>" name="<?php echo $this->get_field_name('tweet_btn'); ?>" />   
@@ -62,6 +67,7 @@ class EmailitSidebarWidget extends WP_Widget {
         $instance['title'] = strip_tags($new_instance['title']);
         $instance['button_id'] = strip_tags($new_instance['button_id']);
         $instance['facebook_btn'] = strip_tags($new_instance['facebook_btn']);
+        $instance['facebook_share_btn'] = strip_tags($new_instance['facebook_share_btn']);      
         $instance['tweet_btn'] = strip_tags($new_instance['tweet_btn']);
         $instance['googleplus_btn'] = strip_tags($new_instance['googleplus_btn']);
         $instance['pinterest_btn'] = strip_tags($new_instance['pinterest_btn']);
@@ -84,6 +90,7 @@ class EmailitSidebarWidget extends WP_Widget {
         if (!empty($instance['button_id']))
             $button_id = $instance['button_id'];
         $facebook_btn = isset($instance['facebook_btn']) ? $instance['facebook_btn'] : '';
+        $facebook_share_btn = isset($instance['facebook_share_btn']) ? $instance['facebook_share_btn'] : '';        
         $tweet_btn = isset($instance['tweet_btn']) ? $instance['tweet_btn'] : '';
         $googleplus_btn = isset($instance['googleplus_btn']) ? $instance['googleplus_btn'] : '';
         $pinterest_btn = isset($instance['pinterest_btn']) ? $instance['pinterest_btn'] : '';
@@ -94,6 +101,8 @@ class EmailitSidebarWidget extends WP_Widget {
         $outputValue .= "<div class=\"e-mailit_toolbox\">" . PHP_EOL;
         if ($facebook_btn != '')
             $outputValue .= "<span class=\"e-mailit_facebook_btn\"></span>";
+        if ($facebook_share_btn != '')
+            $outputValue .= "<span class=\"e-mailit_facebook_share_btn\"></span>";        
         if ($tweet_btn != '')
             $outputValue .= "<span class=\"e-mailit_twitter_btn\"></span>";
         if ($googleplus_btn != '')
