@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 5.1
+Stable tag: 5.2
 License: GPLv2 or later
 
 Share your content with an attractive social sharing menu for your WordPress site or blog.
@@ -24,6 +24,8 @@ E-MAILiT share plugin
 * Does not add any useless burden on your users and secures everybody's **privacy**, because it **does not** use tracking cookies. 
 
 * Allows you to painlessly and super fast add **social life-cycle engagement suite** (sharing and following features) to all your posts, pages and custom post types. 
+
+* Track your social data and analyze metrics. 
 
 * Is localized in 75 languages. 
 
@@ -87,7 +89,7 @@ We try hard every day to give efficiency and the maximum quality of support to o
 Yes!
 
 <h4>Do I need to create an account?</h4>
-No. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? Create an account with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
+No. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? <a href="http://www.e-mailit.com/widget/login">Create an account</a> with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 <h4>Do you offer Share Stats with the non registered version?</h4>
 No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
@@ -166,6 +168,11 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 5.2 =
+* UX changes in E-MAILiT Share Desktop Version.
+* CSS floating bar modifications.
+* Update FAQ.
+* Bug Fixes.
 = 5.1 =
 * New third-party counter button to Share with E-MAILiT: Facebook SHARE.
 = 5.0 =
