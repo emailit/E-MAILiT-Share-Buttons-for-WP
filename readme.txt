@@ -13,7 +13,7 @@ Share your content with an attractive social sharing menu for your WordPress sit
 
 E-MAILiT share plugin 
 
-> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo)
+> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo).
 
 * Increases your site's **traffic**. 
 
