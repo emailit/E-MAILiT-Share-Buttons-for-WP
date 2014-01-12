@@ -8,13 +8,13 @@ Tested up to: 3.8
 Stable tag: 5.3
 License: GPLv2 or later
 
-Attractive Share buttons for Facebook, Twitter, LinkedIn, Pinterest and more, which do not track you, with no use of cookies.
+Share buttons for Facebook, Twitter, LinkedIn, Pinterest and more, which do not track you, with no use of cookies.
 
 == Description == 
 
 E-MAILiT share plugin 
 
-> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo)
+> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo).
 
 * Increases your site's **traffic**. 
 
