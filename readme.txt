@@ -14,7 +14,7 @@ Attractive Share buttons for Facebook, Twitter, LinkedIn, Pinterest and more, wh
 
 E-MAILiT share plugin 
 
-> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo).
+> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo)
 
 * Increases your site's **traffic**. 
 
