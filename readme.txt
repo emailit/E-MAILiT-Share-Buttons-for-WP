@@ -6,7 +6,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.8
 Stable tag: 5.3
-License: GPLv2 or later 
+License: GPLv2 or later
 
 Share buttons for Facebook, Twitter, LinkedIn, Pinterest and more, which do not track you, with no use of cookies.
 
