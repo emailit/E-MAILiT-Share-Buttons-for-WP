@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 5.3
+Stable tag: 5.3.1
 License: GPLv2 or later
 
 Share buttons for Facebook, Twitter, LinkedIn, Pinterest and more, which do not track you, with no use of cookies.
@@ -14,7 +14,7 @@ Share buttons for Facebook, Twitter, LinkedIn, Pinterest and more, which do not 
 
 E-MAILiT share plugin 
 
-> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> [demo]
+> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo).
 
 * Increases your site's **traffic**. 
 
@@ -169,6 +169,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 5.3.1 [2014-1-16] =
+* Bug fix - Several small bug fixes and improvements.
 = 5.3 =
 * Important: Show your trust, certainty and upgrade now! We assure you that upgrade will not change your current E-MAILiT plugin settings.
 * Minor bug fixes.
