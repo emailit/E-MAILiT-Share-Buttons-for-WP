@@ -12,7 +12,7 @@ We're not another Share Button... We're a platform to help Publishers promote th
 
 == Description == 
 
-> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo)
+> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> (demo).
 
 E-MAILiT share plugin 
 
