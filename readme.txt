@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 5.3.5 
+Stable tag: 5.3.5
 License: GPLv2 or later 
 
 We're not another Share Button... We're a platform to help Publishers promote their content through innovation. It has never been this easy.
