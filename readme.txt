@@ -11,7 +11,7 @@ We're not another Share Button... We're a platform to help Publishers promote th
 
 == Description == 
 
-> <a href="http://www.e-mailit.com/demos/demo1">Share Buttons</a> - demo.
+> E-MAILiT Share Buttons (with integrated/customized third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional [Current available Register/Sign In methods via E-MAILiT and Facebook. By default, we provide you with a standard version of our plugin. Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more - <a href="http://www.e-mailit.com/demos/demo1">Demo</a>
 
 E-MAILiT share plugin 
 
@@ -28,8 +28,6 @@ E-MAILiT share plugin
 * Is localized in 75 languages. 
 
 * <a href="http://www.e-mailit.com/share/mobile">Optimized</a> for **mobile devices** like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
-
-> E-MAILiT Share Buttons (<a href="http://www.e-mailit.com/demos/demo1">with integrated/customized third-party share counter buttons</a>) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional [Current available Register/Sign In methods via E-MAILiT and Facebook. By default, we provide you with a standard version of our plugin. Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more.
 
 2014 will be a year of many milestones for E-MAILiT, focusing on two different tasks:  
 **New** revenue streams for publishers, and  
