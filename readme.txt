@@ -11,27 +11,19 @@ We're not another Share Button... We're a platform to help Publishers promote th
 
 == Description == 
 
-> E-MAILiT Share Buttons (with integrated/customized third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional [Current available Register/Sign In methods via E-MAILiT and Facebook. By default, we provide you with a standard version of our plugin. Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more - <a href="http://www.e-mailit.com/demos/demo1">Demo</a>
+E-MAILiT Share Buttons (with integrated/customized third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed **by default**. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional (current available Register/Sign In methods via <a href="http://www.e-mailit.com/widget/login">**E-MAILiT**</a> and <a href="http://www.e-mailit.com/widget/php/fb/login_facebook.php">**Facebook**</a>). By default, we provide you with a standard version of our plugin. Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
+
+<a href="http://www.e-mailit.com/demos/demo1">Demo</a> 
 
 E-MAILiT share plugin 
 
 * Increases your site's **traffic**. 
-
 * Uses industry best practices and its **light weight** JavaScript does not effect your site's loading speed with its simplicity and performance, because all of the processing runs on **our cloud servers** and not yours. 
-
 * Is hosted on CloudFlare's CDN, making it as **reliable** as possible. 
-
 * Allows you to painlessly and super fast add **social life-cycle engagement suite** (sharing and following features) to all your posts, pages and custom post types. 
-
 * Track your social data and analyze metrics. 
-
 * Is localized in 75 languages. 
-
 * <a href="http://www.e-mailit.com/share/mobile">Optimized</a> for **mobile devices** like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
-
-2014 will be a year of many milestones for E-MAILiT, focusing on two different tasks:  
-**New** revenue streams for publishers, and  
-**New** features for users to make SHARING easier.
 
 <a href="http://twitter.com/emailit">Follow us on Twitter</a> | <a href="https://www.quantcast.com/e-mailit.com">Quantcast Analytics</a> | <a href="http://www.crunchbase.com/company/e-mailit">CrunchBase Profile</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Terms</a>
 
