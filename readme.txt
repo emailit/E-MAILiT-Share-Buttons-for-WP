@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 5.3.5
+Stable tag: 5.3.7
 License: GPLv2 or later 
 
 We're not another Share Button... We're a platform to help Publishers promote their content through innovation. It has never been this easy.
@@ -158,6 +158,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 5.3.7 =
+* Support links via Twitter, WordPress Forum and Email, located at your E-MAILiT account control panel.
 = 5.3.5 =
 * UX changes in E-MAILiT account control panel.
 = 5.3.2 [2014-1-19] =
