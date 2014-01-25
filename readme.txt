@@ -25,7 +25,7 @@ E-MAILiT share plugin
 * Is localized in 75 languages. 
 * <a href="http://www.e-mailit.com/share/mobile">Optimized</a> for **mobile devices** like the iPhone, iPod touch, iPad, Android mobile phones, and more! Share anywhere and anytime on your mobile websites, with the E-MAILiT Mobile-ready auto-optimized share tool (with automatic detection of device-type). 
 
-<a href="http://twitter.com/emailit">Follow us on Twitter</a> | <a href="https://www.quantcast.com/e-mailit.com">Quantcast Analytics</a> | <a href="http://www.crunchbase.com/company/e-mailit">CrunchBase Profile</a> | <a href="http://blog.e-mailit.com">Blog</a> | <a href="http://www.e-mailit.com/tos">Terms</a>
+<a href="http://twitter.com/emailit">Follow us on Twitter</a> | <a href="http://www.crunchbase.com/company/e-mailit">CrunchBase Profile</a> | <a href="http://blog.e-mailit.com">Blog</a>
 
 == Installation ==
 
