@@ -17,10 +17,12 @@ E-MAILiT Share Buttons (with integrated/customized **third-party share counter b
 
 [ Recommended: Please update to v5.3.7 for nice and smooth working ] 
 
-**Latest Update**  
+**Latest Update** 
+
 * Support links via Twitter, WordPress Forum and Email, located at your E-MAILiT account control panel. 
 
-**Features**  
+**Features** 
+
 * Increases your site's traffic. 
 * Uses industry best practices and its light weight JavaScript does not effect your site's loading speed with its simplicity and performance, because all of the processing runs on our cloud servers and not yours. 
 * Is hosted on CloudFlare's CDN, making it as reliable as possible. 
