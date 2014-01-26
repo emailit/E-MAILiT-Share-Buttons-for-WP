@@ -13,7 +13,7 @@ We're not another Share Button... We're a platform to help Publishers promote th
 
 E-MAILiT Share Buttons (with integrated/customized third-party share counter buttons) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional (current available Register/Sign In methods via <a href="http://www.e-mailit.com/widget/login">E-MAILiT</a> and <a href="http://www.e-mailit.com/widget/php/fb/login_facebook.php">Facebook</a>). By default, we provide you with a standard version of our plugin. Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
-<a href="http://www.e-mailit.com/demos/demo1">Demo</a> 
+<a href="http://www.e-mailit.com/demos/demo1">Demo.</a> 
 
 E-MAILiT share plugin 
 
