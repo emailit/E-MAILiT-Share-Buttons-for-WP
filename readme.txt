@@ -11,11 +11,13 @@ We're not another Share Button... We're a platform to help Publishers promote th
 
 == Description == 
 
-E-MAILiT Share Buttons (with integrated/customized **third-party share counter buttons** and **Floating ShareBars**) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional (current available Register/Sign In methods via <a href="http://www.e-mailit.com/widget/login">E-MAILiT</a> and <a href="http://www.e-mailit.com/widget/php/fb/login_facebook.php">Facebook</a>). Registering an account, you also get analytics, customize button style (background color, text color, display your text, 6 ShareBar positions, in content buttons), open the widget on click or on hover, customize/arrange and prioritize which Services (for Sharing) and Channels (for Following) you want to include, Promo Display options and create ad campaigns. By default, we provide you with a standard version of our plugin. Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
+E-MAILiT Share Buttons (with integrated/customized **third-party share counter buttons** and **Floating ShareBars**) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional (current available Register/Sign In methods via <a href="http://www.e-mailit.com/widget/login">E-MAILiT</a> and <a href="http://www.e-mailit.com/widget/php/fb/login_facebook.php">Facebook</a>). Registering an account, you also get analytics, customize button style (background color, text color, display your text, 6 ShareBar positions, in content buttons), open the widget on click or on hover, customize/arrange and prioritize which Services (for Sharing) and Channels (for Following) you want to include, Promo Display options and create ad campaigns. By default, we provide you with a standard version of our plugin. 
+
+Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
 <a href="http://www.e-mailit.com/demos/demo1">Check out the LIVE DEMO of the E-MAILiT Share Plugin</a> 
 
-[ Recommended: Please update to v5.3.7 for nice and smooth working. ] 
+[ Recommended: Please update to v5.3.7 for nice and smooth working ] 
 
 **Latest Update** 
 
