@@ -7,7 +7,7 @@ Tested up to: 3.8
 Stable tag: 5.3.7
 License: GPLv2 or later 
 
-E-MAILiT Share Buttons help publishers promote and monetize content through innovation - features third-party buttons, floating ShareBars and Analytics.
+E-MAILiT platform help publishers promote and monetize content through innovation - features share buttons, floating ShareBars and Analytics.
 
 == Description == 
 
