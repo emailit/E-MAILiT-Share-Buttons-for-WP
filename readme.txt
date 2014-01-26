@@ -15,7 +15,7 @@ E-MAILiT Share Buttons (with integrated/customized **third-party share counter b
 
 <a href="http://www.e-mailit.com/demos/demo1">Check out the LIVE DEMO of the E-MAILiT Share Plugin</a> 
 
-[ Recommended: Please update to v5.3.7 for nice and smooth working ] 
+[ Recommended: Please update to v5.3.7 for nice and smooth working. ] 
 
 **Latest Update** 
 
