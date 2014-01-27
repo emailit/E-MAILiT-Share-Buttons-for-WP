@@ -110,15 +110,16 @@ You can count the "Open & Close" action, as an impression. Metrics, such as clic
 <h4>How to verify a domain?</h4>
 
 1. Login with your E-MAILiT account
-2. Add a new domain (your site url)
-3. When press add domain, a unique meta tag code will display on your screen.
+2. Add a New Website
+3. When press Add Website, a meta tag code snippet will display on your screen.
 For example, take a look the given below:                 
 `&lt;meta name="e-mailit-site-verification" content="E-MAILiT_0123456789012345678" /&gt;`
 Paste only the **E-MAILiT_digits**, to the appropriate text box field at your WordPress backend Admin panel. Press Save Changes.  
-4. Go to your E-MAILiT account and press the **Verify now** button at the Website Settings.  
-5. Done!
+**Settings** > **E-MAILiT Share**  Plugin options / Domain Verification Publisher Key  
+4. Return to your E-MAILiT account and press the **Verify Site** button.  
+5. Done! You can create now your first Share Button (http://www.e-mailit.com/widget/control/new_button) for your website.
 
-> **ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag to the specified url source code, which was given by you, to the Domain Manager > Website Settings > Domain.
+> **ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag code snippet to the specified url source code, which was given by you, to the Website Settings > Domain.
 
 <h4>Do I need to edit html or javascript?</h4>
 
@@ -142,7 +143,7 @@ Facebook Like Button displays the likes about a specific url. In order to show c
 
 <h4>How do I set the integrated Follow Channels inside to my share button menu?</h4>
 
-Create a free account and go to Domain Manager > Website Settings http://www.e-mailit.com/widget/control/add_domain
+Create a free account and go to http://www.e-mailit.com/widget/control/add_domain
 
 <h4>What languages do you support?</h4>
 
