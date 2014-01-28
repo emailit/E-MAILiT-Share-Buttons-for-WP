@@ -17,7 +17,7 @@ Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to lea
 
 <a href="http://www.e-mailit.com/demos/demo1">Check out the LIVE DEMO of the E-MAILiT Share Plugin</a> 
 
-[ Recommended: Please update to v5.3.7 for nice and smooth working ] 
+[ Recommended: Please update to v5.3.7 for nice and smooth working. ] 
 
 **Latest Update** 
 
