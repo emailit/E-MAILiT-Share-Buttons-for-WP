@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.8
 Stable tag: 5.3.8
-License: GPLv2 or later
+License: GPLv2 or later 
 
 E-MAILiT platform help publishers promote and monetize content through innovation - features share buttons, floating ShareBars and Analytics.
 
