@@ -15,13 +15,14 @@ E-MAILiT Share Buttons (with integrated/customized **third-party share counter b
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
-<a href="http://www.e-mailit.com/demos/demo1">Check out the DEMO of the E-MAILiT Share Plugin</a> 
+<a href="http://www.e-mailit.com/demos/demo1">Check out the Demo of the E-MAILiT Share Plugin</a> 
 
 **Features** 
 
 * Increases your site's traffic. 
 * Uses industry best practices and its light weight JavaScript does not effect your site's loading speed with its simplicity and performance, because all of the processing runs on our cloud servers and not yours. 
 * Is hosted on CloudFlare's CDN, making it as reliable as possible. 
+* Support asynchronous which ensures a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content. 
 * Allows you to painlessly and super fast add social life-cycle engagement suite (sharing and following features) to all your posts, pages and custom post types. 
 * Track your social data and analyze metrics. 
 * Is localized in 75 languages. 
