@@ -17,10 +17,6 @@ Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to lea
 
 <a href="http://www.e-mailit.com/demos/demo1">Check out the Demo of the E-MAILiT Share Plugin</a> 
 
-**Latest Update** 
-
-* Support links via Twitter, WordPress Forum and Email, located at your E-MAILiT account control panel. 
-
 **Features** 
 
 * Increases your site's traffic. 
