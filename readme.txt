@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 5.3.8
+Stable tag: 5.4
 License: GPLv2 or later 
 
 E-MAILiT platform help publishers promote and monetize content through innovation - features share buttons, floating ShareBars and Analytics.
@@ -15,7 +15,7 @@ E-MAILiT Share Buttons (with integrated/customized **third-party share counter b
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
-<a href="http://www.e-mailit.com/demos/demo1">Check out the Demo of the E-MAILiT Share Plugin</a>. 
+<a href="http://www.e-mailit.com/demos/demo1">Check out the Demo of the E-MAILiT Share Plugin</a> 
 
 **Features** 
 
@@ -154,6 +154,9 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 5.4 =
+* Remove Hyves
+* Add Mail.Ru
 = 5.3.8 =
 * Backend admin panel modifications.
 * Minor bug fixes: style/template conflicts resolved.
