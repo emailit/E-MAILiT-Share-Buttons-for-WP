@@ -15,7 +15,7 @@ E-MAILiT Share Buttons (with integrated/customized **third-party share counter b
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
-<a href="http://www.e-mailit.com/demos/demo1">Check out the DEMO of the E-MAILiT Share Plugin</a> 
+<a href="http://www.e-mailit.com/demos/demo1">Check out the Demo of the E-MAILiT Share Plugin</a>. 
 
 **Features** 
 
