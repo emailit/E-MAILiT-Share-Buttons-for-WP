@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.8
 Stable tag: 5.4
-License: GPLv2 or later 
+License: GPLv2 or later
 
 Add sharing, following and campaigns to desktop sites and mobile devices - monetize your content through E-MAILiT's innovation.
 
