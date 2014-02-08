@@ -11,38 +11,13 @@ Add sharing, following and campaigns to desktop sites and mobile devices - monet
 
 == Description == 
 
-E-MAILiT provides a free, innovative solution that allows publishers to integrate powerful features directly into their websites via a fully customizable platform. The E-MAILiT service integrates a variety of **share buttons**, **social plugins**, **media solutions**, **analytics**, and much more, enabling publishers to increase page views, boost user engagement, easy share and promote their content. You can immediately share in any way you want. With E-MAILiT, simply select what or who you want to share or follow with and send it directly from the page via **email**, **Facebook**, or **mobile** and track the sharing of content. You can also create advertising campaigns, target your sharers & keep all of the **revenue** via an integrated eye catching ad space. The button has been installed by over thousands publishers, generating over 25 million views per month from over 10 million unique users every month.
+<a href="http://www.e-mailit.com">Share Buttons</a> (demo) 
 
-E-MAILiT Share Buttons (with integrated/customized **third-party share counter buttons** and **Floating ShareBars**) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. Create an account is optional (current available Register/Sign In methods via <a href="http://www.e-mailit.com/widget/login">E-MAILiT</a> and <a href="http://www.e-mailit.com/widget/php/fb/login_facebook.php">Facebook</a>). Registering an account, you also get analytics, customize button style (background color, text color, display your text, 6 ShareBar positions, in content buttons), open the widget on click or on hover, customize/arrange and prioritize which Services (for Sharing) and Channels (for Following) you want to include, Promo Display options and create ad campaigns. By default, we provide you with a standard version of our plugin. 
+E-MAILiT Share Buttons (with integrated/customized **third-party share counter buttons** and **Floating ShareBars**) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. 
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
-<a href="http://www.e-mailit.com/demos/demo1">Check out the DEMO of the E-MAILiT Share Plugin</a> 
-
-**Features you'll love** 
-
-* Completely Free 
-* Integrated social life-cycle engagement suite, saving space from your website's canvas 
-* Easy Bookmarking, Sharing & Following 
-* 60 Sharing Services 
-* Increases Content Distribution 
-* 75 Languages automatically localized 
-* Increases Your Rankings & Traffic 
-* Less Clutter 
-* Fast & Reliable Performance 
-* Asynchronous Loading Support 
-* Lightweight File Size 
-* Easily Customizable 
-* Third-party Share Buttons & Floating ShareBars support 
-* Easy to Install 
-* Mobile-friendly optimized with automatic detection of device-type 
-* Analytics 
-* Integrated eye catching advertising space 
-* Promote 300x250 banners & save space from your website's canvas 
-* Create campaigns, target your sharers & keep all of the revenue 
-* Private & Secure 
-
-<a href="http://blog.e-mailit.com">Blog</a> | <a href="http://twitter.com/emailit">Follow us on Twitter</a> | <a href="http://www.crunchbase.com/company/e-mailit">CrunchBase Profile</a>
+<a href="http://twitter.com/emailit">Follow us on Twitter</a>
 
 == Installation ==
 
