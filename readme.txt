@@ -17,6 +17,7 @@ E-MAILiT Share Buttons can be placed anywhere in your site and contain a searcha
 Please, note that for demo purposes the ad popup, in our website, is open. No worries, this ad popup is by default closed in your share plugin. 
 
 Why Use E-MAILiT. **Features** you'll love...  
+
 * Easy Bookmarking, Sharing & Following 
 * 60 Sharing Services 
 * Increases Content Distribution 
