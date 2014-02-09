@@ -7,13 +7,31 @@ Tested up to: 3.8
 Stable tag: 6.0
 License: GPLv2 or later 
 
-Let Sharing work for you, everywhere.
+Share Buttons, Browser Tools, Social Plugins, Media Solutions, Analytics, and more.
 
 == Description == 
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo). 
 
 E-MAILiT Share Buttons (with integrated/customized **third-party share counter buttons** and **Floating ShareBars**) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. 
+
+Why Use E-MAILiT. Features you'll love... 
+
+* Easy Bookmarking, Sharing & Following 
+* 60 Sharing Services 
+* Increases Content Distribution 
+* 75 Languages automatically localized 
+* Increases Your Rankings & Traffic 
+* Less Clutter 
+* Fast & Reliable Performance 
+* Asynchronous Loading Support 
+* Lightweight File Size 
+* Easily Customizable 
+* Third-party Share Buttons & Floating ShareBars support 
+* Easy to Install 
+* Analytics 
+
+Let sharing work for you, everywhere. Add sharing, following and campaigns to desktop sites and mobile devices. Monetize your content through E-MAILiT's innovation. <a href="http://www.e-mailit.com/widget/login">Want to customize?</a> 
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
