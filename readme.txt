@@ -11,7 +11,7 @@ Let Sharing work for you, everywhere.
 
 == Description == 
 
-<a href="http://www.e-mailit.com">Share Buttons</a> (demo) 
+<a href="http://www.e-mailit.com">Share Buttons</a> (demo). 
 
 E-MAILiT Share Buttons (with integrated/customized **third-party share counter buttons** and **Floating ShareBars**) can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. 
 
