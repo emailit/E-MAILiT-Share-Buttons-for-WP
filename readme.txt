@@ -32,7 +32,7 @@ Why Use E-MAILiT. **Features** you'll love...
 * Easy to Install 
 * Analytics 
 
-Let sharing work for you, everywhere. Add sharing, following and campaigns to desktop sites and mobile devices. Monetize your content through E-MAILiT's innovation.  
+Let sharing work for you, everywhere. Add sharing, following & campaigns to desktop sites and mobile devices. Monetize your content through E-MAILiT's innovation.  
 <a href="http://www.e-mailit.com/widget/login">Want to customize?</a> 
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
