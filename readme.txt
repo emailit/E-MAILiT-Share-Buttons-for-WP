@@ -13,7 +13,7 @@ Share Buttons, Browser Tools, Social Plugins, Media Solutions, Analytics, and mo
 
 E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. 
 
-<a href="http://www.e-mailit.com">Share Buttons</a> (Demo)  
+<a href="http://www.e-mailit.com">Share Buttons</a> (demo)  
 Please, note that for demo purposes the ad popup, in our website, is open. No worries, this ad popup is by default closed in your share plugin. 
 
 Why Use E-MAILiT. **Features** you'll love...  
