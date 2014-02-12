@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 6.0
+Stable tag: 6.0.1
 License: GPLv2 or later
 
 Share Buttons, Browser Tools, Social Plugins, Media Solutions, Analytics, and more.
@@ -163,6 +163,9 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 6.0.1 =
+* Update FAQ.
+* Bug Fixes.
 = 6.0 [2014-2-9] =
 * Launch of our new E-MAILiT website!
 = 5.4 =
