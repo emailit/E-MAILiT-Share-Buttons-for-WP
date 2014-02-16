@@ -21,7 +21,7 @@ Increase Content Distribution, Ranking & Traffic of WordPress Sites with E-MAILi
 * Less Clutter 
 * Fast & Reliable Performance 
 * Asynchronous Loading Support 
-* CDN 
+* Content Delivery Network support 
 * Lightweight File Size 
 * Easily Customizable 
 * Third-party Share Buttons & Floating ShareBars support 
