@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.8
 Stable tag: 6.0.1
-License: GPLv2 or later 
+License: GPLv2 or later
 
 Increase Content Distribution, Ranking & Traffic of WordPress Sites with E-MAILiT Share Buttons, Media Solutions, Analytics, & more.
 
