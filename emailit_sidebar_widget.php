@@ -8,10 +8,11 @@ class EmailitSidebarWidget extends WP_Widget {
     }
 
     function form($instance) {
-        $defaults = array('title' => __('E-MAILiT', 'example'), 'button_id' => '', 'facebook_btn' => '', 'facebook_share_btn' => '', 'tweet_btn' => '', 'googleplus_btn' => '', 'pinterest_btn' => '', 'linkedin_btn' => '' , 'vkontakte_btn' => '');
+        $defaults = array('title' => __('E-MAILiT', 'example'), 'button_id' => '', 'emailit_btn' => '', 'facebook_btn' => '', 'facebook_share_btn' => '', 'tweet_btn' => '', 'googleplus_btn' => '', 'pinterest_btn' => '', 'linkedin_btn' => '' , 'vkontakte_btn' => '');
         $instance = wp_parse_args((array) $instance, $defaults);
         $title = esc_attr($instance['title']);
         $button_id = esc_attr($instance['button_id']);
+        $emailit_btn = esc_attr($instance['emailit_btn']);
         $facebook_btn = esc_attr($instance['facebook_btn']);
         $facebook_share_btn = esc_attr($instance['facebook_share_btn']);
         $tweet_btn = esc_attr($instance['tweet_btn']);
@@ -21,6 +22,11 @@ class EmailitSidebarWidget extends WP_Widget {
         $vkontakte_btn = esc_attr($instance['vkontakte_btn']);
         ?>
         <p><label for="<?php echo $this->get_field_id('title'); ?>">Title: <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo attribute_escape($title); ?>" /></label></p>
+        <p>  
+            <label for="<?php echo $this->get_field_id('emailit_btn'); ?>"><?php _e('Remove E-MAILiT button:'); ?></label>      
+            <input class="checkbox" type="checkbox" <?php checked($emailit_btn, 'on'); ?> id="<?php echo $this->get_field_id('emailit_btn'); ?>" name="<?php echo $this->get_field_name('emailit_btn'); ?>" />   
+        </p>
+
         <p>  
             <label for="<?php echo $this->get_field_id('facebook_btn'); ?>"><?php _e('Add Facebook Like button:'); ?></label>      
             <input class="checkbox" type="checkbox" <?php checked($facebook_btn, 'on'); ?> id="<?php echo $this->get_field_id('facebook_btn'); ?>" name="<?php echo $this->get_field_name('facebook_btn'); ?>" />   
@@ -66,6 +72,7 @@ class EmailitSidebarWidget extends WP_Widget {
         $instance = $old_instance;
         $instance['title'] = strip_tags($new_instance['title']);
         $instance['button_id'] = strip_tags($new_instance['button_id']);
+        $instance['emailit_btn'] = strip_tags($new_instance['emailit_btn']);
         $instance['facebook_btn'] = strip_tags($new_instance['facebook_btn']);
         $instance['facebook_share_btn'] = strip_tags($new_instance['facebook_share_btn']);      
         $instance['tweet_btn'] = strip_tags($new_instance['tweet_btn']);
@@ -89,6 +96,7 @@ class EmailitSidebarWidget extends WP_Widget {
         $button_id = "";
         if (!empty($instance['button_id']))
             $button_id = $instance['button_id'];
+        $emailit_btn = isset($instance['emailit_btn']) ? $instance['emailit_btn'] : '';
         $facebook_btn = isset($instance['facebook_btn']) ? $instance['facebook_btn'] : '';
         $facebook_share_btn = isset($instance['facebook_share_btn']) ? $instance['facebook_share_btn'] : '';        
         $tweet_btn = isset($instance['tweet_btn']) ? $instance['tweet_btn'] : '';
@@ -112,11 +120,12 @@ class EmailitSidebarWidget extends WP_Widget {
         if ($linkedin_btn != '')
             $outputValue .= "<span class=\"e-mailit_linkedin_btn\"></span>";
         if ($vkontakte_btn != '')
-            $outputValue .= "<span class=\"e-mailit_vkontakte_btn\"></span>";        
-        if ($button_id == "" || $button_id == "Your Button ID")
-            $outputValue .= " <div class='e_mailit_button'>";
-        else
-            $outputValue .= " <div class='e_mailit_button' id='$button_id'>";
+            $outputValue .= "<span class=\"e-mailit_vkontakte_btn\"></span>";    
+        if ($emailit_btn == '')
+            if ($button_id == "" || $button_id == "Your Button ID")
+                $outputValue .= " <div class='e_mailit_button'></div>";
+            else
+                $outputValue .= " <div class='e_mailit_button' id='$button_id'></div>";
         $outputValue .= "</div>";
         $outputValue .= "<!-- E-MAILiT Sharing Button END -->" . PHP_EOL;
 

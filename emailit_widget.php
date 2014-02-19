@@ -99,6 +99,10 @@ function emailit_settings_page() {
             <h2>Plugin options</h2>
             <p><strong>Use E-MAILiT Share buttons in content and sidebar (Widget)</strong><p>
             <table width="650px" >
+                    <tr><td><strong>Remove E-MAILiT Share Button:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[remove_emailit_button]" value="true" <?php echo ($emailit_options[remove_emailit_button] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                
                 <tr><td width="300px" style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__) ?>') no-repeat right;"><strong>Show E-MAILiT share counter:</strong></td>
                     <td>
                         <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options[display_counter] == true ? 'checked="checked"' : ''); ?>/>
@@ -234,17 +238,17 @@ function emailit_display_button($content) {
         $outputValue .= "<span class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></span>";
     if ($emailit_options["display_vkontakte_button"] == 'true')
         $outputValue .= "<span class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></span>";
+    if ($emailit_options["remove_emailit_button"] !== 'true' ){
+        if ($button_id == "" || $button_id == "Your Button ID"){
+            $outputValue .= " <div class='e_mailit_button' $shared_url $shared_title></div>" . PHP_EOL;
+        }else{
+            $outputValue .= " <div class='e_mailit_button' id='$button_id' $shared_url $shared_title></div>" . PHP_EOL;
+        }
+    }
 
-    if ($button_id == "" || $button_id == "Your Button ID")
-        $outputValue .= " <div class='e_mailit_button' $shared_url $shared_title>" . PHP_EOL;
-    else
-        $outputValue .= " <div class='e_mailit_button' id='$button_id' $shared_url $shared_title>" . PHP_EOL;
 
 
-
-
-
-    $outputValue .= "</div></div>";
+    $outputValue .= "</div>";
     $outputValue .= "<!-- E-MAILiT Sharing Button END -->" . PHP_EOL;
 
     if ($emailit_options["button_position"] == 'top')
