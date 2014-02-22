@@ -11,7 +11,7 @@ Increase Content Distribution, Ranking & Traffic of WordPress Sites with E-MAILi
 
 == Description == 
 
-> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. <a href="http://www.e-mailit.com">Share Buttons demo</a>, (note that for demo purposes the ad popup, in our website, is open. No worries, this ad popup is by default closed in your share plugin). 
+> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. <a href="http://www.e-mailit.com">Share Buttons demo</a> (note that for demo purposes the ad popup, in our website, is open. No worries, this ad popup is by default closed in your share plugin). 
 
 **Summary of Features**  
 
