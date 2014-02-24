@@ -4,14 +4,14 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 6.0.2 
+Stable tag: 6.0.2.1 
 License: GPLv2 or later
 
 Increase Content Distribution, Ranking & Traffic of WordPress Sites with E-MAILiT Share Buttons, Media Solutions, Analytics, & more.
 
 == Description == 
 
-> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. <a href="http://www.e-mailit.com">Share Buttons Demo</a>, (note that for demo purposes the ad popup, in our website, is open. No worries, this ad popup is by default closed in your share plugin). 
+> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter and set your own ''via @Twitter Username''. <a href="http://www.e-mailit.com">Share Buttons demo</a> (note that for demo purposes the ad popup, in our website, is open. No worries, this ad popup is by default closed in your share plugin). 
 
 **Summary of Features**  
 
@@ -158,6 +158,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 6.0.2.1 =
+* Bug Fixes.
 = 6.0.2 =
 * Remove E-MAILiT pink Share Button and use only the (out of the box) third-party share counter buttons.
 * Other plugin conflicts: Resolved.
