@@ -7,7 +7,7 @@ Tested up to: 3.8
 Stable tag: 6.0.2.2 
 License: GPLv2 or later 
 
-Increase Content Distribution, Ranking & Traffic of WordPress Sites with E-MAILiT Share Buttons, Media Solutions, Analytics, & more.
+E-MAILiT sharing plugin help people share your posts and/or pages using any service, such as Facebook, Twitter, WhatsApp & Foursquare.
 
 == Description == 
 
@@ -15,6 +15,10 @@ Increase Content Distribution, Ranking & Traffic of WordPress Sites with E-MAILi
 
 **Summary of Features**  
 
+* Easy to Install 
+* Increase Content Distribution & Engagement, Ranking & Traffic 
+* Enable Media Solutions 
+* Detailed Analytics 
 * Easy Bookmarking, Sharing & Following 
 * 60 Sharing Services 
 * 75 Languages automatically localized 
@@ -25,7 +29,6 @@ Increase Content Distribution, Ranking & Traffic of WordPress Sites with E-MAILi
 * Lightweight File Size 
 * Easily Customizable 
 * Third-party Share Buttons & Floating ShareBars support 
-* Easy to Install 
 
 Let sharing work for you, everywhere. Add sharing, following & campaigns to desktop sites and mobile devices. Monetize your content through E-MAILiT's innovation.  
 <a href="http://www.e-mailit.com/widget/login">Want to customize?</a> 
