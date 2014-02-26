@@ -31,6 +31,7 @@ E-MAILiT sharing plugin help people share your posts and/or pages using any serv
 * Fast & Reliable Performance 
 * Asynchronous Loading Support 
 * Content Delivery Network support 
+* Localized in English, Greek, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan; Valencian, Central Khmer, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Esperanto, Estonian, Faroese, Finnish, French, Galician, Georgian, German, Gujarati, Haitian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Kurdish, Latin, Latvian, Lithuanian, Luxembourgish, Malay, Maltese, Mongolian, Northern Sami, Norwegian, Pashto, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tamil, Tatar, Telugu, Thai, Tswana, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish 
 * Lightweight File Size 
 * Easily Customizable 
 * Third-party Share Buttons & Floating ShareBars support 
