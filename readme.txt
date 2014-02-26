@@ -11,7 +11,7 @@ E-MAILiT sharing plugin help people share your posts and/or pages using any serv
 
 == Description == 
 
-> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even the button itself (using the Third-party Share Buttons instead) and set your own ''via @Twitter Username''.
+> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even remove the button itself (using the Third-party Share Buttons instead) and set your own ''via @Twitter Username''.
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
