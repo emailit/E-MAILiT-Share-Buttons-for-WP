@@ -13,7 +13,7 @@ E-MAILiT sharing plugin help people share your posts and/or pages using any serv
 
 > E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even remove the button itself (using the Third-party Share Buttons instead) and set your own ''via @Twitter Username''.
 
-<a href="http://www.e-mailit.com">Share Buttons</a> (demo)
+<a href="http://www.e-mailit.com">Share Buttons</a> (Demo)
 
 * for demo purposes the ad popup, in our website, is open and by default closed in your share plugin. 
 * the WhatsApp service, is currently available only in iOS mobile devices. 
