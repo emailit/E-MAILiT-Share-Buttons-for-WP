@@ -26,12 +26,11 @@ E-MAILiT sharing plugin help people share your posts and/or pages using any serv
 * Detailed Analytics 
 * Easy Bookmarking, Sharing & Following 
 * 60 Sharing Services 
-* 75 Languages automatically localized 
 * Less Clutter 
 * Fast & Reliable Performance 
 * Asynchronous Loading Support 
 * Content Delivery Network support 
-* Localized in English, Greek, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan; Valencian, Central Khmer, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Esperanto, Estonian, Faroese, Finnish, French, Galician, Georgian, German, Gujarati, Haitian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Kurdish, Latin, Latvian, Lithuanian, Luxembourgish, Malay, Maltese, Mongolian, Northern Sami, Norwegian, Pashto, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tamil, Tatar, Telugu, Thai, Tswana, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish 
+* Automatically localized in English, Greek, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan; Valencian, Central Khmer, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Esperanto, Estonian, Faroese, Finnish, French, Galician, Georgian, German, Gujarati, Haitian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Kurdish, Latin, Latvian, Lithuanian, Luxembourgish, Malay, Maltese, Mongolian, Northern Sami, Norwegian, Pashto, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tamil, Tatar, Telugu, Thai, Tswana, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish 
 * Lightweight File Size 
 * Easily Customizable 
 * Third-party Share Buttons & Floating ShareBars support 
@@ -160,6 +159,15 @@ Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali,
 <h4>Why do I get your ads? How can I terminate them? Are you a spammer?</h4>
 
 We are not spammers. By default, when a visitor returns to your site, after clicking to share your content via a service, they will see an advertisement, on the left of the share menu. This advertisement never shows when the share menu of the E-MAILiT button opens at first. It will never show up on your visitor's screen, if they do not click on a sharing service. Our strategy is not making you or your visitors feel frustrated, so we display advertisements in this smart way. On the other hand, you have the option to automatically show/hide the Ad Display on the widget's share menu. The advertisement is there for anyone interested to see, or you can simply hide it! It is that easy. The only thing you need to do is to create a free account and customize your settings.
+
+<h4>Does your share button appears last in my pages and causes extra loading time to my site?</h4>
+<ul>
+<li>Well-engineered and optimized code will not slow or block your website pages from loading.</li>
+<li>We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver content more efficiently to users.</li>
+<li>Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content.</li>
+<li>Google Page Speed Insight Compliant / Optimized.</li>
+<li>Use very light weight script which do not effect your site's loading speed.</li>
+</ul>
 
 == Screenshots ==
 01. Plugin options (a)
