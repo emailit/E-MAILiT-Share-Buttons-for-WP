@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 6.3
+Stable tag: 6.3.1
 License: GPLv2 or later 
 
 E-MAILiT sharing plugin help people share your posts and/or pages using any service, such as Facebook, Twitter, WhatsApp & Foursquare.
@@ -13,7 +13,7 @@ E-MAILiT sharing plugin help people share your posts and/or pages using any serv
 
 > E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even remove the button itself (using the Third-party Share Buttons instead) and set your own ''via @Twitter Username''.
 
-<a href="http://www.e-mailit.com">Share Buttons</a> (demo) 
+<a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
 * for demo purposes the ad popup, in our website, is open and by default closed in your share plugin. 
 * the WhatsApp service, is currently available only in iOS mobile devices. 
@@ -40,7 +40,7 @@ Let sharing work for you, everywhere. Add sharing, following & campaigns to desk
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
 
-<a href="http://twitter.com/emailit">Follow us on Twitter</a>
+<a href="http://blog.e-mailit.com">Blog</a> | <a href="http://twitter.com/emailit">Follow us on Twitter</a>
 
 == Installation ==
 
@@ -175,6 +175,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 6.3.1 =
+* Other plugin conflicts: Resolved.
 = 6.3 =
 * Add WhatsApp.
 = 6.0.2.1 =
