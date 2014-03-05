@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
   Author: E-MAILiT
-  Version: 6.3.1
+  Version: 6.4
   Author URI: http://www.e-mailit.com
  */
 
@@ -133,6 +133,9 @@ function emailit_settings_page() {
                     <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__) ?>') no-repeat right;"><strong>Add Facebook Like button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_fb_button]" value="true" <?php echo ($emailit_options['display_fb_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                    <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_like_share_btn.png', __FILE__) ?>') no-repeat right;padding-left:20px"><strong>Include Share button:</strong></td>
+                        <td>
+                            <input type="checkbox" name="emailit_options[display_fb_like_share_button]" value="true" <?php echo ($emailit_options['display_fb_like_share_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                     <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_share_btn.png', __FILE__) ?>') no-repeat right;"><strong>Add Facebook Share button:</strong></td>
                         <td>
                             <input type="checkbox" name="emailit_options[display_fb_share_button]" value="true" <?php echo ($emailit_options['display_fb_share_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>                    
@@ -224,8 +227,11 @@ function emailit_display_button($content) {
 
     $outputValue = "<!-- E-MAILiT Sharing Button BEGIN -->" . PHP_EOL;
     $outputValue .= "<div class=\"e-mailit_toolbox\">" . PHP_EOL;
-    if ($emailit_options["display_fb_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title></span>";
+    if ($emailit_options["display_fb_button"] == 'true'){
+        if($emailit_options["display_fb_like_share_button"] == 'true')
+            $share_str = "e-mailit:include_share='true'";
+        $outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
+    }
     if ($emailit_options["display_fb_share_button"] == 'true')
         $outputValue .= "<span class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></span>";    
     if ($emailit_options["display_tweeter_button"] == 'true')
