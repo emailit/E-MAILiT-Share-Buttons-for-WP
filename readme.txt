@@ -176,7 +176,7 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 
 == Changelog ==
 = 6.4 =
-* Third party button Fb like can be added in combination with Fb share button.
+* Third party Fb like button can be added in combination with Fb share button.
 = 6.3.1 =
 * Other plugin conflicts: Resolved.
 = 6.3 =
