@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 6.3.1
+Stable tag: 6.4.1
 License: GPLv2 or later
 
 E-MAILiT sharing plugin help people share your posts and/or pages using any service, such as Facebook, Twitter, WhatsApp & Foursquare.
@@ -148,6 +148,10 @@ It would be dumb and catastrophic for us, to develop a plugin which can not unin
 
 Facebook Like Button displays the likes about a specific url. In order to show correctly your likes you must place the button in the right place. If you haven't inserted the button in your home page, propably your likes are linked to it. If in case this is valid, by placing the button in your home page you will see the correct like counter for your site.
 
+<h4>Facebook Share Button seems to show an incorrect number! Why?</h4>
+
+The count result is common for share and like interactions. Please, see here https://developers.facebook.com/docs/plugins/like-button/ There are counters for posting an article or sharing a page content. These are two seperate different interactions. But you can include the Share button next to the Like button, having more sharing options to display on your website and not feeling confused about the similar counters. You will have two different buttons together, with one counter only to display.
+
 <h4>How do I set the integrated Follow Channels inside to my share button menu?</h4>
 
 Create a free account and go to http://www.e-mailit.com/widget/control/add_domain
@@ -175,8 +179,11 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 6.4.1 =
+* Minor bug fixes.
+* Update FAQ (Q: Facebook Share Button seems to show an incorrect number! Why?).
 = 6.4 =
-* Third party Fb like button can be added in combination with Fb share button.
+* Display a Facebook Share Button next to the Facebook Like Button, showing one counter, to let people add a personal message and customize who they share with.
 = 6.3.1 =
 * Other plugin conflicts: Resolved.
 = 6.3 =
