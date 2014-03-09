@@ -15,9 +15,6 @@ E-MAILiT sharing plugin help people share your posts and/or pages using any serv
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
-* for demo purposes the ad popup, in our website, is open and by default closed in your share plugin. 
-* the WhatsApp service, is currently available only in iOS mobile devices. 
-
 **Summary of Features**  
 
 * Easy to Install 
@@ -25,7 +22,7 @@ E-MAILiT sharing plugin help people share your posts and/or pages using any serv
 * Enable Media Solutions 
 * Detailed Analytics 
 * Easy Bookmarking, Sharing & Following 
-* 60 Sharing Services 
+* 60 Sharing Services (the WhatsApp service, is currently available only in iOS mobile devices) 
 * Less Clutter 
 * Fast & Reliable Performance 
 * Asynchronous Loading Support 
