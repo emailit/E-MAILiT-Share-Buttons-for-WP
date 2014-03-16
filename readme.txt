@@ -7,7 +7,7 @@ Tested up to: 3.8
 Stable tag: 6.4.4
 License: GPLv2 or later 
 
-E-MAILiT sharing plugin help people share your posts and/or pages using any service, such as Facebook, Twitter, WhatsApp & Foursquare.
+The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
 
 == Description == 
 
