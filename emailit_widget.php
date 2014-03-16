@@ -54,7 +54,9 @@ function add_domain_verification_meta() {
         $configValues[] = "TwitterID:'" . $emailit_options["TwitterID"] . "'";
     else
         $configValues[] = "TwitterID:''";
-
+    if($emailit_options['GA_id'] != "")
+        $configValues[] = "ga_property_id:'" . $emailit_options["GA_id"] . "'";
+    
     $outputValue .= "var e_mailit_config = {" . implode(",", $configValues) . "};";
     $outputValue .= "(function() {	var b=document.createElement('script');	
                         b.type='text/javascript';b.async=true;	
@@ -164,6 +166,10 @@ function emailit_settings_page() {
                                 <option value="both" <?php echo ($emailit_options['button_position'] == 'both' ? 'selected="selected"' : ''); ?>>Both</option>
                             </select></td></tr>
                 </tbody>
+            </table>
+            <h2 style="font-size: 36px;">Get Stats</h2>
+            <table width="650px" >
+                <tr><td style="padding-bottom:20px"><strong>Google Analytics property ID:</strong></td><td style="padding-bottom:20px"><input type="text" name="emailit_options[GA_id]" value="<?php echo $emailit_options['GA_id']; ?>"/></td></tr>
             </table>
             <div><br/><strong>Edit Sidebar (Widget) Settings:</strong> Go to Appearance > Widgets > Main Sidebar > E-MAILiT Share</div>            
             <br/>
