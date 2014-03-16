@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 6.4.2
+Stable tag: 6.4.3
 License: GPLv2 or later 
 
 E-MAILiT sharing plugin help people share your posts and/or pages using any service, such as Facebook, Twitter, WhatsApp & Foursquare.
@@ -176,6 +176,10 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. Plugin options (c)
 
 == Changelog ==
+= 6.4.3 =
+* Place your buttons in both position (top and bottom of a page/article etc.).
+* Frontend WordPress admin panel: UX interface re-design.
+* Backend WordPress admin panel: Coding modifications.
 = 6.4.2 =
 * Several small bug fixes and improvements.
 = 6.4.1 =
