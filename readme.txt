@@ -171,9 +171,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 </ul>
 
 == Screenshots ==
-01. Plugin options (a)
-02. Plugin options (b)
-03. Plugin options (c)
+01. The Google Analytics dashboard with social share data
+02. The settings interface
 
 == Changelog ==
 = 6.4.3 =
