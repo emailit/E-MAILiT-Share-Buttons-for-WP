@@ -4,14 +4,14 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8
-Stable tag: 6.4.3
+Stable tag: 6.4.4
 License: GPLv2 or later 
 
 E-MAILiT sharing plugin help people share your posts and/or pages using any service, such as Facebook, Twitter, WhatsApp & Foursquare.
 
 == Description == 
 
-> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even remove the button itself (using the Third-party Share Buttons instead), place your buttons in both position - top and bottom of a page/article and set your own ''via @Twitter Username''.
+> E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even remove the button itself (using the Third-party Share Buttons instead), place your buttons in both position - top and bottom of a page/article, get social stats without registration and set your own ''via @Twitter Username''.
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
@@ -90,16 +90,8 @@ Yes!
 No. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? <a href="http://www.e-mailit.com/widget/login">Create an account</a> with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
 
 <h4>Do you offer Share Stats with the non registered version?</h4>
-No. You need first to create an account and start getting stats about the social sharing activity of your website. The sharing itself works the same either way.
-Own your social data and your metrics. We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because you must have them all in one place. Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
+Yes. Own your social data and your metrics. We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because you must have them all in one place. Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
 
-Follow the simple steps below to start receiving social data for your website:
-<ul>
-<li>Register for Google Analytics at http://www.google.com/analytics and follow their instructions to embed their snippet into your site pages (source code).</li>
-<li>Sign in to your E-MAILiT account. Go to your domain settings and fill in the Google Analytics field, with your unique UA id of your GA account.</li>
-<li>After the domain verification and the share button creation, we log your social events automatically, since E-MAILiT track your Google Analytics UA id.</li>
-<li>In your Google Analytics reports, you can find the E-MAILiT social networking/sharing trend under: Content > Events > Overview > E-MAILiT</li>
-</ul>
 Available Event Categories & Actions:
 <ul>
 <li>E-MAILiT Button (Open for the menu)</li>
@@ -176,6 +168,10 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.4.4 =
+* Without register, E-MAILiT allow you track how visitors are sharing and what content is being shared and driving 
+traffic back to your site. View E-MAILiT social share data in your Google Analytics dashboard you already use.
+* Update FAQ.
 = 6.4.3 =
 * Place your buttons in both position (top and bottom of a page/article etc.).
 * Frontend WordPress admin panel: UX interface re-design.
