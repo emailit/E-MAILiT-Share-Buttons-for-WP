@@ -13,7 +13,7 @@ The easy way to help your visitors to share your content, adding an attractive s
 
 > E-MAILiT Share Buttons can be placed anywhere in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even remove the button itself (using the Third-party Share Buttons instead), place your buttons in both position - top and bottom of a page/article, get social stats without registration and set your own ''via @Twitter Username''.
 
-<a href="http://www.e-mailit.com">Share Buttons</a> (demo)
+<a href="http://www.e-mailit.com">Share Buttons</a> (demo) 
 
 **Summary of Features**  
 
