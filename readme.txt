@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8.1
-Stable tag: 6.4.4
+Stable tag: 6.4.5
 License: GPLv2 or later
 
 The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
@@ -168,6 +168,11 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.4.5 =
+* Remove Bebo.
+* Remove Netlog.
+* Add Kindle It.
+* Add Mendeley.
 = 6.4.4 =
 * Without register, E-MAILiT allow you track how visitors are sharing and what content is being shared and driving 
 traffic back to your site. View E-MAILiT social share data in your Google Analytics dashboard you already use.
