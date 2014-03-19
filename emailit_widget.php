@@ -227,6 +227,10 @@ function emailit_display_button($content) {
     else
         $display = false;
 
+    $custom_fields = get_post_custom($post->ID);
+    if (isset ($custom_fields['emailit_exclude']) && $custom_fields['emailit_exclude'][0] ==  'true')
+        $display = false;    
+    
     //an den prepei na mpei
     if (!$display)
         return $content;
@@ -279,4 +283,6 @@ function emailit_display_button($content) {
         $content = $content . $outputValue;
     return $content;
 }
+
+require_once('emailit_post_metabox.php');
 ?>
