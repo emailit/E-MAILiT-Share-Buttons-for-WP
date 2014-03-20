@@ -4,14 +4,14 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8.1
-Stable tag: 6.4.5
+Stable tag: 6.5
 License: GPLv2 or later 
 
 The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
 
 == Description == 
 
-> E-MAILiT Share Buttons can be placed **anywhere** in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even **remove** the button itself (using the Third-party Share Buttons instead), place your buttons in **both** position - top and bottom of a page/article, get **social stats without registration**, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house **link shortening** service.
+> E-MAILiT Share Buttons can be placed **anywhere** in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or even **remove** totally the button (using the Third-party Share Buttons instead) even from **certain page(s) or post(s)** too, place your buttons in **both** position - top and bottom of a page/article, get **social stats without registration**, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house **link shortening** service.
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
@@ -121,9 +121,9 @@ Paste only the **E-MAILiT_digits**, to the appropriate text box field at your Wo
 
 There is no need to edit any line of code. The whole installation procedure of our plugin, will take place at your WordPress admin control panel. If you want a custom solution, you should create an E-MAILiT account. In that case you must combine the E-MAILiT admin control panel options with your WordPress admin control panel options.
 
-<h4>How do I eliminate the plugin from certain pages?</h4>
+<h4>How do I eliminate/remove the plugin from certain page(s) or post(s)?</h4>
 
-Unfortunately, there is no option in WordPress for something like this. There is no an automated solution to delete locally and in certain pages, the share button code. Also, if you choose to auto-install our plugin you can't edit the html source code of your wp pages, to delete our code in certain pages. You can do the opposite, though, if you are familiar editing html and javascript code. Try to put in your preferred pages our share button code, manually.
+When editing a post or page, you can check the "E-MAILiT" option in "screen options" to enable E-MAILiT remove meta box.
 
 <h4>How do I activate / de-activate your plugin?</h4>
 
@@ -168,6 +168,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.5 =
+* Eliminate/remove the plugin from certain page(s) or post(s).
 = 6.4.5 =
 * Remove Bebo.
 * Remove Netlog.
