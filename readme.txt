@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.8.1
-Stable tag: 6.5
+Stable tag: 6.5.1
 License: GPLv2 or later 
 
 The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
@@ -168,6 +168,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.5.1 =
+* E-MAILiT's innovative Advertising notice, can be hidden.
 = 6.5 =
 * Eliminate/remove the plugin from certain page(s) or post(s).
 = 6.4.5 =

@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
   Author: E-MAILiT
-  Version: 6.5
+  Version: 6.5.1
   Author URI: http://www.e-mailit.com
  */
 
@@ -32,9 +32,25 @@ add_action('wp_head', 'add_domain_verification_meta');
 add_action('admin_notices', 'emailit_admin_notices');
 
 function emailit_admin_notices() {
-    echo '<div class="updated"><p>';
-    echo 'E-MAILiT\'s innovative Advertising Program can leverage advanced targeting capabilities to reach your desired audience, promoting you on widget\'s Desktop version, Mobile version and Login page, with geo targeting, analytics, unlimited impressions/clicks, exclusive Global Publisher Network appearance. <a href="mailto:advertising@e-mailit.com">Get</a> a free 15-day trial.';
-    echo "</p></div>";
+    global $current_user;
+    $user_id = $current_user->ID;
+
+    if (!get_user_meta($user_id, 'emailit_ignore_notice')) {
+        echo '<div class="updated"><p>';
+        printf(__('E-MAILiT\'s innovative Advertising Program can leverage advanced targeting capabilities to reach your desired audience, promoting you on widget\'s Desktop version, Mobile version and Login page, with geo targeting, analytics, unlimited impressions/clicks, exclusive Global Publisher Network appearance. <a href="mailto:advertising@e-mailit.com">Get</a> a free 15-day trial. | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore=0');
+        echo "</p></div>";
+    }
+}
+
+add_action('admin_init', 'emailit_nag_ignore');
+
+function emailit_nag_ignore() {
+    global $current_user;
+    $user_id = $current_user->ID;
+    /* If user clicks to ignore the notice, add that to their user meta */
+    if (isset($_GET['emailit_nag_ignore']) && '0' == $_GET['emailit_nag_ignore']) {
+        add_user_meta($user_id, 'emailit_ignore_notice', 'true', true);
+    }
 }
 
 function add_domain_verification_meta() {
@@ -54,9 +70,9 @@ function add_domain_verification_meta() {
         $configValues[] = "TwitterID:'" . $emailit_options["TwitterID"] . "'";
     else
         $configValues[] = "TwitterID:''";
-    if($emailit_options['GA_id'] != "")
+    if ($emailit_options['GA_id'] != "")
         $configValues[] = "ga_property_id:'" . $emailit_options["GA_id"] . "'";
-    
+
     $outputValue .= "var e_mailit_config = {" . implode(",", $configValues) . "};";
     $outputValue .= "(function() {	var b=document.createElement('script');	
                         b.type='text/javascript';b.async=true;	
@@ -228,9 +244,9 @@ function emailit_display_button($content) {
         $display = false;
 
     $custom_fields = get_post_custom($post->ID);
-    if (isset ($custom_fields['emailit_exclude']) && $custom_fields['emailit_exclude'][0] ==  'true')
-        $display = false;    
-    
+    if (isset($custom_fields['emailit_exclude']) && $custom_fields['emailit_exclude'][0] == 'true')
+        $display = false;
+
     //an den prepei na mpei
     if (!$display)
         return $content;
