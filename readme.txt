@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.8.1
 Stable tag: 6.5.1
-License: GPLv2 or later
+License: GPLv2 or later 
 
 The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
 
