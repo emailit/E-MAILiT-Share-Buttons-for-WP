@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
   Author: E-MAILiT
-  Version: 6.5.1
+  Version: 6.5.2
   Author URI: http://www.e-mailit.com
  */
 
@@ -37,7 +37,7 @@ function emailit_admin_notices() {
 
     if (!get_user_meta($user_id, 'emailit_ignore_notice')) {
         echo '<div class="updated"><p>';
-        printf(__('E-MAILiT\'s innovative Advertising Program can leverage advanced targeting capabilities to reach your desired audience, promoting you on widget\'s Desktop version, Mobile version and Login page, with geo targeting, analytics, unlimited impressions/clicks, exclusive Global Publisher Network appearance. <a href="mailto:advertising@e-mailit.com">Get</a> a free 15-day trial. | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore=0');
+        printf(__('Thank you for using <a href="http://twitter.com/emailit">@emailit</a>. <a href="mailto:advertising@e-mailit.com?subject=I want to Advertise With You!">Get a FREE 1-month advert</a>, in front of 800k people per day. Why not give a try! | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore=0');
         echo "</p></div>";
     }
 }
