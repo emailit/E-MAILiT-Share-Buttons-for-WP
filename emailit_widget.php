@@ -37,7 +37,7 @@ function emailit_admin_notices() {
 
     if (!get_user_meta($user_id, 'emailit_ignore_notice')) {
         echo '<div class="updated"><p>';
-        printf(__('Thank you for using <a href="http://twitter.com/emailit">@emailit</a>. <a href="mailto:advertising@e-mailit.com?subject=I want to Advertise With You!">Get a FREE 1-month advert</a>, in front of 800k people per day. Why not give a try! | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore=0');
+        printf(__('We offer you an exclusive FREE (no tricks or hidden fees) 1-month advert to our Global Publisher Network. Just click on the following link to access our media kit with further details: <a href="http://www.e-mailit.com/mediakit">http://www.e-mailit.com/mediakit</a>. Hopefully the package matches your expectations, looking forward to your reply. | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore=0');
         echo "</p></div>";
     }
 }
