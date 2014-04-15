@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
   Author: E-MAILiT
-  Version: 6.6
+  Version: 6.6.1
   Author URI: http://www.e-mailit.com
  */
 
@@ -255,7 +255,7 @@ function emailit_display_button($content) {
     $url = get_permalink();
     $title = get_the_title();
 
-    $shared_url = "e-mailit:url='" . $url . "'";
+    $shared_url = "e-mailit:url='" . strip_tags($url) . "'";
     $shared_title = "e-mailit:title='" . $title . "'";
     //Creating div elements for e-mailit
     $button_id = $emailit_options["button_id"];
