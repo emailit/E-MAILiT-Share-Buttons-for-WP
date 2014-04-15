@@ -255,8 +255,8 @@ function emailit_display_button($content) {
     $url = get_permalink();
     $title = get_the_title();
 
-    $shared_url = "e-mailit:url='" . strip_tags($url) . "'";
-    $shared_title = "e-mailit:title='" . $title . "'";
+    $shared_url = "e-mailit:url='" . $url . "'";
+    $shared_title = "e-mailit:title='" . strip_tags($title) . "'";
     //Creating div elements for e-mailit
     $button_id = $emailit_options["button_id"];
 
