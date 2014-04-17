@@ -3,8 +3,8 @@ Contributors: e-mailit
 Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer, links, admin, vkontakte
 
 Requires at least: 2.9
-Tested up to: 3.8.3
-Stable tag: 6.6.1
+Tested up to: 3.9
+Stable tag: 6.7
 License: GPLv2 or later
 
 The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
@@ -169,6 +169,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.7 =
+* WordPress 3.9 compatibility.
 = 6.6.1 =
 * Bug Fixes.
 = 6.6 =
