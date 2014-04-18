@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.9
 Stable tag: 6.7
-License: GPLv2 or later 
+License: GPLv2 or later
 
 The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
 
@@ -14,7 +14,7 @@ The easy way to help your visitors to share your content, adding an attractive s
 ### [Increase Content Distribution, Ranking and Traffic of Websites with E-MAILiT Share Buttons, Media Solutions, Analytics, and more](http://www.e-mailit.com/)  
 E-MAILiT Share Buttons can be placed **anywhere** in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally **remove** the button (using the third-party Share Buttons instead) even from **certain page(s) or post(s)** too, place your buttons in **both** position - top and bottom of a page/article, get **social stats without registration**, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house **link shortening** service.
 
-> <a href="http://www.e-mailit.com">Share Buttons</a> (demo).
+> <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
 **Summary of Features**  
 
