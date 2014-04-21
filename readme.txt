@@ -7,33 +7,25 @@ Tested up to: 3.9
 Stable tag: 6.7
 License: GPLv2 or later 
 
-The easy way to help your visitors to share your content, adding an attractive social sharing menu to your posts and/or pages.
+The simple, effective, easy, flexible way to help your visitors to share your content, adding various social tools everywhere.
 
 == Description == 
 
 ### [Increase Content Distribution, Ranking and Traffic of Websites with E-MAILiT Share Buttons, Media Solutions, Analytics, and more](http://www.e-mailit.com/)  
 E-MAILiT Share Buttons can be placed **anywhere** in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally **remove** the button (using the third-party Share Buttons instead) even from **certain page(s) or post(s)** too, place your buttons in **both** position - top and bottom of a page/article, get **social stats without registration**, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house **link shortening** service.
 
-> <a href="http://www.e-mailit.com">Share Buttons</a> (demo).
+> <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
-**Summary of Features**  
+60 Sharing Services. 
 
-* Easy to Install 
-* Increase Content Distribution & Engagement, Ranking & Traffic 
-* Enable Media Solutions 
-* Detailed Analytics 
-* Easy Bookmarking, Sharing & Following 
-* 60 Sharing Services (the WhatsApp service, is currently available only in iOS mobile devices) 
-* Less Clutter 
-* Fast & Reliable Performance 
-* Asynchronous Loading Support 
-* Content Delivery Network support 
-* Automatically localized in English, Greek, Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan; Valencian, Central Khmer, Chinese, Croatian, Czech, Danish, Dutch; Flemish, Esperanto, Estonian, Faroese, Finnish, French, Galician, Georgian, German, Gujarati, Haitian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Kurdish, Latin, Latvian, Lithuanian, Luxembourgish, Malay, Maltese, Mongolian, Northern Sami, Norwegian, Pashto, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tamil, Tatar, Telugu, Thai, Tswana, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish 
-* Lightweight File Size 
-* Easily Customizable 
-* Third-party Share Buttons & Floating ShareBars support 
+Asynchronous Loading Support. 
 
-Let sharing work for you, everywhere. Add sharing, following & campaigns to desktop sites and mobile devices. Monetize your content through E-MAILiT's innovation.  
+Content Delivery Network support. 
+
+Automatically localized. 
+
+Lightweight File Size. 
+
 <a href="http://www.e-mailit.com/widget/login">Want to customize?</a> 
 
 Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
