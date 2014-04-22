@@ -16,14 +16,10 @@ E-MAILiT Share Buttons can be placed **anywhere** in your site and contain a sea
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo).
 
-60 Sharing Services. 
-
+> 60 Sharing Services. 
 Asynchronous Loading support. 
-
 Content Delivery Network support. 
-
 Automatically Localized. 
-
 Lightweight File Size. 
 
 <a href="http://www.e-mailit.com/widget/login">Want to customize?</a> 
