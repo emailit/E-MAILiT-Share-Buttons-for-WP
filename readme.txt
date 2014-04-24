@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.9
-Stable tag: 6.7
+Stable tag: 6.7.1
 License: GPLv2 or later 
 
 The simple, effective, easy, flexible way to help your visitors to share your content, adding various social tools everywhere.
@@ -153,6 +153,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.7.1 =
+* Backend E-MAILiT Share Desktop Version: Coding modifications.
 = 6.7 =
 * WordPress 3.9 compatibility.
 = 6.6.1 =
