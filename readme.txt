@@ -7,7 +7,7 @@ Tested up to: 3.9
 Stable tag: 6.7.1
 License: GPLv2 or later
 
-The simple, effective, easy, flexible way to help your visitors to share your content, adding various social tools everywhere.
+Monetize your content by turning your audience into sharers, followers and advertisers.
 
 == Description == 
 
