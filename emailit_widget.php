@@ -35,9 +35,9 @@ function emailit_admin_notices() {
     global $current_user;
     $user_id = $current_user->ID;
 
-    if (!get_user_meta($user_id, 'emailit_ignore_notice')) {
+    if (!get_user_meta($user_id, 'emailit_ignore_notice2')) {
         echo '<div class="updated"><p>';
-        printf(__('We offer you an exclusive FREE (no tricks or hidden fees) 1-month advert to our Global Publisher Network. Just click on the following link to access our media kit with further details: <a href="http://www.e-mailit.com/mediakit">http://www.e-mailit.com/mediakit</a>. Hopefully the package matches your expectations, looking forward to your reply. | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore=0');
+        printf(__('Get a higher click through rate for your ads. <a href="http://www.e-mailit.com/premium" target="_blank">Try the Go Premium Plan</a>. | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore2=0');
         echo "</p></div>";
     }
 }
@@ -48,8 +48,8 @@ function emailit_nag_ignore() {
     global $current_user;
     $user_id = $current_user->ID;
     /* If user clicks to ignore the notice, add that to their user meta */
-    if (isset($_GET['emailit_nag_ignore']) && '0' == $_GET['emailit_nag_ignore']) {
-        add_user_meta($user_id, 'emailit_ignore_notice', 'true', true);
+    if (isset($_GET['emailit_nag_ignore2']) && '0' == $_GET['emailit_nag_ignore2']) {
+        add_user_meta($user_id, 'emailit_ignore_notice2', 'true', true);
     }
 }
 
