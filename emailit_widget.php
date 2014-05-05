@@ -37,7 +37,7 @@ function emailit_admin_notices() {
 
     if (!get_user_meta($user_id, 'emailit_ignore_notice2')) {
         echo '<div class="updated"><p>';
-        printf(__('Get a higher click through rate for your ads. <a href="http://www.e-mailit.com/premium" target="_blank">Try the Go Premium Plan</a>. | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore2=0');
+        printf(__('Get a higher click through rate for your ads. <a href="http://www.e-mailit.com/premium" target="_blank">Try the E-MAILiT Go Premium Plan</a>. | <a href="%1$s">Hide Notice</a>'), '?emailit_nag_ignore2=0');
         echo "</p></div>";
     }
 }
