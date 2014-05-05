@@ -4,7 +4,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 
 Requires at least: 2.9
 Tested up to: 3.9
-Stable tag: 6.7.2
+Stable tag: 6.7.3
 License: GPLv2 or later  
 
 Increase your content distribution with E-MAILiT Share Buttons by helping visitors share to 60+ services.
@@ -153,6 +153,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.7.3 =
+* UX changes in E-MAILiT account control panel.
 = 6.7.2 =
 * Launch of our new E-MAILiT website homepage!
 = 6.7.1 =
