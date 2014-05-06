@@ -5,7 +5,7 @@ Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, b
 Requires at least: 2.9
 Tested up to: 3.9
 Stable tag: 6.7.3 
-License: GPLv2 or later  
+License: GPLv2 or later 
 
 Increase your content distribution with E-MAILiT Share Buttons by helping visitors share to 60+ services.
 
