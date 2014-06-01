@@ -146,6 +146,9 @@ function emailit_settings_page() {
                 <tr><td style="height:20px;background: url('<?php echo plugins_url('images/vkontakte_btn.png', __FILE__) ?>') no-repeat right;"></td>
                     <td>
                         <input type="checkbox" name="emailit_options[display_vkontakte_button]" value="true" <?php echo ($emailit_options['display_vkontakte_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/odnoklassniki_btn.png', __FILE__) ?>') no-repeat right;"></td>
+                    <td>
+                        <input type="checkbox" name="emailit_options[display_odnoklassniki_button]" value="true" <?php echo ($emailit_options['display_odnoklassniki_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
             </table>
             <h2 style="font-size: 36px;">Advanced</h2>
             <table width="650px" >
@@ -280,6 +283,8 @@ function emailit_display_button($content) {
         $outputValue .= "<span class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["display_vkontakte_button"] == 'true')
         $outputValue .= "<span class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+    if ($emailit_options["display_odnoklassniki_button"] == 'true')
+        $outputValue .= "<span class=\"e-mailit_odnoklassniki_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["remove_emailit_button"] !== 'true') {
         if ($button_id == "" || $button_id == "Your Button ID") {
             $outputValue .= " <div class='e_mailit_button' $shared_url $shared_title></div>" . PHP_EOL;
