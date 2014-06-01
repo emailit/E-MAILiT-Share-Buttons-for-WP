@@ -21,6 +21,7 @@ class EmailitSidebarWidget extends WP_Widget {
         $pinterest_btn = esc_attr($instance['pinterest_btn']);
         $linkedin_btn = esc_attr($instance['linkedin_btn']);
         $vkontakte_btn = esc_attr($instance['vkontakte_btn']);
+        $odnoklassniki_btn = esc_attr($instance['odnoklassniki_btn']);
         ?>
         <p><label for="<?php echo $this->get_field_id('title'); ?>">Title: <input class="widefat" id="<?php echo $this->get_field_id('title'); ?>" name="<?php echo $this->get_field_name('title'); ?>" type="text" value="<?php echo attribute_escape($title); ?>" /></label></p>
         <p>  
@@ -60,7 +61,11 @@ class EmailitSidebarWidget extends WP_Widget {
         <p>  
             <label for="<?php echo $this->get_field_id('vkontakte_btn'); ?>"><?php _e('Add VKontakte share counter button:'); ?></label>      
             <input class="checkbox" type="checkbox" <?php checked($vkontakte_btn, 'on'); ?> id="<?php echo $this->get_field_id('vkontakte_btn'); ?>" name="<?php echo $this->get_field_name('vkontakte_btn'); ?>" />   
-        </p>           
+        </p>
+        <p>  
+            <label for="<?php echo $this->get_field_id('odnoklassniki_btn'); ?>"><?php _e('Add Odnoklassniki share counter button:'); ?></label>      
+            <input class="checkbox" type="checkbox" <?php checked($odnoklassniki_btn, 'on'); ?> id="<?php echo $this->get_field_id('odnoklassniki_btn'); ?>" name="<?php echo $this->get_field_name('odnoklassniki_btn'); ?>" />   
+        </p>         
         <p>
             <a target="_blank" href="http://www.e-mailit.com/widget/login">Create Your Account To Access</a><br/>
             - Social Sharing Analytics &
@@ -87,6 +92,7 @@ class EmailitSidebarWidget extends WP_Widget {
         $instance['pinterest_btn'] = strip_tags($new_instance['pinterest_btn']);
         $instance['linkedin_btn'] = strip_tags($new_instance['linkedin_btn']);
         $instance['vkontakte_btn'] = strip_tags($new_instance['vkontakte_btn']);
+        $instance['odnoklassniki_btn'] = strip_tags($new_instance['odnoklassniki_btn']);       
         return $instance;
     }
 
@@ -111,32 +117,35 @@ class EmailitSidebarWidget extends WP_Widget {
         $googleplus_btn = isset($instance['googleplus_btn']) ? $instance['googleplus_btn'] : '';
         $pinterest_btn = isset($instance['pinterest_btn']) ? $instance['pinterest_btn'] : '';
         $linkedin_btn = isset($instance['linkedin_btn']) ? $instance['linkedin_btn'] : '';
-        $vkontakte_btn = isset($instance['linkedin_btn']) ? $instance['vkontakte_btn'] : '';
+        $vkontakte_btn = isset($instance['vkontakte_btn']) ? $instance['vkontakte_btn'] : '';
+        $odnoklassniki_btn = isset($instance['odnoklassniki_btn']) ? $instance['odnoklassniki_btn'] : '';
         
         $outputValue = "<!-- E-MAILiT Sharing Button BEGIN -->" . PHP_EOL;
         $outputValue .= "<div class=\"e-mailit_toolbox\">" . PHP_EOL;
         if ($facebook_btn != ''){
             if($facebook_like_share_btn != '')
                 $share_str = "e-mailit:include_share='true'";
-            $outputValue .= "<span class=\"e-mailit_facebook_btn\" $share_str></span>";
+            $outputValue .= "<span class=\"e-mailit_facebook_btn\" $share_str></span>" . PHP_EOL;
         }
         if ($facebook_share_btn != '')
-            $outputValue .= "<span class=\"e-mailit_facebook_share_btn\"></span>";        
+            $outputValue .= "<span class=\"e-mailit_facebook_share_btn\"></span>" . PHP_EOL;        
         if ($tweet_btn != '')
-            $outputValue .= "<span class=\"e-mailit_twitter_btn\"></span>";
+            $outputValue .= "<span class=\"e-mailit_twitter_btn\"></span>" . PHP_EOL;
         if ($googleplus_btn != '')
-            $outputValue .= "<span class=\"e-mailit_google_btn\"></span>";
+            $outputValue .= "<span class=\"e-mailit_google_btn\"></span>" . PHP_EOL;
         if ($pinterest_btn != '')
-            $outputValue .= "<span class=\"e-mailit_pinterest_btn\"></span>";
+            $outputValue .= "<span class=\"e-mailit_pinterest_btn\"></span>" . PHP_EOL;
         if ($linkedin_btn != '')
-            $outputValue .= "<span class=\"e-mailit_linkedin_btn\"></span>";
+            $outputValue .= "<span class=\"e-mailit_linkedin_btn\"></span>" . PHP_EOL;
         if ($vkontakte_btn != '')
-            $outputValue .= "<span class=\"e-mailit_vkontakte_btn\"></span>";    
+            $outputValue .= "<span class=\"e-mailit_vkontakte_btn\"></span>" . PHP_EOL;   
+        if ($odnoklassniki_btn != '')
+            $outputValue .= "<span class=\"e-mailit_odnoklassniki_btn\"></span>" . PHP_EOL;            
         if ($emailit_btn == '')
             if ($button_id == "" || $button_id == "Your Button ID")
-                $outputValue .= " <div class='e_mailit_button'></div>";
+                $outputValue .= " <div class='e_mailit_button'></div>" . PHP_EOL;
             else
-                $outputValue .= " <div class='e_mailit_button' id='$button_id'></div>";
+                $outputValue .= " <div class='e_mailit_button' id='$button_id'></div>" . PHP_EOL;
         $outputValue .= "</div>";
         $outputValue .= "<!-- E-MAILiT Sharing Button END -->" . PHP_EOL;
 

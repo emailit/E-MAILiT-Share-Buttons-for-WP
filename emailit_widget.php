@@ -269,17 +269,17 @@ function emailit_display_button($content) {
         $outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
     }
     if ($emailit_options["display_fb_share_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></span>";
+        $outputValue .= "<span class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["display_tweeter_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_twitter_btn\" $shared_url $shared_title></span>";
+        $outputValue .= "<span class=\"e-mailit_twitter_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["display_gplus_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_google_btn\" $shared_url $shared_title></span>";
+        $outputValue .= "<span class=\"e-mailit_google_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["display_pinterest_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_pinterest_btn\" $shared_url $shared_title></span>";
+        $outputValue .= "<span class=\"e-mailit_pinterest_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["display_linkedin_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></span>";
+        $outputValue .= "<span class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["display_vkontakte_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></span>";
+        $outputValue .= "<span class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></span>" . PHP_EOL;
     if ($emailit_options["remove_emailit_button"] !== 'true') {
         if ($button_id == "" || $button_id == "Your Button ID") {
             $outputValue .= " <div class='e_mailit_button' $shared_url $shared_title></div>" . PHP_EOL;
