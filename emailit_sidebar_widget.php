@@ -63,7 +63,7 @@ class EmailitSidebarWidget extends WP_Widget {
             <input class="checkbox" type="checkbox" <?php checked($vkontakte_btn, 'on'); ?> id="<?php echo $this->get_field_id('vkontakte_btn'); ?>" name="<?php echo $this->get_field_name('vkontakte_btn'); ?>" />   
         </p>
         <p>  
-            <label for="<?php echo $this->get_field_id('odnoklassniki_btn'); ?>"><?php _e('Add Odnoklassniki share counter button:'); ?></label>      
+            <label for="<?php echo $this->get_field_id('odnoklassniki_btn'); ?>"><?php _e('Add Odnoklassniki class button:'); ?></label>      
             <input class="checkbox" type="checkbox" <?php checked($odnoklassniki_btn, 'on'); ?> id="<?php echo $this->get_field_id('odnoklassniki_btn'); ?>" name="<?php echo $this->get_field_name('odnoklassniki_btn'); ?>" />   
         </p>         
         <p>
