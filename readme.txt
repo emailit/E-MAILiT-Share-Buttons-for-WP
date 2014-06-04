@@ -1,28 +1,42 @@
 ==== Share Buttons by E-MAILiT ====
 Contributors: e-mailit
-Tags: +1, ad, AddThis, addtoany, admin, ads, add this, advertising, analytics, bitly, blog, bookmark, bookmarks, buffer, button, del.icio.us, Digg, email, evernote, Facebook, facebook share, facebook share button, fark, floating buttons, gmail, google, hovering bar, hyves, image, images, instapaper, Like, linkedin, netlog, orkut, page, pages, pinterest, plugin, plus 1, plus one, post, posts, PrintFriendly, Reddit, sexybookmarks, Share, share and follow, share buttons, share links, Shareaholic, sharebar, sharedaddy, ShareThis, sharing is caring, sharing is sexy, sociable, social, social bookmarking, social bookmarks, statistics, stats, Stumble Upon, technorati, tumblr, tweet, twitter, twitter share, twitter, share button, widget, widgets, sidebar, wordpress, wpmu, yahoo, yammer, links, admin, vkontakte
+Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly, bookmark, bookmark button, bookmark facebook, bookmarking, bookmarks, bookmarks menu, buffer, button, buzz, del.icio.us, Digg, email, e-mail, email button, evernote, Facebook, facebook like, facebook recommend, facebook share, fark, floating, floating buttons, gmail, goo.gl, google, google analytics, google bookmarks, google buzz, google plus, google plus one, google translate, Google+1, hackernews, Hubspot, icon, icons, image, images, instagram, instapaper, Like, linkedin, links, linkwithin, mister-wong, myspace, netlog, network, NewsVine, orkut, outbrain, page, pages, pin, pin it, pinit, pinterest, plugin, plus 1, plus one, popular, popular posts, Post, posts, print, PrintFriendly, recommendations, Reddit, related, Related Content, related posts, responsive, save, send, seo, sexybookmarks, Share, share and enjoy, share and follow, share button, share buttons, share links, share this, Shareaholic, sharebar, sharedaddy, shareholic, sharenow, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, thumbnails, tinyurl, translate, tumblr, tweet, tweet button, twitter, twitter button, twitter button, twitter share, url shortener, wanelo, widget, windows live, wish list, wpmu, yaarp, yahoo, yahoo buzz, yahoo messenger, yammer, yarpp
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.2
+Stable tag: 6.8.3
 License: GPLv2 or later 
 
-Increase your content distribution with E-MAILiT Share Buttons by helping visitors share to 130 services.
+E-MAILiT Share Buttons help increase your content distribution by helping your users share to over 130 services.
 
 == Description == 
 
 ### [E-MAILiT: Sharing Widget, Sharing Button, Sharing Plugin and more](http://www.e-mailit.com/)  
-E-MAILiT Share Buttons can be placed **anywhere** in your site and contain a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally **remove** the button (using the third-party Share Buttons instead) even from **certain page(s) or post(s)** too, place your buttons in **both** position - top and bottom of a page/article, get **social stats without registration**, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house **link shortening** service.
+E-MAILiT Share Buttons can be placed anywhere in your site or blog and contains a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally remove the button (using the third-party Share Buttons instead) even from certain page(s) or post(s) too, place your buttons in both position - top and bottom of a page/article, get social stats without registration, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house link shortening service. 
 
-<a href="http://www.e-mailit.com">Share Buttons</a> demo
+The E-MAILiT service integrates a variety of share buttons, social plugins, media solutions, analytics, and much more, enabling you to increase page views, boost user engagement, easy share and promote your content. 
 
-> Asynchronous Loading support / Content Delivery Network support / Automatically Localized / Lightweight File Size. 
+= Share Buttons =
 
-<a href="http://www.e-mailit.com/widget/login">Want to customize?</a> 
+* Choose from over 130 sharing services 
+* 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo), Twitter Tweet Button, Pinterest Pin It Button, Google+ Share Button, VKontakte Share Button, Odnoklassniki Share Button and LinkedIn Share Button 
+* Email sharing via Email Form, Gmail, Yahoo! Mail, Outlook.com, AOL Mail and MailRu 
+* Automatically localized in more than 70 languages 
 
-Read the <a href="http://wordpress.org/plugins/e-mailit/faq/">FAQ</a> tab to learn more. 
+<a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
-<a href="http://blog.e-mailit.com">Blog</a> | <a href="http://twitter.com/emailit">Follow us on Twitter</a>
+= Social Analytics =
+* Automatic Google Analytics integration for social sharing metrics, without register 
+
+= Complete optimization =
+
+* Well-engineered and optimized code will not slow or block your website pages from loading. Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content 
+* Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users 
+* We use very light weight script which do not effect your site's loading speed 
+* Optional account registration 
+* Mobile compatibility 
+
+<a href="http://twitter.com/emailit">Follow us on Twitter</a>
 
 == Installation ==
 
@@ -153,6 +167,75 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.8.3 =
+* Add 100zakladok.
+* Add Adfty.
+* Add Arto.
+* Add Bloggy.
+* Add Blogmarks.
+* Add Blurpalicious.
+* Add Bobrdobr.
+* Add BonzoBox.
+* Add Bookmarky.cz
+* Add Bookmerken.
+* Add Box.net
+* Add BuddyMarks.
+* Add Camyoo.
+* Add Chiq.
+* Add ClassicalPlace.
+* Add Cndig.
+* Add COSMiQ.
+* Add Diggita.
+* Add Digo.
+* Add Diigo.
+* Add Douban.
+* Add Embarkons.
+* Add Fabulously40.
+* Add Fai Informazione.
+* Add Favoriten.de
+* Add Folkd.
+* Add funP.
+* Add GiveALink.
+* Add Good Noows.
+* Add HTML Validator.
+* Add iWiW.
+* Add Kaboodle.
+* Add Kaevur.
+* Add LockerBlogger.
+* Add Logger24.com
+* Add Mashbord.
+* Add Moemesto.ru
+* Add N4G.
+* Add Nasza klasa.
+* Add Nujij.
+* Add PDF Online.
+* Add PDFmyURL.
+* Add PhoneFavs.
+* Add Posteezy.
+* Add Pusha.
+* Add Quantcast.
+* Add Qzone.
+* Add Rediff MyPage.
+* Add Sekoman.
+* Add SodaHead.
+* Add Sonico.
+* Add Startlap.
+* Add Stuffpit.
+* Add Stumpedia.
+* Add Svejo.
+* Add Symbaloo.
+* Add Taringa.
+* Add The Web Blend.
+* Add ThisNext.
+* Add Transferr.
+* Add Viadeo.
+* Add Virb.
+* Add Webnews.
+* Add Whois Lookup.
+* Add Wykop.
+* Add Yardbarker.
+* Add Yoolink.
+* Add Zakladok.net
 = 6.8.2 =
 * New third-party counter button to Share with E-MAILiT: Odnoklassniki.
 = 6.8.1 =
