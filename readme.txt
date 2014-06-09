@@ -4,8 +4,8 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.3
-License: GPLv2 or later 
+Stable tag: 6.8.3.1
+License: GPLv2 or later  
 
 E-MAILiT Share Buttons help increase your content distribution by helping your users share to over 130 services.
 
@@ -167,6 +167,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.8.3.1 =
+* Backend: Coding modifications.
 = 6.8.3 =
 * Add 100zakladok.
 * Add Adfty.
