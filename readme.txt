@@ -7,7 +7,7 @@ Tested up to: 3.9.1
 Stable tag: 6.8.3.1
 License: GPLv2 or later
 
-E-MAILiT Share Buttons help increase your content distribution by helping your users share to over 130 services.
+One button quick sharing to over 130 services by Greek based social sharing platform.
 
 == Description == 
 
