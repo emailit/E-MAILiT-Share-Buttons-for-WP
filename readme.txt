@@ -4,7 +4,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.3.1
+Stable tag: 6.8.3.2
 License: GPLv2 or later
 
 One button quick sharing to over 130 services by Greek based social sharing platform.
@@ -167,6 +167,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 03. The settings interface
 
 == Changelog ==
+= 6.8.3.2 =
+* Other plugin conflicts: Resolved.
 = 6.8.3.1 =
 * Backend: Coding modifications.
 = 6.8.3 =
