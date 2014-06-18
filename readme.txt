@@ -162,9 +162,12 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 </ul>
 
 == Screenshots ==
-01. The Google Analytics dashboard
-02. The Google Analytics dashboard
-03. The settings interface
+01. The settings interface
+02. 3rd party share counter buttons
+03. Get social stats without registration
+04. Share menu that appears when your visitors use the share button
+05. The Google Analytics dashboard
+06. The Google Analytics dashboard
 
 == Changelog ==
 = 6.8.3.3 =
