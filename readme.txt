@@ -5,7 +5,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 Requires at least: 2.9
 Tested up to: 3.9.1
 Stable tag: 6.8.3.3
-License: GPLv2 or later 
+License: GPLv2 or later
 
 The simple way to add one button sharing to over 130 services.
 
