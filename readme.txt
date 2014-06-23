@@ -4,8 +4,8 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.3.3
-License: GPLv2 or later 
+Stable tag: 6.8.3.4
+License: GPLv2 or later  
 
 The simple way to add one button sharing to over 130 services.
 
@@ -170,6 +170,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.8.3.4 =
+* Backend E-MAILiT Share Desktop Version: Coding modifications.
 = 6.8.3.3 =
 * 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo): button text has been optimized and localized with automatic detection of the browser.
 = 6.8.3.2 =
