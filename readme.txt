@@ -175,7 +175,7 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 
 == Changelog ==
 = 6.8.4 =
-* Remove Orkut (Read our blog post http://blog.e-mailit.com/2014/07/a-farewell-to-orkut.html).
+* Remove Orkut (Read our blog post http://blog.e-mailit.com/2014/07/a-farewell-to-orkut.html ).
 * Add Wanelo.
 = 6.8.3.6 =
 * Security improvements.
