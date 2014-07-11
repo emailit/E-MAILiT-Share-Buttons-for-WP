@@ -4,7 +4,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.3.6
+Stable tag: 6.8.4
 License: GPLv2 or later 
 
 The simple way to add one button sharing to over 130 services.
@@ -174,6 +174,9 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.8.4 =
+* Remove Orkut (Read our blog post http://blog.e-mailit.com/2014/07/a-farewell-to-orkut.html).
+* Add Wanelo.
 = 6.8.3.6 =
 * Security improvements.
 = 6.8.3.5 =
