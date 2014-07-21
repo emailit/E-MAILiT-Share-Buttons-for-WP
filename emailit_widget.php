@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
   Author: E-MAILiT
-  Version: 6.8.4
+  Version: 6.8.4.1
   Author URI: http://www.e-mailit.com
  */
 
