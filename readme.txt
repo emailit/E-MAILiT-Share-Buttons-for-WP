@@ -4,7 +4,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.4.1
+Stable tag: 6.8.4.2
 License: GPLv2 or later
 
 The simple way to add one button sharing to over 130 services.
@@ -174,6 +174,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.8.4.2 =
+* Backend: Coding modifications.
 = 6.8.4.1 =
 * Bug fixes.
 = 6.8.4 =
