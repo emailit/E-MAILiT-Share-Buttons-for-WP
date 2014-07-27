@@ -4,14 +4,13 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.8.4.2
-License: GPLv2 or later  
+Stable tag: 6.9
+License: GPLv2 or later
 
 The simple way to add one button sharing to over 130 services.
 
 == Description == 
 
-### [E-MAILiT: Sharing Widget, Sharing Button, Sharing Plugin and more](http://www.e-mailit.com/)  
 E-MAILiT Share Buttons can be placed anywhere in your site or blog and contains a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally remove the button (using the third-party Share Buttons instead) even from certain page(s) or post(s) too, place your buttons in both position - top and bottom of a page/article, get social stats without registration, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house link shortening service. 
 
 The E-MAILiT service integrates a variety of share buttons, social plugins, media solutions, analytics, and much more, enabling you to increase page views, boost user engagement, easy share and promote your content. 
@@ -174,6 +173,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.9 =
+* Launch of our new E-MAILiT website homepage http://www.e-mailit.com
 = 6.8.4.2 =
 * Backend: Coding modifications.
 = 6.8.4.1 =
