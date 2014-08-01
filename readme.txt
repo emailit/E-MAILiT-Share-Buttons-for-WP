@@ -4,7 +4,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.1
-Stable tag: 6.9
+Stable tag: 6.9.01
 License: GPLv2 or later  
 
 The simple way to add one button sharing to over 130 services.
@@ -173,6 +173,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.9.01 =
+* UX changes in E-MAILiT Share Desktop Version.
 = 6.9 =
 * Launch of our new E-MAILiT website homepage http://www.e-mailit.com
 = 6.8.4.2 =
