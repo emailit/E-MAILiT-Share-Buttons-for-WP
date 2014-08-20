@@ -24,6 +24,10 @@ The E-MAILiT service integrates a variety of share buttons, social plugins, medi
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
 
+= E-MAILiT Premium =
+
+<a href="http://www.e-mailit.com/premium">Upgrade for Free</a> to get our powerful feature 
+
 See also:  
 
 The standard <a href="http://www.e-mailit.com/website">Share Button</a> code 
