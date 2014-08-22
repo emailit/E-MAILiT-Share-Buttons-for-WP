@@ -5,7 +5,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 Requires at least: 2.9
 Tested up to: 3.9.2
 Stable tag: 6.9.04
-License: GPLv2 or later
+License: GPLv2 or later  
 
 Monetize your Content Engagement - features the E-MAILiT Premium, and Social Analytics without register!
 
