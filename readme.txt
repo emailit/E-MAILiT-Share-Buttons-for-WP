@@ -4,7 +4,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 3.9.2
-Stable tag: 6.9.04
+Stable tag: 6.9.05
 License: GPLv2 or later  
 
 Monetize your Content Engagement - features the E-MAILiT Premium, and Social Analytics without register!
@@ -177,6 +177,13 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.9.05 =
+* WordPress 3.9.2 compatibility.
+* UX changes in E-MAILiT Share Mobile for High-end mobile devices.
+* Code performance improvements in E-MAILiT Share Mobile for High-end mobile devices.
+* Add and remove services in E-MAILiT Share Mobile for High-end mobile devices.
+* Prioritized sharing services in E-MAILiT Share Mobile for High-end mobile devices.
+* Update Sharing Endpoint Services / Submission URL's in E-MAILiT Share Mobile for High-end mobile devices.
 = 6.9.04 =
 * Code performance improvements.
 = 6.9.03 =
