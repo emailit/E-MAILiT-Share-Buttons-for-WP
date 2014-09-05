@@ -1,13 +1,13 @@
-==== Share Buttons and Analytics by E-MAILiT ====
+==== E-MAILiT Share | Buttons, Media Solutions & Analytics ====
 Contributors: e-mailit
 Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly, bookmark, bookmark button, bookmark facebook, bookmarking, bookmarks, bookmarks menu, buffer, button, buzz, del.icio.us, Digg, email, e-mail, email button, evernote, Facebook, facebook like, facebook recommend, facebook share, fark, floating, floating buttons, gmail, goo.gl, google, google analytics, google bookmarks, google buzz, google plus, google plus one, google translate, Google+1, hackernews, Hubspot, icon, icons, image, images, instagram, instapaper, Like, linkedin, links, linkwithin, mister-wong, myspace, netlog, network, NewsVine, orkut, outbrain, page, pages, pin, pin it, pinit, pinterest, plugin, plus 1, plus one, popular, popular posts, Post, posts, print, PrintFriendly, recommendations, Reddit, related, Related Content, related posts, responsive, save, send, seo, sexybookmarks, Share, share and enjoy, share and follow, share button, share buttons, share links, share this, Shareaholic, sharebar, sharedaddy, shareholic, sharenow, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, thumbnails, tinyurl, translate, tumblr, tweet, tweet button, twitter, twitter button, twitter button, twitter share, url shortener, wanelo, widget, windows live, wish list, wpmu, yaarp, yahoo, yahoo buzz, yahoo messenger, yammer, yarpp
 
 Requires at least: 2.9
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 6.9.06
-License: GPLv2 or later   
+License: GPLv2 or later
 
-Monetize your Content Engagement - features the E-MAILiT Premium, and Social Analytics without register!
+Monetize your Site's Content Engagement.
 
 == Description == 
 
