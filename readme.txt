@@ -4,8 +4,8 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 4.0
-Stable tag: 6.9.06
-License: GPLv2 or later
+Stable tag: 6.9.07
+License: GPLv2 or later  
 
 Monetize your Site's Content Engagement. E-MAILiT helps you drive more clicks, money, follows and shares.
 
@@ -177,6 +177,8 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 6.9.07 =
+* WordPress 4.0 compatibility.
 = 6.9.06 =
 * Automatically localized in 75 languages (already included) with auto-button Share-Text translation.
 * UX changes in E-MAILiT account control panel.
