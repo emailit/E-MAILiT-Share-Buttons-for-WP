@@ -17,9 +17,9 @@
 
 
 /*
-  Plugin Name: E-MAILiT Social Media Sharing Widget
+  Plugin Name: E-MAILiT Share | Media Solutions & Analytics
   Plugin URI: http://www.e-mailit.com
-  Description: Increase your site traffic with E-MAILiT's social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.
+  Description: E-MAILiT social sharing platform helps publishers drive more clicks, money, follows, shares and higher CTR by displaying in-Share-Button Ads.  [<a href="options-general.php?page=emailit_widget.php">Settings</a>]
   Author: E-MAILiT
   Version: 6.9.08
   Author URI: http://www.e-mailit.com
@@ -29,7 +29,7 @@ add_action('admin_init', 'emailit_admin_init');
 add_filter('admin_menu', 'emailit_admin_menu');
 add_action('widgets_init', 'emailit_widget_init');
 add_action('wp_head', 'add_domain_verification_meta');
-add_action('admin_notices', 'emailit_admin_notices');
+//add_action('admin_notices', 'emailit_admin_notices');
 
 function emailit_admin_notices() {
     global $current_user;
@@ -303,6 +303,15 @@ function emailit_display_button($content) {
     if ($emailit_options["button_position"] == 'bottom' || $emailit_options["button_position"] == 'both')
         $content = $content . $outputValue;
     return $content;
+}
+
+add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), 'add_action_links' );
+
+function add_action_links ( $links ) {
+    $mylink = '<a href="options-general.php?page=emailit_widget.php">' . __( 'Settings' ) . '</a>';
+
+    array_unshift( $links, $mylink );
+    return $links;
 }
 
 require_once('emailit_post_metabox.php');
