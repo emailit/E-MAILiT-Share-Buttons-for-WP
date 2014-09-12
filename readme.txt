@@ -7,7 +7,7 @@ Tested up to: 4.0
 Stable tag: 6.9.08
 License: GPLv2 or later  
 
-Monetize your Site's Content Engagement. E-MAILiT helps you drive more clicks, money, follows and shares.
+Easy Desktop & Mobile Social Sharing.
 
 == Description == 
 
