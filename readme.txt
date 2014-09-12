@@ -7,7 +7,7 @@ Tested up to: 4.0
 Stable tag: 6.9.08
 License: GPLv2 or later  
 
-Easy Desktop & Mobile Social Sharing.
+Share buttons by E-MAILiT provide easy Desktop & Mobile social sharing including Facebook, Twitter, WhatsApp & many more.
 
 == Description == 
 
