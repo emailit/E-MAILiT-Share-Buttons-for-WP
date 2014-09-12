@@ -3,7 +3,7 @@
 class EmailitSidebarWidget extends WP_Widget {
 
     function EmailitSidebarWidget() {
-        $widget_ops = array('classname' => 'EmailitWidget', 'description' => 'Increase your site traffic with E-MAILiT\'s social life-cycle engagement and industry leading, privacy safe, sharing tools, analytics, and media solutions.');
+        $widget_ops = array('classname' => 'EmailitWidget', 'description' => 'E-MAILiT social sharing platform helps publishers drive more clicks, money, follows, shares and higher CTR by displaying in-Share-Button Ads.');
         $this->WP_Widget('EmailitWidget', 'E-MAILiT Share', $widget_ops);
     }
 
