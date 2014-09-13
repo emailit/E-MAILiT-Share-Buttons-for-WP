@@ -4,7 +4,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 
 Requires at least: 2.9
 Tested up to: 4.0
-Stable tag: 6.9.08
+Stable tag: 7.0
 License: GPLv2 or later  
 
 Share buttons by E-MAILiT provide easy Desktop & Mobile social sharing including Facebook, Twitter, WhatsApp & many more.
@@ -177,6 +177,12 @@ We are not spammers. By default, when a visitor returns to your site, after clic
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 7.0 =
+* Urgent upd:
+* Frontend WordPress admin panel: Notice removed.
+* Frontend WordPress admin panel: New Text.
+* Frontend WordPress admin panel: Settings link added.
+* Frontend WordPress admin panel: Logo in search results added.
 = 6.9.08 =
 * Bug Fixes.
 = 6.9.07 =
