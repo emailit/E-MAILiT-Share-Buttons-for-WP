@@ -5,7 +5,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 Requires at least: 2.9
 Tested up to: 4.0
 Stable tag: 7.0
-License: GPLv2 or later
+License: GPLv2 or later   
 
 Share buttons by E-MAILiT provide easy Desktop & Mobile social sharing including Facebook, Twitter, WhatsApp & many more.
 
