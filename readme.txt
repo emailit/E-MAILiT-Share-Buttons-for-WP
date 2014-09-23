@@ -1,19 +1,19 @@
-==== E-MAILiT Share | Media Solutions & Analytics ====
+==== Share Buttons by E-MAILiT ====
 Contributors: e-mailit
 Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly, bookmark, bookmark button, bookmark facebook, bookmarking, bookmarks, bookmarks menu, buffer, button, buzz, del.icio.us, Digg, email, e-mail, email button, evernote, Facebook, facebook like, facebook recommend, facebook share, fark, floating, floating buttons, gmail, goo.gl, google, google analytics, google bookmarks, google buzz, google plus, google plus one, google translate, Google+1, hackernews, Hubspot, icon, icons, image, images, instagram, instapaper, Like, linkedin, links, linkwithin, mister-wong, myspace, netlog, network, NewsVine, orkut, outbrain, page, pages, pin, pin it, pinit, pinterest, plugin, plus 1, plus one, popular, popular posts, Post, posts, print, PrintFriendly, recommendations, Reddit, related, Related Content, related posts, responsive, save, send, seo, sexybookmarks, Share, share and enjoy, share and follow, share button, share buttons, share links, share this, Shareaholic, sharebar, sharedaddy, shareholic, sharenow, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, thumbnails, tinyurl, translate, tumblr, tweet, tweet button, twitter, twitter button, twitter button, twitter share, url shortener, wanelo, widget, windows live, wish list, wpmu, yaarp, yahoo, yahoo buzz, yahoo messenger, yammer, yarpp
 
 Requires at least: 2.9
 Tested up to: 4.0
 Stable tag: 7.0
-License: GPLv2 or later   
+License: GPLv2 or later
 
-Share buttons by E-MAILiT provide easy Desktop & Mobile social sharing including Facebook, Twitter, WhatsApp & many more.
+E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services.
 
 == Description == 
 
 E-MAILiT Share Buttons can be placed anywhere in your site or blog and contains a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally remove the button (using the third-party Share Buttons instead) even from certain page(s) or post(s) too, place your buttons in both position - top and bottom of a page/article, get social stats without registration, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house link shortening service. 
 
-The E-MAILiT service integrates a variety of share buttons, social plugins, media solutions, analytics, and much more, enabling you to increase page views, boost user engagement, easy share and promote your content. 
+E-MAILiT also simplifies social media services by reducing clutter on webpages, and providing instant distribution of content across social networks, affiliate groups, and communities. E-MAILiT allows media to become truly social, with the click of just one button. 
 
 = Share Buttons =
 
@@ -23,14 +23,6 @@ The E-MAILiT service integrates a variety of share buttons, social plugins, medi
 * Automatically localized in more than 70 languages 
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
-
-= E-MAILiT Premium =
-
-<a href="http://www.e-mailit.com/premium">Upgrade for Free</a> to get our powerful feature 
-
-See also:  
-
-The standard <a href="http://www.e-mailit.com/website">Share Button</a> code 
 
 = Social Analytics =
 * Automatic Google Analytics integration for social sharing metrics, without register 
