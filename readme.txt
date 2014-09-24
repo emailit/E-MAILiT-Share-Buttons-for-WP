@@ -5,7 +5,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly,
 Requires at least: 2.9
 Tested up to: 4.0
 Stable tag: 7.0
-License: GPLv2 or later
+License: GPLv2 or later 
 
 E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services.
 
