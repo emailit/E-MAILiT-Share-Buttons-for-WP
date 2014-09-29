@@ -60,7 +60,7 @@ Manual process:
 == Frequently Asked Questions ==
 <h4>Do I need to edit html or javascript?</h4>
 
-There is no need to edit any line of code. The whole installation procedure of our plugin, will take place at your WordPress admin control panel. If you want a custom solution, you should create an E-MAILiT account. In that case you must combine the E-MAILiT admin control panel options with your WordPress admin control panel options.
+There is no need to edit any line of code.
 
 <h4>How do I eliminate/remove the plugin from certain page(s) or post(s)?</h4>
 
@@ -69,10 +69,6 @@ When editing a post or page, you can check the "E-MAILiT" option in "screen opti
 <h4>How do I activate / de-activate your plugin?</h4>
 
 Please, read the guide here http://wordpress.org/plugins/e-mailit/installation
-
-<h4>I can't remove your plugin. Are you giving us a trouble plugin?</h4>
-
-It would be dumb and catastrophic for us, to develop a plugin which can not uninstall from the computer systems. After receiving a few support messages, on how to remove the plugin, have been revealed that the default un-installation procedure, isn't working for all, because when they installed the E-MAILiT button they had done it using the manual installation process. As a result, when they decided to un-install, they thought that by removing the plugin, it will also remove the javascript code which they had manually inserted in their websites. The result of this awkward situation is that those specific users are contacting with our support team, claiming that our plugin is a harmful malware, which leaves code behind, because they can not un-install it from their website. The only code that the plugin is going to position in a website, can be found here /wp-content/plugins/emailit directory, and there is no way for our plugin to work properly, if this folder has been deleted. We would like to inform, that our plugin is officially being accepted, after a thorough testing, from the WordPress Plugins Directory. Also, we don't write the un-uninstallation code of the plugin. This is an automated proccess through WordPress. After some threads to our support forum and a single private message via email, we wanted to put an end on this and finally to make it clear to any user, who tries to un-install with the wrong way our plugin.
 
 <h4>How do I link the Facebook Like Button or the Tweet Button to my pages?</h4>
 
