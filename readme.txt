@@ -11,29 +11,9 @@ E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate v
 
 == Description == 
 
-E-MAILiT Share Buttons can be placed anywhere in your site or blog and contains a searchable menu of every applicable service, with the most popular displayed by default. You can also show/hide the counter or totally remove the button (using the third-party Share Buttons instead) even from certain page(s) or post(s) too, place your buttons in both position - top and bottom of a page/article, get social stats without registration, set your own ''via @Twitter Username'' and sharing links to Twitter are auto-shortened by Twitter using their own in house link shortening service. 
-
-E-MAILiT also simplifies social media services by reducing clutter on webpages, and providing instant distribution of content across social networks, affiliate groups, and communities. E-MAILiT allows media to become truly social, with the click of just one button. 
-
-= Share Buttons =
-
-* Choose from over 130 sharing services 
-* 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo), Twitter Tweet Button, Pinterest Pin It Button, Google+ Share Button, VKontakte Share Button, Odnoklassniki Share Button and LinkedIn Share Button 
-* Email sharing via Email Form, Gmail, Yahoo! Mail, Outlook.com, AOL Mail and MailRu 
-* Automatically localized in more than 70 languages 
+E-MAILiT simplifies social media services by reducing clutter on webpages, and providing instant distribution of content across social networks, affiliate groups, and communities. E-MAILiT allows media to become truly social, with the click of just one button. 
 
 <a href="http://www.e-mailit.com">Share Buttons</a> (demo)
-
-= Social Analytics =
-* Automatic Google Analytics integration for social sharing metrics, without register 
-
-= Complete optimization =
-
-* Well-engineered and optimized code will not slow or block your website pages from loading. Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content 
-* Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users 
-* We use very light weight script which do not effect your site's loading speed 
-* Optional account registration 
-* Mobile compatibility 
 
 <a href="http://twitter.com/emailit">Follow us on Twitter</a>
 
@@ -78,43 +58,6 @@ Manual process:
 6. Click delete.
 
 == Frequently Asked Questions ==
-<h4>You can find here the most of the possible popular questions/answers. Please, visit also our Support Forum if you don't find something which is not included here.</h4>
-We try hard every day to give efficiency and the maximum quality of support to our users/publishers, without thinking the time cost consuming or anything else. Small or Big users/publishers, they all have the same treating from us, unlike the competition.
-
-<h4>Is E-MAILiT free of charge?</h4>
-Yes!
-
-<h4>Do I need to create an account?</h4>
-No. By default, we provide you with a standard version of our plugin. Do you want fully customization, get powerful sharing analytics and advertising campaign data metrics? <a href="http://www.e-mailit.com/widget/login">Create an account</a> with us and at the end of the flow, you will be given the ''Domain Verification Publisher Key'' and when you create your share button, the ''Your Button ID''. Please, paste only the E-MAILiT_digits of ''Domain Verification Publisher Key'' and the number of ''Your Button ID'', to the appropriate text box fields at your WordPress backend Admin panel.
-
-<h4>Do you offer Share Stats with the non registered version?</h4>
-Yes. Own your social data and your metrics. We help you to track and analyze metrics, because E-MAILiT is integrated with Google Analytics. That's because you must have them all in one place. Analyze and measure Social Behaviour (track sharers, fans and followers), overall button activity, shares by service, follows by channel, campaign analytics, most shared web content, most followers generated from a web content, detailed site share metrics, detailed site follow metrics.
-
-Available Event Categories & Actions:
-<ul>
-<li>E-MAILiT Button (Open for the menu)</li>
-<li>E-MAILiT Share (Shares by Service)</li>
-<li>E-MAILiT Mobile Share (Shares by Service)</li>
-<li>E-MAILiT Email (Open & Send for the Email Form)</li>
-<li>E-MAILiT Follow (Follows by Channel)</li>
-<li>E-MAILiT Promo (Open & Close for the advertisement area/ad unit/ad display)</li>
-</ul>
-You can count the "Open & Close" action, as an impression. Metrics, such as clicks / leads / sales or actions are collected by the ad unit code of your Advertising/Affiliate Network.
-
-<h4>How to verify a domain?</h4>
-
-1. Login with your E-MAILiT account
-2. Add a New Website
-3. When press Add Website, a meta tag code snippet will display on your screen.
-For example, take a look the given below:                 
-`&lt;meta name="e-mailit-site-verification" content="E-MAILiT_0123456789012345678" /&gt;`
-Paste only the **E-MAILiT_digits**, to the appropriate text box field at your WordPress backend Admin panel. Press Save Changes.  
-**Settings** > **E-MAILiT Share**  Plugin options / Domain Verification Publisher Key  
-4. Return to your E-MAILiT account and press the **Verify Site** button.  
-5. Done! You can create now your first Share Button (http://www.e-mailit.com/widget/control/new_button) for your website.
-
-> **ATTENTION / IMPORTANT**: The E-MAILiT Domain Verification System will place automatically the meta tag code snippet to the specified url source code, which was given by you, to the Website Settings > Domain.
-
 <h4>Do I need to edit html or javascript?</h4>
 
 There is no need to edit any line of code. The whole installation procedure of our plugin, will take place at your WordPress admin control panel. If you want a custom solution, you should create an E-MAILiT account. In that case you must combine the E-MAILiT admin control panel options with your WordPress admin control panel options.
@@ -138,27 +81,6 @@ Facebook Like Button displays the likes about a specific url. In order to show c
 <h4>Facebook Share Button seems to show an incorrect number! Why?</h4>
 
 The count result is common for share and like interactions. Please, see here https://developers.facebook.com/docs/plugins/like-button/ There are counters for posting an article or sharing a page content. These are two seperate different interactions. But you can include the Share button next to the Like button, having more sharing options to display on your website and not feeling confused about the similar counters. You will have two different buttons together, with one counter only to display.
-
-<h4>How do I set the integrated Follow Channels inside to my share button menu?</h4>
-
-Create a free account and go to http://www.e-mailit.com/widget/control/add_domain
-
-<h4>What languages do you support?</h4>
-
-Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bosnian, Bulgarian, Catalan; Valencian, Central Khmer, Chinese, Croatian, Czech, Danish, Dutch; Flemish, English, Esperanto, Estonian, Faroese, Finnish, French, Galician,  Georgian, German, Greek, Gujarati, Haitian, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Kurdish, Latin, Latvian, Lithuanian, Luxembourgish, Malay, Maltese, Mongolian, Northern Sami, Norwegian, Pashto, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Sinhala, Slovak, Slovenian, Spanish, Sundanese, Swahili, Swedish, Tagalog, Tamil, Tatar, Telugu, Thai, Tswana, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, Yiddish.
-
-<h4>Why do I get your ads? How can I terminate them? Are you a spammer?</h4>
-
-We are not spammers. By default, when a visitor returns to your site, after clicking to share your content via a service, they will see an advertisement, on the left of the share menu. This advertisement never shows when the share menu of the E-MAILiT button opens at first. It will never show up on your visitor's screen, if they do not click on a sharing service. Our strategy is not making you or your visitors feel frustrated, so we display advertisements in this smart way. On the other hand, you have the option to automatically show/hide the Ad Display on the widget's share menu. The advertisement is there for anyone interested to see, or you can simply hide it! It is that easy. The only thing you need to do is to create a free account and customize your settings.
-
-<h4>Does your share button appears last in my pages and causes extra loading time to my site?</h4>
-<ul>
-<li>Well-engineered and optimized code will not slow or block your website pages from loading.</li>
-<li>We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver content more efficiently to users.</li>
-<li>Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content.</li>
-<li>Google Page Speed Insight Compliant / Optimized.</li>
-<li>Use very light weight script which do not effect your site's loading speed.</li>
-</ul>
 
 == Screenshots ==
 01. The settings interface
