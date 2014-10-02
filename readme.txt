@@ -1,21 +1,53 @@
 ==== Share Buttons by E-MAILiT ====
 Contributors: e-mailit
-Tags: +1, add this, add to any, AddThis, addtoany, admin, aim, analytics, bitly, bookmark, bookmark button, bookmark facebook, bookmarking, bookmarks, bookmarks menu, buffer, button, buzz, del.icio.us, Digg, email, e-mail, email button, evernote, Facebook, facebook like, facebook recommend, facebook share, fark, floating, floating buttons, gmail, goo.gl, google, google analytics, google bookmarks, google buzz, google plus, google plus one, google translate, Google+1, hackernews, Hubspot, icon, icons, image, images, instagram, instapaper, Like, linkedin, links, linkwithin, mister-wong, myspace, netlog, network, NewsVine, orkut, outbrain, page, pages, pin, pin it, pinit, pinterest, plugin, plus 1, plus one, popular, popular posts, Post, posts, print, PrintFriendly, recommendations, Reddit, related, Related Content, related posts, responsive, save, send, seo, sexybookmarks, Share, share and enjoy, share and follow, share button, share buttons, share links, share this, Shareaholic, sharebar, sharedaddy, shareholic, sharenow, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, thumbnails, tinyurl, translate, tumblr, tweet, tweet button, twitter, twitter button, twitter button, twitter share, url shortener, wanelo, widget, windows live, wish list, wpmu, yaarp, yahoo, yahoo buzz, yahoo messenger, yammer, yarpp
+Tags: +1, add this, add to any, AddThis, addtoany, admin, analytics, bookmark, bookmark button, buffer, button, comments, del.icio.us, Digg, e-mail, email, email button, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google analytics, google bookmarks, google plus, google translate, Google+1, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pin it, pinterest, plugin, plus one, Post, posts, print, PrintFriendly, Reddit, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, widget, wpmu, yahoo, yammer
 
 Requires at least: 2.9
 Tested up to: 4.0
 Stable tag: 7.0
 License: GPLv2 or later
 
-E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services.
+Make easier to increase your content distribution, generate revenue & measure social analytics for free.
 
 == Description == 
 
-E-MAILiT simplifies social media services by reducing clutter on webpages, and providing instant distribution of content across social networks, affiliate groups, and communities. E-MAILiT allows media to become truly social, with the click of just one button. 
+E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services. 
 
-<a href="http://www.e-mailit.com">Share Buttons</a> (demo)
+E-MAILiT simplifies social media services. We reduce clutter on webpages, and provide instant distribution of content across social networks, and communities. E-MAILiT allows media to become truly social, with the click of just one button. Content distribution and website monetization, made simple. 
 
-<a href="http://twitter.com/emailit">Follow us on Twitter</a>
+= Share Buttons =
+
+* Simple activation
+* Make easier for your audience/visitors to increase the share of your content distribution with their friends
+* Share any content on the web with friends through Facebook, Twitter, LinkedIn, and lots more
+* 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo), Twitter Tweet Button, Pinterest Pin It Button, Google+ Share Button, VKontakte Share Button, Odnoklassniki Share Button and LinkedIn Share Button
+* Email sharing via Email Form, Gmail, Yahoo! Mail, Outlook.com, AOL Mail and MailRu
+* Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
+* Custom Placement
+
+**Get more social traffic, likes, shares and followers on your site with <a href="http://www.e-mailit.com/" title="Sharing buttons">E-MAILiT</a>!** live demo 
+
+= Social Analytics Integration =
+
+* Automatic Google Analytics integration for sharing analytics
+
+= CMS Optimized =
+
+* Well-engineered code will not slow or block your website pages from loading. Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content
+* No signup, no login, no account necessary
+
+= Additional Features =
+
+* Translated into 75 languages, automatically localized
+* Mobile-friendly optimized with automatic detection of device-type. E-MAILiT will work and look great on all mobile devices and tablets
+* Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users
+* Fast and reliable performance. Google Page Speed Insight Compliant/Optimized
+* Very light weight script which do not effect your site's loading speed
+* Create revenue and keep it all - Begin creating money from your sharing button (signup recuired - <a href="http://www.e-mailit.com/widget/register">Start a Campaign</a> or <a href="http://www.e-mailit.com/widget/login">Sign in</a>). Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
+
+E-MAILiT has been downloaded over 170,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with over 60 million monthly page views across the web, reaching over 1 million users daily, from more than 240 countries worldwide. 
+
+<a href="http://wordpress.org/support/plugin/e-mailit">Support</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> | <a href="http://www.e-mailit.com/tos">Terms</a> 
 
 == Installation ==
 
