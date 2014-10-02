@@ -25,7 +25,8 @@ E-MAILiT simplifies social media services. We reduce clutter on webpages, and pr
 * Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
 * Custom Placement
 
-**Get more social traffic, likes, shares and followers on your site with <a href="http://www.e-mailit.com/" title="Sharing buttons">E-MAILiT</a>!** live demo 
+**Get more social traffic, likes, shares and followers on your site with E-MAILiT!**  
+Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live demo</a> 
 
 = Social Analytics Integration =
 
