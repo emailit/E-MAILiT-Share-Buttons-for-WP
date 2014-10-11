@@ -13,7 +13,8 @@ Make easier to increase your content distribution, generate revenue & measure so
 
 E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services. 
 
-E-MAILiT simplifies social media services. We reduce clutter on webpages, and provide instant distribution of content across social networks, and communities. E-MAILiT allows media to become truly social, with the click of just one button. Content distribution and website monetization, made simple. 
+E-MAILiT simplifies social media services. We reduce clutter on webpages, and provide instant distribution of content across social networks, and communities.  
+E-MAILiT allows media to become truly social, with the click of just one share button. 
 
 = Share Buttons =
 
@@ -46,7 +47,7 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 * Very light weight script which do not effect your site's loading speed
 * Create revenue and keep it all - Begin creating money from your sharing button (signup recuired - <a href="http://www.e-mailit.com/widget/register">Start a Campaign</a> or <a href="http://www.e-mailit.com/widget/login">Sign in</a>). Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
 
-E-MAILiT has been downloaded over 180,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with over 60 million monthly page views across the web, reaching over 1 million users daily, from more than 240 countries worldwide. 
+E-MAILiT has been downloaded over 180,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with 500 million views and over 200 million users to-date — served 60+ million times/month to 1+ million people/day, in 75 languages. 
 
 <a href="http://wordpress.org/support/plugin/e-mailit">Support</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> | <a href="http://www.e-mailit.com/tos">Terms</a> | <a href="http://www.e-mailit.com/about#bizdev">BizDev</a> 
 
