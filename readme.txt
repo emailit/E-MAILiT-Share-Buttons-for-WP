@@ -49,7 +49,7 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 
 E-MAILiT has been downloaded over 180,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with 500 million views and over 200 million users to-date — served 60+ million times/month to 1+ million people/day, in 75 languages. 
 
-<a href="http://wordpress.org/support/plugin/e-mailit">Support</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> | <a href="http://www.e-mailit.com/tos">Terms</a> | <a href="http://www.e-mailit.com/about#bizdev">BizDev</a> 
+<a href="http://blog.e-mailit.com">Blog</a> | <a href="http://wordpress.org/support/plugin/e-mailit">Support</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> | <a href="http://www.e-mailit.com/tos">Terms</a> | <a href="http://www.e-mailit.com/about#bizdev">BizDev</a> 
 
 == Installation ==
 
