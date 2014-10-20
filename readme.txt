@@ -11,6 +11,8 @@ Make easier to increase your content distribution, generate revenue & measure so
 
 == Description == 
 
+**Updates 10/19/2014** 
+
 E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services. 
 
 E-MAILiT simplifies social media services. We reduce clutter on webpages, and provide instant distribution of content across social networks, and communities.  
