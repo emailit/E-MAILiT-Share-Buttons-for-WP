@@ -5,7 +5,7 @@ Tags: +1, add this, add to any, AddThis, addtoany, admin, analytics, bookmark, b
 Requires at least: 2.9
 Tested up to: 4.0
 Stable tag: 7.1
-License: GPLv2 or later 
+License: GPLv2 or later  
 
 Make easier to increase your content distribution, generate revenue & measure social analytics for free.
 
