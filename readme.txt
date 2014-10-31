@@ -1,11 +1,11 @@
 ==== Share Buttons by E-MAILiT ====
 Contributors: e-mailit
-Tags: +1, add this, add to any, AddThis, addtoany, admin, analytics, bookmark, bookmark button, buffer, button, comments, del.icio.us, Digg, e-mail, email, email button, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google analytics, google bookmarks, google plus, google translate, Google+1, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pin it, pinterest, plugin, plus one, Post, posts, print, PrintFriendly, Reddit, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, widget, wpmu, yahoo, yammer
+Tags: +1, add this, add to any, AddThis, E-MAILiT, addtoany, admin, analytics, bookmark, bookmark button, buffer, button, comments, del.icio.us, Digg, e-mail, email, email button, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google analytics, google bookmarks, google plus, google translate, Google+1, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pin it, pinterest, plugin, plus one, Post, posts, print, PrintFriendly, Reddit, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, widget, wpmu, yahoo, yammer
 
 Requires at least: 2.9
 Tested up to: 4.0
 Stable tag: 7.1
-License: GPLv2 or later
+License: GPLv2 or later  
 
 Make easier to increase your content distribution, generate revenue & measure social analytics for free.
 
@@ -13,10 +13,14 @@ Make easier to increase your content distribution, generate revenue & measure so
 
 **Updates 10/19/2014** 
 
+Help your visitors promote your site! Our share button is small, unobtrusive, and quick to load.
+
 E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services. 
 
 E-MAILiT simplifies social media services. We reduce clutter on webpages, and provide instant distribution of content across social networks, and communities.  
 E-MAILiT allows media to become truly social, with the click of just one share button. 
+
+See how your visitors are sharing your content: which services they're using for sharing, which content is shared the most, and more.
 
 Understand your audience. Engage your readers. Make more money. 
 
@@ -51,7 +55,7 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 * Very light weight script which do not effect your site's loading speed
 * Create revenue and keep it all - Begin creating money from your sharing button (signup recuired - <a href="http://www.e-mailit.com/widget/register">Start a Campaign</a> or <a href="http://www.e-mailit.com/widget/login">Sign in</a>). Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
 
-E-MAILiT has been downloaded over 180,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with 500 million views and over 220 million users to-date — served 70+ million times/month to 1+ million people/day, in 75 languages. 
+E-MAILiT has been downloaded over 180,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with 500 million views and over 220 million users to-date — served 70+ million times/month to 1+ million people/day, in 75 languages. Join us! 
 
 <a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy Policy</a> | <a href="http://www.e-mailit.com/about#bizdev">BizDev</a> 
 
