@@ -1,4 +1,4 @@
-==== Share Buttons by E-MAILiT ====
+﻿==== Share Buttons by E-MAILiT ====
 Contributors: e-mailit
 Tags: +1, add this, add to any, AddThis, E-MAILiT, addtoany, admin, analytics, bookmark, bookmark button, buffer, button, comments, del.icio.us, Digg, e-mail, email, email button, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google analytics, google bookmarks, google plus, google translate, Google+1, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pin it, pinterest, plugin, plus one, Post, posts, print, PrintFriendly, Reddit, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, widget, wpmu, yahoo, yammer
 
@@ -20,7 +20,7 @@ E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate v
 E-MAILiT simplifies social media services. We reduce clutter on webpages, and provide instant distribution of content across social networks, and communities.  
 E-MAILiT allows media to become truly social, with the click of just one share button. 
 
-See how your visitors are sharing your content: which services they're using for sharing, which content is shared the most, and more.
+See how your visitors are sharing your content: which services they are using for sharing, which content is shared the most, and more.
 
 Understand your audience. Engage your readers. Make more money. 
 
