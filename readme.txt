@@ -11,7 +11,7 @@ Make easier to increase your content distribution, generate revenue & measure so
 
 == Description == 
 
-**Updates 10/19/2014** 
+**Updates 11/20/2014** 
 
 Help your visitors promote your site! Our share button is small, unobtrusive, and quick to load.
 
