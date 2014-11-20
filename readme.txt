@@ -3,7 +3,7 @@ Contributors: e-mailit
 Tags: +1, add this, add to any, AddThis, E-MAILiT, addtoany, admin, analytics, bookmark, bookmark button, buffer, button, comments, del.icio.us, Digg, e-mail, email, email button, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google analytics, google bookmarks, google plus, google translate, Google+1, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pin it, pinterest, plugin, plus one, Post, posts, print, PrintFriendly, Reddit, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, widget, wpmu, yahoo, yammer
 
 Requires at least: 2.9
-Tested up to: 4.0
+Tested up to: 4.0.1
 Stable tag: 7.1
 License: GPLv2 or later 
 
