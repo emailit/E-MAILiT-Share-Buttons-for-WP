@@ -4,7 +4,7 @@ Tags: +1, add this, add to any, AddThis, E-MAILiT, addtoany, admin, analytics, b
 
 Requires at least: 2.9
 Tested up to: 4.0.1
-Stable tag: 7.1
+Stable tag: 7.2
 License: GPLv2 or later 
 
 Make easier to increase your content distribution, generate revenue & measure social analytics for free.
@@ -129,6 +129,9 @@ The count result is common for share and like interactions. Please, see here htt
 06. The Google Analytics dashboard
 
 == Changelog ==
+= 7.2 =
+* WordPress 4.0.1 compatibility.
+* Code performance improvements.
 = 7.1 =
 * Code performance improvements.
 = 7.0 =
