@@ -132,6 +132,7 @@ The count result is common for share and like interactions. Please, see here htt
 = 7.2 =
 * WordPress 4.0.1 compatibility.
 * Code performance improvements.
+* Add Flipboard.
 = 7.1 =
 * Code performance improvements.
 = 7.0 =
