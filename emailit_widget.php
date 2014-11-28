@@ -225,12 +225,12 @@ function emailit_settings_page() {
 					
 					if($(".toolbar-style input:checked").val() !== ""){
 						$("#display_linkedin_button input, #display_vkontakte_button input, #display_gplus_button input, " +
-						"#display_fb_button input, #display_fb_like_share_button input, #display_odnoklassniki_button input").prop('checked', false).prop('disabled', true);
+						"#display_fb_button input, #display_fb_like_share_button input, #display_odnoklassniki_button input").prop('disabled', true);
 						$("#display_linkedin_button, #display_vkontakte_button, #display_gplus_button, " +
 						"#display_fb_button, #display_fb_like_share_button, #display_odnoklassniki_button").addClass("ui-state-disabled");
 					}else{
 						$("#display_linkedin_button input, #display_vkontakte_button input, #display_gplus_button input, " +
-						"#display_fb_button input, #display_fb_like_share_button input, #display_odnoklassniki_button input").prop('checked', true).prop('disabled', false);
+						"#display_fb_button input, #display_fb_like_share_button input, #display_odnoklassniki_button input").prop('disabled', false);
 						$("#display_linkedin_button, #display_vkontakte_button, #display_gplus_button, " +
 						"#display_fb_button, #display_fb_like_share_button, #display_odnoklassniki_button").removeClass("ui-state-disabled");					
 					}
@@ -239,7 +239,7 @@ function emailit_settings_page() {
 						$("#emailit_button_options input").prop('disabled', true);
 						$("#emailit_button_options div").attr('disabled', true);
 					}else{
-					$("#emailit_button_options").css("opacity","1");
+						$("#emailit_button_options").css("opacity","1");
 						$("#emailit_button_options input").prop('disabled', false);
 						$("#emailit_button_options div").attr('disabled', false);
 					}
@@ -278,7 +278,7 @@ function emailit_settings_page() {
 				"display_emailit_button" => "E-MAILiT",
 				);
 				
-				if($emailit_options["remove_emailit_button"] !== 'true' && !$emailit_options["display_emailit_button"])
+				if($emailit_options["remove_emailit_button"] !== 'true' && !($emailit_options["buttons_order"]))
 					$emailit_options["display_emailit_button"] = "true";
             ?>
 			<ul title="Drag to reorder" id="sel_buttons">
@@ -287,7 +287,10 @@ function emailit_settings_page() {
 
 				foreach($sel_buttons as $sel_button){
 			?>
-				<li class="ui-state-default ui-sortable-handle" id="<?php echo $sel_button?>"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span><i></i><?php echo $buttons[$sel_button]?><input type="checkbox" name="emailit_options[<?php echo $sel_button?>]" value="true" <?php echo ($emailit_options[$sel_button] == true ? 'checked="checked"' : ''); ?>/></li>
+				<li class="ui-state-default ui-sortable-handle" id="<?php echo $sel_button?>">
+					<span class="ui-icon ui-icon-arrowthick-2-n-s"></span><i></i><?php echo $buttons[$sel_button]?>
+					<input type="checkbox" name="emailit_options[<?php echo $sel_button?>]" value="true" <?php echo ($emailit_options[$sel_button] == true ? 'checked="checked"' : ''); ?>/>
+				</li>
 			<?php			
 				}
 				foreach($buttons as $button_key => $button){
@@ -484,7 +487,7 @@ function emailit_display_button($content) {
 					$outputValue .= "<span class=\"e-mailit_odnoklassniki_btn\" $shared_url $shared_title></span>" . PHP_EOL;
 			break;
 			case "display_emailit_button":
-				if ($emailit_options["remove_emailit_button"] !== 'true' || $emailit_options["display_emailit_button"] == 'true') {
+				if (($emailit_options["remove_emailit_button"] !== 'true' && !$emailit_options["buttons_order"]) || $emailit_options["display_emailit_button"] == 'true') {
 					if ($button_id == "" || $button_id == "Your Button ID") {
 						$outputValue .= " <div class='e_mailit_button' $shared_url $shared_title></div>" . PHP_EOL;
 					} else {
