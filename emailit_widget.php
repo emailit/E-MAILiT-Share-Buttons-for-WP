@@ -450,7 +450,7 @@ function emailit_display_button($content) {
 		switch ($sel_button) {
 		  case "display_fb_button":
 			if ($emailit_options["display_fb_button"] == 'true')
-				$outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
+				$outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title></span>";
 			break;
 		  case "display_fb_like_share_button":
 			if ($emailit_options["display_fb_like_share_button"] == 'true') {
