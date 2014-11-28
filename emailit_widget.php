@@ -72,7 +72,16 @@ function add_domain_verification_meta() {
         $configValues[] = "TwitterID:''";
     if ($emailit_options['GA_id'] != "")
         $configValues[] = "ga_property_id:'" . $emailit_options["GA_id"] . "'";
-
+    if ($emailit_options['back_color'] != "")
+        $configValues[] = "back_color:'" . $emailit_options["back_color"] . "'";
+    if ($emailit_options['text_color'] != "")
+        $configValues[] = "text_color:'" . $emailit_options["text_color"] . "'";		
+	if  ($emailit_options['text_display'] != "Share" && $emailit_options['text_display'] != ""){
+		$configValues[] = "text_display:'" . $emailit_options["text_display"] . "'";
+	}
+	if  ($emailit_options['open_on'] != ""){
+		$configValues[] = "open_on:'" . $emailit_options["open_on"] . "'";
+	}
     $outputValue .= "var e_mailit_config = {" . implode(",", $configValues) . "};";
     $outputValue .= "(function() {	var b=document.createElement('script');	
                         b.type='text/javascript';b.async=true;	
@@ -98,6 +107,20 @@ function emailit_admin_menu() {
 function emailit_settings_page() {
     ?>
     <div>
+		<script type="text/javascript" src="<?php echo plugins_url('js/jquery.js', __FILE__) ?>"></script>
+		<script type="text/javascript" src="<?php echo plugins_url('js/jquery-ui.min.js', __FILE__) ?>"></script>
+		<script type="text/javascript" src="<?php echo plugins_url('js/colorpicker/js/colorpicker.js', __FILE__) ?>"></script>
+		<script type="text/javascript" src="<?php echo plugins_url('js/colorpicker/js/colorpicker.js', __FILE__) ?>"></script>
+		<link href="<?php echo plugins_url('css/jquery-ui.min.css', __FILE__) ?>" rel="stylesheet">
+		<link href="<?php echo plugins_url('js/colorpicker/css/colorpicker.css', __FILE__) ?>" rel="stylesheet">
+		<link href="<?php echo plugins_url('js/colorpicker/css/layout.css', __FILE__) ?>" rel="stylesheet">
+		<link href="<?php echo plugins_url('css/style.css', __FILE__) ?>" rel="stylesheet">
+        <h2 style="font-size: 36px;">Welcome to E-MAILiT Share Settings for WordPress</h2>
+        <form onsubmit="return validate()" id="emailit_options" action="options.php" method="post">
+		<?php
+			settings_fields('emailit_options');
+			$emailit_options = get_option('emailit_options');
+		?>
         <script type="text/javascript">
             function validate() {
                 emailit_domain_verification = document.getElementById('emailit_domain_verification');
@@ -112,55 +135,187 @@ function emailit_settings_page() {
                 }
                 return true;
             }
+			$(function() {
+				$( document ).tooltip({
+				  position: {
+					my: "center bottom-20",
+					at: "center top",
+					using: function( position, feedback ) {
+					  $( this ).css( position );
+					  $( "<div>" )
+						.addClass( "arrow" )
+						.addClass( feedback.vertical )
+						.addClass( feedback.horizontal )
+						.appendTo( this );
+					}
+				  }
+				});
+
+				$( "#sel_buttons" ).sortable({
+					cancel: ".ui-state-disabled",
+					update: function( event, ui ) {
+						$("#buttons_order").val("");
+						$( "#sel_buttons li" ).each(function(){
+							$("#buttons_order").val($("#buttons_order").val() + $(this).attr("id") + ",");
+						});
+					}
+				});
+				$( "#sel_buttons" ).disableSelection();
+				
+				$('#colorSelector div,#colorSelector2 div').css('backgroundColor', '<?php echo $emailit_options["back_color"]?>');
+				$('#colorSelector,#colorSelector2').ColorPicker({
+					color: '<?php echo $emailit_options["back_color"]?>',
+					onShow: function (colpkr) {
+						if(!$(this).attr('disabled'))
+							$(colpkr).fadeIn(500);
+						return false;
+					},
+					onHide: function (colpkr) {
+						$(colpkr).fadeOut(500);
+						return false;
+					},
+					onChange: function(hsb, hex, rgb) {
+						$("#colorpickerField").val("#"+hex);
+						$("#colorpickerField2").val("#"+hex);
+						$('#colorSelector div').css('backgroundColor', '#' + hex);
+						$('#colorSelector2 div').css('backgroundColor', '#' + hex);
+					}
+				})
+				.bind('keyup', function(){
+					$(this).ColorPickerSetColor(this.value);
+				});
+				
+				$("#colorpickerField, #colorpickerField2").change(function(){
+					$('#colorSelector div').css('backgroundColor',$(this).val());
+					$('#colorSelector2 div').css('backgroundColor',$(this).val());
+					$("#colorpickerField, #colorpickerField2").val($(this).val());
+				});
+				
+				$('#colorSelector3 div').css('backgroundColor', '<?php echo $emailit_options["text_color"]?>');
+				$('#colorSelector3').ColorPicker({
+					color: '<?php echo $emailit_options["text_color"]?>',
+					onShow: function (colpkr) {
+						if(!$(this).attr('disabled'))					
+							$(colpkr).fadeIn(500);
+						return false;
+					},
+					onHide: function (colpkr) {
+						$(colpkr).fadeOut(500);
+						return false;
+					},
+					onChange: function(hsb, hex, rgb) {
+						$("#colorpickerField3").val("#"+hex);
+						$('#colorSelector3 div').css('backgroundColor', '#' + hex);
+					}
+				})
+				.bind('keyup', function(){
+					$(this).ColorPickerSetColor(this.value);
+				});				
+				$("#colorpickerField3").change(function(){
+					$('#colorSelector3 div').css('backgroundColor',$(this).val());
+				});				
+
+				$(".toolbar-style").click(function(){
+					$(this).find("input").prop('checked', true);
+					$(".toolbar-styles").change();
+				});				
+				$(".toolbar-styles").change(function(){
+					$(".toolbar-styles input[type='radio']").parent().css("opacity","0.3");
+					$(".toolbar-styles input[type='radio']:checked").parent().css("opacity","1");
+					
+					if($(".toolbar-style input:checked").val() !== ""){
+						$("#display_linkedin_button input, #display_vkontakte_button input, #display_gplus_button input, " +
+						"#display_fb_button input, #display_fb_like_share_button input, #display_odnoklassniki_button input").prop('checked', false).prop('disabled', true);
+						$("#display_linkedin_button, #display_vkontakte_button, #display_gplus_button, " +
+						"#display_fb_button, #display_fb_like_share_button, #display_odnoklassniki_button").addClass("ui-state-disabled");
+					}else{
+						$("#display_linkedin_button input, #display_vkontakte_button input, #display_gplus_button input, " +
+						"#display_fb_button input, #display_fb_like_share_button input, #display_odnoklassniki_button input").prop('checked', true).prop('disabled', false);
+						$("#display_linkedin_button, #display_vkontakte_button, #display_gplus_button, " +
+						"#display_fb_button, #display_fb_like_share_button, #display_odnoklassniki_button").removeClass("ui-state-disabled");					
+					}
+					if($(".toolbar-style input:checked").val() !== "" && $(".toolbar-style input:checked").val() !== "3"){
+						$("#emailit_button_options").css("opacity","0.3");
+						$("#emailit_button_options input").prop('disabled', true);
+						$("#emailit_button_options div").attr('disabled', true);
+					}else{
+					$("#emailit_button_options").css("opacity","1");
+						$("#emailit_button_options input").prop('disabled', false);
+						$("#emailit_button_options div").attr('disabled', false);
+					}
+				});
+				$(".toolbar-styles").change();
+			});			
         </script>
-        <h2 style="font-size: 36px;"><img src="<?php echo plugins_url('images/logo.png', __FILE__) ?>"/> Share with E-MAILiT buttons</h2>
-        <form onsubmit="return validate()" id="emailit_options" action="options.php" method="post">
-
+		<div class="toolbar-styles">			
+			<div class="toolbar-style" style="background: url('<?php echo plugins_url('images/style1.png', __FILE__) ?>') no-repeat right;">
+				<input type="radio"  name="emailit_options[toolbar_type]" value="1" <?php echo ($emailit_options["toolbar_type"] == "1" ? 'checked="checked"' : ''); ?>>			
+			</div>
+			<div class="toolbar-style"  style="background: url('<?php echo plugins_url('images/style2.png', __FILE__) ?>') no-repeat right;">
+				<input type="radio"  name="emailit_options[toolbar_type]" value="2" <?php echo ($emailit_options["toolbar_type"] == "2" ? 'checked="checked"' : ''); ?>>
+				<input style="float:right;margin-right:180px;margin-top: 7px;" type="text" name="emailit_options[back_color]" maxlength="7" size="7" id="colorpickerField" value="<?php echo $emailit_options["back_color"]?>" />
+				<div style="float:right;margin-top: 3px;" id="colorSelector"><div style="background-color: #0000ff"></div></div>
+			</div>
+			<div class="toolbar-style"  style="background: url('<?php echo plugins_url('images/style3.png', __FILE__) ?>') no-repeat right;">
+				<input type="radio"  name="emailit_options[toolbar_type]" value="3" <?php echo ($emailit_options["toolbar_type"] == "3" ? 'checked="checked"' : ''); ?>>
+			</div>
+			<div class="toolbar-style"  style="background: url('<?php echo plugins_url('images/style4.png', __FILE__) ?>') no-repeat right;">
+				<input type="radio"  name="emailit_options[toolbar_type]" value="" <?php echo ($emailit_options["toolbar_type"] == "" ? 'checked="checked"' : ''); ?>>
+			</div>
+		</div>
+		<div>
             <?php
-            settings_fields('emailit_options');
+			$buttons = array(
+				"display_fb_like_share_button" => "Facebook Like + Share",
+				"display_fb_button" => "Facebook Like",
+				"display_fb_share_button" => "Facebook Share",
+				"display_tweeter_button" => "Twitter",
+				"display_gplus_button" => "Google+",
+				"display_pinterest_button" => "Pinterest",
+				"display_linkedin_button" => "LinkedIn",
+				"display_vkontakte_button" => "Vkontakte",
+				"display_odnoklassniki_button" => "Odnoklassniki",
+				"display_emailit_button" => "E-MAILiT",
+				);
+				
+				if($emailit_options["remove_emailit_button"] !== 'true' && !$emailit_options["display_emailit_button"])
+					$emailit_options["display_emailit_button"] = "true";
+            ?>
+			<ul title="Drag to reorder" id="sel_buttons">
+			<?php 
+				$sel_buttons = array_filter(explode(",",$emailit_options['buttons_order']));
 
-            $emailit_options = get_option('emailit_options');
-            ?>           
-            <table width="650px" >
-                <tr><td  width="300px" style="height:20px;background: url('<?php echo plugins_url('images/fb_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_fb_button]" value="true" <?php echo ($emailit_options['display_fb_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_like_share_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_fb_like_share_button]" value="true" <?php echo ($emailit_options['display_fb_like_share_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/fb_share_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_fb_share_button]" value="true" <?php echo ($emailit_options['display_fb_share_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>                    
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/tweeter_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_tweeter_button]" value="true" <?php echo ($emailit_options['display_tweeter_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/g_plus_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_gplus_button]" value="true" <?php echo ($emailit_options['display_gplus_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/pinterest_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_pinterest_button]" value="true" <?php echo ($emailit_options['display_pinterest_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/linkedin_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_linkedin_button]" value="true" <?php echo ($emailit_options['display_linkedin_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>							
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/vkontakte_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_vkontakte_button]" value="true" <?php echo ($emailit_options['display_vkontakte_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-                <tr><td style="height:20px;background: url('<?php echo plugins_url('images/odnoklassniki_btn.png', __FILE__) ?>') no-repeat right;"></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_odnoklassniki_button]" value="true" <?php echo ($emailit_options['display_odnoklassniki_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-            </table>
+				foreach($sel_buttons as $sel_button){
+			?>
+				<li class="ui-state-default ui-sortable-handle" id="<?php echo $sel_button?>"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span><i></i><?php echo $buttons[$sel_button]?><input type="checkbox" name="emailit_options[<?php echo $sel_button?>]" value="true" <?php echo ($emailit_options[$sel_button] == true ? 'checked="checked"' : ''); ?>/></li>
+			<?php			
+				}
+				foreach($buttons as $button_key => $button){
+					if(!in_array($button_key, $sel_buttons)){
+			?>
+					<li class="ui-state-default ui-sortable-handle" id="<?php echo $button_key?>"><span class="ui-icon ui-icon-arrowthick-2-n-s"></span><i></i><?php echo $button?><input type="checkbox" name="emailit_options[<?php echo $button_key?>]" value="true" <?php echo ($emailit_options[$button_key] == true ? 'checked="checked"' : ''); ?>/></li>
+			<?php	
+					}			
+				}
+			?>
+			</ul>
+			<input id="buttons_order" name="emailit_options[buttons_order]" value="<?php echo $emailit_options['buttons_order']; ?>" type="hidden"/>
+			</div>
+			<div id="emailit_button_options">
+				<input title="EMAILiT Button Text" style="vertical-align:middle;" type="text" name="emailit_options[text_display]" value="<?php if($emailit_options['text_display']) echo $emailit_options['text_display']; else echo "Share"; ?>"/>
+				<div style="display:inline-block;vertical-align:middle;" id="colorSelector2"><div style="background-color: #0000ff"></div></div>
+				<input title="EMAILiT Button Background" style=";vertical-align:middle;" type="text" name="emailit_options[back_color]" maxlength="7" size="7" id="colorpickerField2" value="<?php echo $emailit_options["back_color"]?>" />
+				<div style="display:inline-block;vertical-align:middle;" id="colorSelector3"><div style="background-color: #0000ff"></div></div>
+				<input title="EMAILiT Button Text Color" style=";vertical-align:middle;" type="text" name="emailit_options[text_color]" maxlength="7" size="7" id="colorpickerField3" value="<?php echo $emailit_options["text_color"]?>" />
+				<strong style="vertical-align:middle;">Show counter: </strong><input title="EMAILiT Button counter" type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options['display_counter'] == true ? 'checked="checked"' : ''); ?>/><br />
+			</div>			
+				
+			<select title="EMAILiT Menu open on" name="emailit_options[open_on]">
+				<option value="onmouseover" <?php echo ($emailit_options['open_on'] == 'onmouseover' ? 'selected="selected"' : ''); ?>>hover</option>
+				<option value="onclick" <?php echo ($emailit_options['open_on'] == 'onclick' ? 'selected="selected"' : ''); ?>>click</option>                                
+			</select>
             <h2 style="font-size: 36px;">Advanced</h2>
             <table width="650px" >
-                <tr><td width="300px" style="height:20px;background: url('<?php echo plugins_url('images/emailit_btn.png', __FILE__) ?>') no-repeat right;"><strong>Remove:</strong></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[remove_emailit_button]" value="true" <?php echo ($emailit_options['remove_emailit_button'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
-
-                <tr><td><strong>Show E-MAILiT’s fuchsia counter:</strong></td>
-                    <td>
-                        <input type="checkbox" name="emailit_options[display_counter]" value="true" <?php echo ($emailit_options['display_counter'] == true ? 'checked="checked"' : ''); ?>/>
-                    </td>
-                </tr>
                 <tr><td style="padding-bottom:20px"><strong>Tweet via:</strong></td><td style="padding-bottom:20px"><input type="text" name="emailit_options[TwitterID]" value="<?php echo $emailit_options['TwitterID']; ?>"/></td></tr>
             </table>
             <p><strong>Show sharing on ...</strong></p>
@@ -179,7 +334,8 @@ function emailit_settings_page() {
                             <strong>pages:</strong></td>
                         <td><input type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options['emailit_showonpages'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                     <tr><td style="padding-bottom:20px"><strong>button position on page:</strong></td>
-                        <td style="padding-bottom:20px"><select name="emailit_options[button_position]">
+                        <td style="padding-bottom:20px">
+						<select name="emailit_options[button_position]">
                                 <option value="top" <?php echo ($emailit_options['button_position'] == 'top' ? 'selected="selected"' : ''); ?>>Top</option>                                
                                 <option value="bottom" <?php echo ($emailit_options['button_position'] == 'bottom' ? 'selected="selected"' : ''); ?>>Bottom</option>
                                 <option value="both" <?php echo ($emailit_options['button_position'] == 'both' ? 'selected="selected"' : ''); ?>>Both</option>
@@ -208,7 +364,21 @@ function emailit_settings_page() {
                 <br/>            
                 <input name="Submit" type="submit" value="<?php esc_attr_e('Save Changes'); ?>" />
             </div>
-        </form></div>
+        </form>
+		<br/>
+		<p>
+			<strong style="background-color: #FF0;">&nbsp;&nbsp;Like our share widget?&nbsp;&nbsp;</strong><br><br>
+			<a href="http://wordpress.org/support/view/plugin-reviews/e-mailit" target="_blank">Give E-MAILiT your rating and review</a> on WordPress.org<br>
+			<a href="http://www.e-mailit.com/share/mobile?url=http://www.e-mailit.com&amp;title=I love E-MAILiT Share Buttons" target="_blank">Share</a> and follow <a href="http://www.e-mailit.com">E-MAILiT</a> on <a href="http://twitter.com/emailit" target="_blank">Twitter</a>.
+		</p>
+		<p>		
+		<br/><strong style="background-color: #FF0;">&nbsp;&nbsp;Need support?&nbsp;&nbsp;</strong><br><br>
+		Support via <a href="http://twitter.com/emailit" target="_blank">Twitter</a>.<br/>
+		Search the <a href="http://wordpress.org/support/plugin/e-mailit" target="_blank">WordPress Forum</a> or
+		see the <a href="https://wordpress.org/plugins/e-mailit/faq" target="_blank">FAQs</a>.<br/>
+		<a href="mailto:support@e-mailit.com">Ask a Question</a>.
+		</p>		
+	</div>
 
     <?php
 }
@@ -264,36 +434,66 @@ function emailit_display_button($content) {
     $button_id = $emailit_options["button_id"];
 
     $outputValue = "<!-- E-MAILiT Sharing Button BEGIN -->" . PHP_EOL;
-    $outputValue .= "<div class=\"e-mailit_toolbox\">" . PHP_EOL;
-    if ($emailit_options["display_fb_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
-    if ($emailit_options["display_fb_like_share_button"] == 'true') {
-        $share_str = "e-mailit:include_share='true'";
-        $outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
-    }
-    if ($emailit_options["display_fb_share_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></span>" . PHP_EOL;
-    if ($emailit_options["display_tweeter_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_twitter_btn\" $shared_url $shared_title></span>" . PHP_EOL;
-    if ($emailit_options["display_gplus_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_google_btn\" $shared_url $shared_title></span>" . PHP_EOL;
-    if ($emailit_options["display_pinterest_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_pinterest_btn\" $shared_url $shared_title></span>" . PHP_EOL;
-    if ($emailit_options["display_linkedin_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></span>" . PHP_EOL;
-    if ($emailit_options["display_vkontakte_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></span>" . PHP_EOL;
-    if ($emailit_options["display_odnoklassniki_button"] == 'true')
-        $outputValue .= "<span class=\"e-mailit_odnoklassniki_btn\" $shared_url $shared_title></span>" . PHP_EOL;
-    if ($emailit_options["remove_emailit_button"] !== 'true') {
-        if ($button_id == "" || $button_id == "Your Button ID") {
-            $outputValue .= " <div class='e_mailit_button' $shared_url $shared_title></div>" . PHP_EOL;
-        } else {
-            $outputValue .= " <div class='e_mailit_button' id='$button_id' $shared_url $shared_title></div>" . PHP_EOL;
-        }
-    }
+	if(isset($emailit_options["toolbar_type"]) && $emailit_options["toolbar_type"] !== "") $style = "e-mailit:style=\"".$emailit_options["toolbar_type"]."\"";
+    $outputValue .= "<div class=\"e-mailit_toolbox\" $style>" . PHP_EOL;
 
-
+	
+	$sel_buttons = array_filter(explode(",",$emailit_options['buttons_order']));
+	if(sizeof($sel_buttons) === 0)
+	$sel_buttons = array("display_fb_like_share_button","display_fb_button","display_fb_share_button","display_tweeter_button",
+						"display_gplus_button","display_pinterest_button","display_linkedin_button","display_vkontakte_button",
+						"display_odnoklassniki_button","display_emailit_button");
+	foreach($sel_buttons as $sel_button){
+		switch ($sel_button) {
+		  case "display_fb_button":
+			if ($emailit_options["display_fb_button"] == 'true')
+				$outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
+			break;
+		  case "display_fb_like_share_button":
+			if ($emailit_options["display_fb_like_share_button"] == 'true') {
+				$share_str = "e-mailit:include_share='true'";
+				$outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
+			}		  
+			break;
+		  case "display_fb_share_button":
+			if ($emailit_options["display_fb_share_button"] == 'true')
+				$outputValue .= "<span class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+			break;
+		  case "display_tweeter_button":
+			if ($emailit_options["display_tweeter_button"] == 'true')
+				$outputValue .= "<span class=\"e-mailit_twitter_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+			break;
+			case "display_gplus_button":
+				if ($emailit_options["display_gplus_button"] == 'true')
+					$outputValue .= "<span class=\"e-mailit_google_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+			break;
+			case "display_pinterest_button":
+				if ($emailit_options["display_pinterest_button"] == 'true')
+					$outputValue .= "<span class=\"e-mailit_pinterest_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+			break;
+			case "display_linkedin_button":
+				if ($emailit_options["display_linkedin_button"] == 'true')
+					$outputValue .= "<span class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+			break;
+			case "display_vkontakte_button":
+				if ($emailit_options["display_vkontakte_button"] == 'true')
+					$outputValue .= "<span class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+			break;
+			case "display_odnoklassniki_button":
+				if ($emailit_options["display_odnoklassniki_button"] == 'true')
+					$outputValue .= "<span class=\"e-mailit_odnoklassniki_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+			break;
+			case "display_emailit_button":
+				if ($emailit_options["remove_emailit_button"] !== 'true' || $emailit_options["display_emailit_button"] == 'true') {
+					if ($button_id == "" || $button_id == "Your Button ID") {
+						$outputValue .= " <div class='e_mailit_button' $shared_url $shared_title></div>" . PHP_EOL;
+					} else {
+						$outputValue .= " <div class='e_mailit_button' id='$button_id' $shared_url $shared_title></div>" . PHP_EOL;
+					}
+				}
+			break;				
+		}
+	}
 
     $outputValue .= "</div>";
     $outputValue .= "<!-- E-MAILiT Sharing Button END -->" . PHP_EOL;
