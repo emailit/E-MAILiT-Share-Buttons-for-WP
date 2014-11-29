@@ -135,9 +135,9 @@ The count result is common for share and like interactions. Please, see here htt
 * Major new features in Admin Plugin Settings Panel Interface.
 * Re-order, drag and drop customization.
 * Minor updates.
-* Minor bug fixes.
-* Standalone Buttons:  
+* Minor bug fixes.  
 
+* Standalone Buttons:
 * **Sharing Buttons**
  * choose between large and small buttons
  * control how many buttons show up
