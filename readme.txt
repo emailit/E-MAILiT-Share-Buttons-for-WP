@@ -1,6 +1,6 @@
 ﻿==== Share Buttons by E-MAILiT ====
 Contributors: e-mailit
-Tags: +1, add this, add to any, AddThis, E-MAILiT, addtoany, admin, analytics, bookmark, bookmark button, buffer, button, comments, del.icio.us, Digg, e-mail, email, email button, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google analytics, google bookmarks, google plus, google translate, Google+1, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pin it, pinterest, plugin, plus one, Post, posts, print, PrintFriendly, Reddit, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharethis, sharing, sharing is caring, sharing is sexy, shortcode, sidebar, social, social bookmarking, social bookmarks, social share, social sharing, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, widget, wpmu, yahoo, yammer
+Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, bookmark button, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, email, e-mail, email button, email tools, emailit, E-MAILiT, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google +1, google analytics, google bookmarks, google plus, google plus one, google translate, Google+1, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pinit, pinterest, plugin, plus1, plusone, Post, posts, print, PrintFriendly, Reddit, responsive, save, seo, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, sharing buttons, sharing Is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social marketing, social share, social sharing, social tools, socialize, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, Website Tools, whatsapp, widget, wpmu, yahoo, yammer
 
 Requires at least: 2.9
 Tested up to: 4.0.1
@@ -121,12 +121,13 @@ Facebook Like Button displays the likes about a specific url. In order to show c
 The count result is common for share and like interactions. Please, see here https://developers.facebook.com/docs/plugins/like-button/ There are counters for posting an article or sharing a page content. These are two seperate different interactions. But you can include the Share button next to the Like button, having more sharing options to display on your website and not feeling confused about the similar counters. You will have two different buttons together, with one counter only to display.
 
 == Screenshots ==
-01. The settings interface
-02. 3rd party share counter buttons
-03. Automatic Google Analytics integration for social sharing metrics, without register
-04. Share menu that appears when your visitors use the share button
-05. The Google Analytics dashboard
-06. The Google Analytics dashboard
+01. Standalone Large Sharing Buttons
+02. Standalone Large Custom Sharing Buttons
+03. Standalone Small Sharing Buttons
+04. Original Sharing Buttons
+05. Share Menu that appears instantly when visitors use the Share Button
+06. Share Menu that includes all Services
+07. Admin Plugin Settings Panel
 
 == Changelog ==
 = 7.2 =
