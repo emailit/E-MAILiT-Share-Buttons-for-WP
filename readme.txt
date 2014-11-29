@@ -49,7 +49,7 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 
 = Additional Features =
 
-* Translated into 75 languages, automatically localized
+* Automatically localized in 75 languages with Auto-Button Share-Text Translation
 * Mobile-friendly optimized with automatic detection of device-type. E-MAILiT will work and look great on all mobile devices and tablets
 * Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users
 * Fast and reliable performance. Google Page Speed Insight Compliant/Optimized
