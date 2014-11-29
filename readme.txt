@@ -138,23 +138,23 @@ The count result is common for share and like interactions. Please, see here htt
 * Minor bug fixes.
 * Standalone Buttons.
  * Sharing Buttons:
-  * choose between large and small buttons
-  * control how many buttons show up
-  * current supported services: Facebook, Twitter, Pinterest, E-MAILiT
+   * choose between large and small buttons
+   * control how many buttons show up
+   * current supported services: Facebook, Twitter, Pinterest, E-MAILiT
  * Custom Sharing Buttons:
-  * set your own colors
-  * choose large buttons
-  * control how many buttons show up
-  * current supported services: Facebook, Twitter, Pinterest, E-MAILiT
+   * set your own colors
+   * choose large buttons
+   * control how many buttons show up
+   * current supported services: Facebook, Twitter, Pinterest, E-MAILiT
  * Improved Original Sharing Buttons:
-  * share counters to encourage sharing: Included
-  * get a specific sharing button or a full set
-  * control how many buttons show up
-  * current supported services: Facebook Like & Share or combo, Twitter, Google+, Pinterest, LinkedIn, Odnoklassniki, Vkontakte, E-MAILiT
+   * share counters to encourage sharing: Included
+   * get a specific sharing button or a full set
+   * control how many buttons show up
+   * current supported services: Facebook Like & Share or combo, Twitter, Google+, Pinterest, LinkedIn, Odnoklassniki, Vkontakte, E-MAILiT
  * E-MAILiT Button:
-  * edit: text, text color, background color
-  * show count checkbox (share counter to encourage sharing: Included)
-  * show menu on click or on hover
+   * edit: text, text color, background color
+   * show count checkbox (share counter to encourage sharing: Included)
+   * show menu on click or on hover
 = 7.2 =
 * WordPress 4.0.1 compatibility.
 * Code performance improvements.
