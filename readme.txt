@@ -136,10 +136,8 @@ The count result is common for share and like interactions. Please, see here htt
 * Re-order, drag and drop customization.
 * Minor updates.
 * Minor bug fixes.
-* Standalone Buttons:  
-
-
- * **Sharing Buttons**   
+* Standalone Buttons:
+ * **Sharing Buttons**  
 
  * choose between large and small buttons
  * control how many buttons show up
