@@ -138,24 +138,28 @@ The count result is common for share and like interactions. Please, see here htt
 * Minor bug fixes.
 * Standalone Buttons:  
 
- * **Sharing Buttons**
+ * **Sharing Buttons**  
+
  * choose between large and small buttons
  * control how many buttons show up
  * current supported services: Facebook, Twitter, Pinterest, E-MAILiT
 
- * **Custom Sharing Buttons**
+ * **Custom Sharing Buttons**  
+
  * set your own colors
  * choose large buttons
  * control how many buttons show up
  * current supported services: Facebook, Twitter, Pinterest, E-MAILiT
 
- * **Improved Original Sharing Buttons**
+ * **Improved Original Sharing Buttons**  
+
  * share counters to encourage sharing: Included
  * get a specific sharing button or a full set
  * control how many buttons show up
  * current supported services: Facebook Like & Share or combo, Twitter, Google+, Pinterest, LinkedIn, Odnoklassniki, Vkontakte, E-MAILiT
 
- * **E-MAILiT Button**
+ * **E-MAILiT Button**  
+
  * edit: text, text color, background color
  * show count checkbox (share counter to encourage sharing: Included)
  * show menu on click or on hover
