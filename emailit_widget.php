@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: E-MAILiT social sharing platform helps publishers drive more clicks, money, follows, shares and higher CTR by displaying in-Share-Button Ads.  [<a href="options-general.php?page=emailit_widget.php">Settings</a>]
   Author: E-MAILiT
-  Version: 7.3.1
+  Version: 7.3.2
   Author URI: http://www.e-mailit.com
  */
 
@@ -29,6 +29,7 @@ add_action('admin_init', 'emailit_admin_init');
 add_filter('admin_menu', 'emailit_admin_menu');
 add_action('widgets_init', 'emailit_widget_init');
 add_action('wp_head', 'add_domain_verification_meta');
+add_filter('get_the_excerpt', 'emailit_display_excerpt', 11);
 //add_action('admin_notices', 'emailit_admin_notices');
 
 function emailit_admin_notices() {
@@ -98,6 +99,20 @@ function emailit_admin_init() {
 function emailit_widget_init() {
     require_once('emailit_sidebar_widget.php');
     register_widget('EmailitSidebarWidget');
+}
+
+function emailit_display_excerpt($content)
+{
+    $options = get_option('emailit_options');
+   
+    // I don't think has_excerpt() is always necessarily true when calling "get_the_excerpt()",
+    // but since this function is only as a get_the_excerpt() filter, we should probably
+    // not care whether or not an excerpt is there since the caller obviously wants one.
+    // needs testing/understanding.
+    if ($options['emailit_showonexcerpts'] == true ) {
+        return emailit_display_button($content);
+    } else
+        return $content;
 }
 
 function emailit_admin_menu() {
@@ -216,12 +231,15 @@ function emailit_settings_page() {
 				});				
 
 				$(".toolbar-style").click(function(){
-					$(this).find("input").prop('checked', true);
+					$(this).find("input[type='radio']").prop('checked', true);
 					$(".toolbar-styles").change();
 				});				
 				$(".toolbar-styles").change(function(){
 					$(".toolbar-styles input[type='radio']").parent().css("opacity","0.3");
+					$(".toolbar-style input[type='checkbox']").prop('disabled', true);
 					$(".toolbar-styles input[type='radio']:checked").parent().css("opacity","1");
+					$(".toolbar-styles input[type='radio']:checked").parent().find("input[type='checkbox']").prop('disabled', false);
+					
 					
 					if($(".toolbar-style input:checked").val() !== ""){
 						$("#display_linkedin_button input, #display_vkontakte_button input, #display_gplus_button input, " +
@@ -249,12 +267,14 @@ function emailit_settings_page() {
         </script>
 		<div class="toolbar-styles">			
 			<div class="toolbar-style" style="background: url('<?php echo plugins_url('images/style1.png', __FILE__) ?>') no-repeat right;">
-				<input type="radio"  name="emailit_options[toolbar_type]" value="1" <?php echo ($emailit_options["toolbar_type"] == "1" ? 'checked="checked"' : ''); ?>>			
+				<input style="float:left;margin-top: 14px;" type="radio"  name="emailit_options[toolbar_type]" value="1" <?php echo ($emailit_options["toolbar_type"] == "1" ? 'checked="checked"' : ''); ?>>
+				<div style="float:left;margin-left:240px;"><strong>Circular: </strong><input title="Circular buttons" type="checkbox" name="emailit_options[circular]" value="true" <?php echo ($emailit_options['circular'] == true ? 'checked="checked"' : ''); ?>/></div>				
 			</div>
 			<div class="toolbar-style"  style="background: url('<?php echo plugins_url('images/style2.png', __FILE__) ?>') no-repeat right;">
-				<input type="radio"  name="emailit_options[toolbar_type]" value="2" <?php echo ($emailit_options["toolbar_type"] == "2" ? 'checked="checked"' : ''); ?>>
-				<input style="float:right;margin-right:180px;margin-top: 7px;" type="text" name="emailit_options[back_color]" maxlength="7" size="7" id="colorpickerField" value="<?php echo $emailit_options["back_color"]?>" />
-				<div style="float:right;margin-top: 3px;" id="colorSelector"><div style="background-color: #0000ff"></div></div>
+				<input style="float:left;margin-top: 14px;" type="radio"  name="emailit_options[toolbar_type]" value="2" <?php echo ($emailit_options["toolbar_type"] == "2" ? 'checked="checked"' : ''); ?>>
+				<div style="float:left;margin-left:240px;"><strong>Circular: </strong><input title="Circular buttons" type="checkbox" name="emailit_options[circular]" value="true" <?php echo ($emailit_options['circular'] == true ? 'checked="checked"' : ''); ?>/></div>				
+				<input style="float:left;margin-top: 7px;" type="text" name="emailit_options[back_color]" maxlength="7" size="7" id="colorpickerField" value="<?php echo $emailit_options["back_color"]?>" />
+				<div style="float:left;margin-top: 3px;" id="colorSelector"><div style="background-color: #0000ff"></div></div>
 			</div>
 			<div class="toolbar-style"  style="background: url('<?php echo plugins_url('images/style3.png', __FILE__) ?>') no-repeat right;">
 				<input type="radio"  name="emailit_options[toolbar_type]" value="3" <?php echo ($emailit_options["toolbar_type"] == "3" ? 'checked="checked"' : ''); ?>>
@@ -336,6 +356,9 @@ function emailit_settings_page() {
                     <tr><td>    
                             <strong>pages:</strong></td>
                         <td><input type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options['emailit_showonpages'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                                    <tr><td>    
+                            <strong>excerpts:</strong></td>
+                        <td><input type="checkbox" name="emailit_options[emailit_showonexcerpts]" value="true" <?php echo ($emailit_options['emailit_showonexcerpts'] == true ? 'checked="checked"' : ''); ?>/></td></tr>    
                     <tr><td style="padding-bottom:20px"><strong>button position on page:</strong></td>
                         <td style="padding-bottom:20px">
 						<select name="emailit_options[button_position]">
@@ -438,7 +461,8 @@ function emailit_display_button($content) {
 
     $outputValue = "<!-- E-MAILiT Sharing Button BEGIN -->" . PHP_EOL;
 	if(isset($emailit_options["toolbar_type"]) && $emailit_options["toolbar_type"] !== "") $style = "e-mailit:style=\"".$emailit_options["toolbar_type"]."\"";
-    $outputValue .= "<div class=\"e-mailit_toolbox\" $style>" . PHP_EOL;
+	if(isset($emailit_options["circular"]) && $emailit_options["circular"] == "true") $circular = " circular";
+    $outputValue .= "<div class=\"e-mailit_toolbox$circular\" $style>" . PHP_EOL;
 
 	
 	$sel_buttons = array_filter(explode(",",$emailit_options['buttons_order']));
@@ -450,41 +474,41 @@ function emailit_display_button($content) {
 		switch ($sel_button) {
 		  case "display_fb_button":
 			if ($emailit_options["display_fb_button"] == 'true')
-				$outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title></span>";
+				$outputValue .= "<div class=\"e-mailit_facebook_btn\" $shared_url $shared_title></div>";
 			break;
 		  case "display_fb_like_share_button":
 			if ($emailit_options["display_fb_like_share_button"] == 'true') {
 				$share_str = "e-mailit:include_share='true'";
-				$outputValue .= "<span class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></span>";
+				$outputValue .= "<div class=\"e-mailit_facebook_btn\" $shared_url $shared_title $share_str></div>";
 			}		  
 			break;
 		  case "display_fb_share_button":
 			if ($emailit_options["display_fb_share_button"] == 'true')
-				$outputValue .= "<span class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+				$outputValue .= "<div class=\"e-mailit_facebook_share_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 		  case "display_tweeter_button":
 			if ($emailit_options["display_tweeter_button"] == 'true')
-				$outputValue .= "<span class=\"e-mailit_twitter_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+				$outputValue .= "<div class=\"e-mailit_twitter_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 			case "display_gplus_button":
 				if ($emailit_options["display_gplus_button"] == 'true')
-					$outputValue .= "<span class=\"e-mailit_google_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+					$outputValue .= "<div class=\"e-mailit_google_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 			case "display_pinterest_button":
 				if ($emailit_options["display_pinterest_button"] == 'true')
-					$outputValue .= "<span class=\"e-mailit_pinterest_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+					$outputValue .= "<div class=\"e-mailit_pinterest_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 			case "display_linkedin_button":
 				if ($emailit_options["display_linkedin_button"] == 'true')
-					$outputValue .= "<span class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+					$outputValue .= "<div class=\"e-mailit_linkedin_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 			case "display_vkontakte_button":
 				if ($emailit_options["display_vkontakte_button"] == 'true')
-					$outputValue .= "<span class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+					$outputValue .= "<div class=\"e-mailit_vkontakte_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 			case "display_odnoklassniki_button":
 				if ($emailit_options["display_odnoklassniki_button"] == 'true')
-					$outputValue .= "<span class=\"e-mailit_odnoklassniki_btn\" $shared_url $shared_title></span>" . PHP_EOL;
+					$outputValue .= "<div class=\"e-mailit_odnoklassniki_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 			case "display_emailit_button":
 				if (($emailit_options["remove_emailit_button"] !== 'true' && !$emailit_options["buttons_order"]) || $emailit_options["display_emailit_button"] == 'true') {
