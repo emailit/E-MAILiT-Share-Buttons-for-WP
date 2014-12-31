@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1
 Stable tag: 7.3.3.1
-License: GPLv2 or later  
+License: GPLv2 or later
 
 Make easier to increase your content distribution, generate revenue & measure social analytics for free.
 
@@ -17,7 +17,7 @@ Help your visitors promote your site! Our share button is small, unobtrusive, an
 
 E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services. 
 
-E-MAILiT simplifies social media services. We reduce clutter on webpages, and provide instant distribution of content across social networks, and communities.  
+E-MAILiT simplifies social media services. We reduce clutter on web-pages, and provide instant distribution of content across social networks, and communities.  
 E-MAILiT allows media to become truly social, with the click of just one share button. 
 
 See how your visitors are sharing your content: which services they are using for sharing, which content is shared the most, and more.
