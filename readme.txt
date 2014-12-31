@@ -4,14 +4,14 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.1
-Stable tag: 7.3.2
-License: GPLv2 or later
+Stable tag: 7.3.3.1
+License: GPLv2 or later  
 
 Make easier to increase your content distribution, generate revenue & measure social analytics for free.
 
 == Description == 
 
-**Updates 11/29/2014** 
+**Updates 12/31/2014** 
 
 Help your visitors promote your site! Our share button is small, unobtrusive, and quick to load.
 
@@ -131,6 +131,8 @@ The count result is common for share and like interactions. Please, see here htt
 07. Admin Plugin Settings Panel
 
 == Changelog ==
+= 7.3.3.1 =
+* Backend: Coding modifications.
 = 7.3.2 =
 * Standalone Circular icons support in: Large Sharing Buttons and Custom (large) Sharing Buttons.
 * Display buttons in excerpts (fixed).
