@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: E-MAILiT social sharing platform helps publishers drive more clicks, money, follows, shares and higher CTR by displaying in-Share-Button Ads.  [<a href="options-general.php?page=emailit_widget.php">Settings</a>]
   Author: E-MAILiT
-  Version: 7.3.3.1
+  Version: 7.3.3.2
   Author URI: http://www.e-mailit.com
  */
 
