@@ -241,7 +241,7 @@ function emailit_settings_page() {
 					$(".toolbar-styles input[type='radio']:checked").parent().find("input[type='checkbox']").prop('disabled', false);
 					
 					
-					if($(".toolbar-style input:checked").val() !== ""){
+					if($(".toolbar-style input[type='radio']:checked").val() !== ""){
 						$("#display_linkedin_button input, #display_vkontakte_button input, #display_gplus_button input, " +
 						"#display_fb_button input, #display_fb_like_share_button input, #display_odnoklassniki_button input").prop('disabled', true);
 						$("#display_linkedin_button, #display_vkontakte_button, #display_gplus_button, " +
