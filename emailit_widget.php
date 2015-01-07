@@ -298,7 +298,7 @@ function emailit_settings_page() {
 				"display_emailit_button" => "E-MAILiT",
 				);
 				
-				if($emailit_options["remove_emailit_button"] !== 'true' && !($emailit_options["buttons_order"]))
+				if(isset($emailit_options["remove_emailit_button"]) && $emailit_options["remove_emailit_button"] !== 'true' && !($emailit_options["buttons_order"]))
 					$emailit_options["display_emailit_button"] = "true";
             ?>
 			<ul title="Drag to reorder" id="sel_buttons">
