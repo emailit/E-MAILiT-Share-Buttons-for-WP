@@ -7,7 +7,7 @@ Tested up to: 4.1
 Stable tag: 7.3.3.2
 License: GPLv2 or later
 
-Make easier to increase your content distribution, generate revenue & measure social analytics for free.
+Monetize your website by sharing the web.
 
 == Description == 
 
@@ -54,11 +54,13 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 * Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users
 * Fast and reliable performance. Google Page Speed Insight Compliant/Optimized
 * Very light weight script which do not effect your site's loading speed
-* Create revenue and keep it all - Begin creating money from your sharing button (signup recuired - <a href="http://www.e-mailit.com/widget/register">Start a Campaign</a> or <a href="http://www.e-mailit.com/widget/login">Sign in</a>). Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
+* Create revenue and keep it all - Begin creating money from your sharing button (signup recuired - <a href="http://www.e-mailit.com/widget/register">Monetize your Website</a>). Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
 
 E-MAILiT has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with 600 million views and over 300 million users to-date — served 70 million times/month to 1.2 million people/day, in 75 languages. Join us! 
 
 <a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy Policy</a> | <a href="http://www.e-mailit.com/about#bizdev">BizDev</a> 
+
+Disclaimer: E-MAILiT is an advertising-supported service, which means that we are able to offer many of our services without charge to you by displaying advertising on our platform and on partner websites. Revenue generated from these ads supports E-MAILiT. We're displaying these targeted ads (this feature is optional and can be turned off anytime or you can use it exclusively for you by monetizing your website through a share button like ours, also for free) so we can continue offering free products and services that help you expand your awareness and generate money too! Delivering and maintaining such a platform to you is expensive but if you don’t want to participate we perfectly understand!
 
 == Installation ==
 
@@ -124,11 +126,12 @@ The count result is common for share and like interactions. Please, see here htt
 == Screenshots ==
 01. Standalone Large Sharing Buttons
 02. Standalone Large Custom Sharing Buttons
-03. Standalone Small Sharing Buttons
-04. Original Sharing Buttons
-05. Share Menu that appears instantly when visitors use the Share Button
-06. Share Menu that includes all Services
-07. Admin Plugin Settings Panel
+03. Standalone Large Circular Sharing Buttons
+04. Standalone Large Circular Custom Sharing Buttons
+05. Standalone Small Sharing Buttons
+06. Admin Plugin Settings Panel
+07. Share Menu that appears instantly when visitors use the Share Button
+08. Share Menu that includes all Services
 
 == Changelog ==
 = 7.3.3.2 =
