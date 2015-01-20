@@ -56,7 +56,7 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 * Very light weight script which do not effect your site's loading speed
 * Create revenue and keep it all - Begin creating money from your sharing button (signup recuired - <a href="http://www.e-mailit.com/widget/register">Monetize your Website</a>). Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
 
-E-MAILiT has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends project to a hypergrowth established startup, with 600 million views and over 300 million users to-date — served 70 million times/month to 1.2 million people/day, in 75 languages. Join us! 
+E-MAILiT share button has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends side project to a hypergrowth established bootstrapped startup, with over 700 million widget loadings To-Date. Join us! 
 
 <a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy Policy</a> | <a href="http://www.e-mailit.com/about#bizdev">BizDev</a> 
 
