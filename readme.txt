@@ -4,14 +4,14 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.1
-Stable tag: 7.3.3.2
+Stable tag: 7.4
 License: GPLv2 or later
 
 Monetize your website by sharing the web.
 
 == Description == 
 
-**Updates 1/5/2015** 
+**Updates 1/22/2015** 
 
 Help your visitors promote your site! Our share button is small, unobtrusive, and quick to load.
 
@@ -26,7 +26,7 @@ Understand your audience. Engage your readers. Make more money.
 
 = Share Buttons =
 
-* **New**: Standalone Buttons (default/custom/original large and small sharing buttons)
+* **New**: Standalone Buttons (default/custom/original/circular icons large and small sharing buttons)
 * Simple activation
 * Make easier for your audience/visitors to increase the share of your content distribution with their friends
 * Share any content on the web with friends through Facebook, Twitter, LinkedIn, and lots more
@@ -134,6 +134,9 @@ The count result is common for share and like interactions. Please, see here htt
 08. Share Menu that includes all Services
 
 == Changelog ==
+= 7.4 =
+* WordPress 4.1 compatibility.
+* Add Yummly.
 = 7.3.3.2 =
 * Minor bug fixes.
 = 7.3.3.1 =
