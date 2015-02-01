@@ -26,7 +26,7 @@ Understand your audience. Engage your readers. Make more money.
 
 = Share Buttons =
 
-* **New**: Standalone Buttons (default/custom/original/circular icons large and small sharing buttons)
+* **Recent Updates**: Standalone Buttons (default/custom/original/circular icons large and small sharing buttons)
 * Simple activation
 * Make easier for your audience/visitors to increase the share of your content distribution with their friends
 * Share any content on the web with friends through Facebook, Twitter, LinkedIn, and lots more
@@ -58,7 +58,7 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 
 E-MAILiT share button has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends side project to a hypergrowth established bootstrapped startup, with over 700 million widget loadings To-Date. Join us! 
 
-<a href="http://blog.e-mailit.com">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy Policy</a> | <a href="http://www.e-mailit.com/about#bizdev">BizDev</a> 
+<a href="http://www.e-mailit.com/about#help">Support</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> 
 
 Disclaimer: E-MAILiT is an advertising-supported service, which means that we are able to offer many of our services without charge to you by displaying advertising on our platform and on partner websites. Revenue generated from these ads supports E-MAILiT. We're displaying these targeted ads (this feature is optional and can be turned off anytime or you can use it exclusively for you by monetizing your website through a share button like ours, also for free) so we can continue offering free products and services that help you expand your awareness and generate money too! Delivering and maintaining such a platform to you is expensive but if you don’t want to participate we perfectly understand!
 
