@@ -7,7 +7,7 @@ Tested up to: 4.1
 Stable tag: 7.4.1
 License: GPLv2 or later  
 
-The all-in-one content monetization and distribution platform. Monetize your website by sharing the web.
+The all-in-one content monetization and distribution platform. The share button that generates revenue for you.
 
 == Description == 
 
