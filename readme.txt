@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1
 Stable tag: 7.4.2
-License: GPLv2 or later
+License: GPLv2 or later  
 
 The all-in-one content monetization and distribution platform. The share button that generates revenue for you.
 
