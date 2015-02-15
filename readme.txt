@@ -4,14 +4,14 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.1
-Stable tag: 7.4.2
+Stable tag: 7.4.3
 License: GPLv2 or later
 
 The all-in-one content monetization and distribution platform. The share button that generates revenue for you.
 
 == Description == 
 
-**Updates 2/9/2015** 
+**Updates 2/16/2015** 
 
 Help your visitors promote your site! Our share button is small, unobtrusive, and quick to load.
 
@@ -136,6 +136,8 @@ The count result is common for share and like interactions. Please, see here htt
 08. Share Menu that includes all Services
 
 == Changelog ==
+= 7.4.3 =
+* Add Google PageSpeed Insights.
 = 7.4.2 =
 * Update MailRu, Taringa icons.
 * Update Quantcast sharing endpoint.
