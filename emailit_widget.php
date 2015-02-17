@@ -297,7 +297,7 @@ function emailit_settings_page() {
 				"display_odnoklassniki_button" => "Odnoklassniki",
 				"display_emailit_button" => "E-MAILiT",
 				);
-				
+		
             ?>
 			<ul title="Drag to reorder" id="sel_buttons">
 			<?php 
