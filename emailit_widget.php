@@ -298,8 +298,6 @@ function emailit_settings_page() {
 				"display_emailit_button" => "E-MAILiT",
 				);
 				
-				if(isset($emailit_options["remove_emailit_button"]) && $emailit_options["remove_emailit_button"] !== 'true' && !($emailit_options["buttons_order"]))
-					$emailit_options["display_emailit_button"] = "true";
             ?>
 			<ul title="Drag to reorder" id="sel_buttons">
 			<?php 
@@ -511,7 +509,7 @@ function emailit_display_button($content) {
 					$outputValue .= "<div class=\"e-mailit_odnoklassniki_btn\" $shared_url $shared_title></div>" . PHP_EOL;
 			break;
 			case "display_emailit_button":
-				if (($emailit_options["remove_emailit_button"] !== 'true' && !$emailit_options["buttons_order"]) || $emailit_options["display_emailit_button"] == 'true') {
+				if ($emailit_options["display_emailit_button"] == 'true') {
 					if ($button_id == "" || $button_id == "Your Button ID") {
 						$outputValue .= " <div class='e_mailit_button' $shared_url $shared_title></div>" . PHP_EOL;
 					} else {
