@@ -35,10 +35,7 @@ Understand your audience. Engage your readers. Make more money.
 * Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
 * Custom Placement
 
-<a href="http://www.e-mailit.com/features#list">**Coming Soon...**</a>  
-
-**Get more social traffic, likes, shares and followers on your site with E-MAILiT!**  
-Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live demo</a> 
+<a href="http://www.e-mailit.com/" title="Sharing buttons">Share Buttons</a> (demo) 
 
 = Social Analytics Integration =
 
@@ -55,12 +52,19 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 * Mobile-friendly optimized with automatic detection of device-type. E-MAILiT will work and look great on all mobile devices and tablets
 * Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users
 * Fast and reliable performance. Google Page Speed Insight Compliant/Optimized
+
+Test the <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js&tab=desktop">**Desktop**</a> version 
+
+Test the <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/sharer.php">**Mobile**</a> version 
+
 * Very light weight script which do not effect your site's loading speed
 * Create revenue and keep it all - Begin creating money from your sharing button. Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
 
 E-MAILiT share button has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends side project to a hypergrowth established bootstrapped startup, with over 700 million widget loadings To-Date. Join us! 
 
-<a href="http://www.e-mailit.com/about#help">Support</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> 
+<a href="javascript:location.href='http://www.e-mailit.com/sharer?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)+'&domain='+encodeURIComponent(location.hostname)" title="Share">Share this</a> plugin
+
+<a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> 
 
 Disclaimer: E-MAILiT is an advertising-supported service, which means that we are able to offer many of our services without charge to you by displaying advertising on our platform and on partner websites. Revenue generated from these ads supports E-MAILiT. We're displaying these targeted ads (this feature is optional and can be turned off anytime or you can use it exclusively for you by monetizing your website through a share button like ours, also for free) so we can continue offering free products and services that help you expand your awareness and generate money too! Delivering and maintaining such a platform to you is expensive but if you don’t want to participate we perfectly understand!
 
