@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1
 Stable tag: 7.4.3
-License: GPLv2 or later 
+License: GPLv2 or later
 
 The all-in-one content monetization and distribution platform. The share button that generates revenue for you.
 
@@ -56,7 +56,7 @@ Check out the <a href="http://www.e-mailit.com/" title="Sharing buttons">live de
 * Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users
 * Fast and reliable performance. Google Page Speed Insight Compliant/Optimized
 * Very light weight script which do not effect your site's loading speed
-* Create revenue and keep it all - Begin creating money from your sharing button (signup recuired - <a href="http://www.e-mailit.com/widget/register">Monetize your Website</a>). Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
+* Create revenue and keep it all - Begin creating money from your sharing button. Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
 
 E-MAILiT share button has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends side project to a hypergrowth established bootstrapped startup, with over 700 million widget loadings To-Date. Join us! 
 
