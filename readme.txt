@@ -62,7 +62,7 @@ Test the <a href="https://developers.google.com/speed/pagespeed/insights/?url=ht
 
 E-MAILiT share button has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends side project to a hypergrowth established bootstrapped startup, with over 700 million widget loadings To-Date. Join us! 
 
-<a href="javascript:location.href='http://www.e-mailit.com/sharer?url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title)+'&domain='+encodeURIComponent(location.hostname)" title="Share">Share this</a> plugin
+<a href="http://www.e-mailit.com/sharer?url=https://wordpress.org/plugins/e-mailit/&title=WordPress Share Buttons by E-MAILiT WordPress Plugins&domain=www.wordpress.org" title="Share">Share this</a> plugin
 
 <a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> 
 
