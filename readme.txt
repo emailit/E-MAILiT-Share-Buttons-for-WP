@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1
 Stable tag: 7.4.3
-License: GPLv2 or later  
+License: GPLv2 or later
 
 The all-in-one content monetization and distribution platform. The share button that generates revenue for you.
 
@@ -22,45 +22,7 @@ E-MAILiT allows media to become truly social, with the click of just one share b
 
 See how your visitors are sharing your content: which services they are using for sharing, which content is shared the most, and more.
 
-Understand your audience. Engage your readers. Make more money. 
-
-= Share Buttons =
-
-* **Recent Updates**: Standalone Buttons (default/custom/original/circular icons large and small sharing buttons)
-* Simple activation
-* Make easier for your audience/visitors to increase the share of your content distribution with their friends
-* Share any content on the web with friends through Facebook, Twitter, LinkedIn, and lots more
-* 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo), Twitter Tweet Button, Pinterest Pin It Button, Google+ Share Button, VKontakte Share Button, Odnoklassniki Share Button and LinkedIn Share Button
-* Email sharing via Email Form, Gmail, Yahoo! Mail, Outlook.com, AOL Mail and MailRu
-* Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
-* Custom Placement
-
 <a href="http://www.e-mailit.com/" title="Sharing buttons">Share Buttons</a> (demo) 
-
-= Social Analytics Integration =
-
-* Automatic Google Analytics integration for sharing analytics
-
-= CMS Optimized =
-
-* Well-engineered code will not slow or block your website pages from loading. Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content
-* No signup, no login, no account necessary
-
-= Additional Features =
-
-* Automatically localized in 75 languages with Auto-Button Share-Text Translation
-* Mobile-friendly optimized with automatic detection of device-type. E-MAILiT will work and look great on all mobile devices and tablets
-* Peace of mind. We use caching via major global CDNs. A content delivery network (CDN) can give an equally fast web experience across the globe and is a collection of web servers distributed across multiple locations to deliver your content more efficiently to your users
-* Fast and reliable performance. Google Page Speed Insight Compliant/Optimized
-
-Test the <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js&tab=desktop">**Desktop**</a> version 
-
-Test the <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/sharer.php">**Mobile**</a> version 
-
-* Very light weight script which do not effect your site's loading speed
-* Create revenue and keep it all - Begin creating money from your sharing button. Our platform provides easy access for Advertisers, Publishers and Users to reach their goals
-
-E-MAILiT share button has been downloaded over 200,000 times by WordPress publishers from all over the world and has quickly grown from a nights and weekends side project to a hypergrowth established bootstrapped startup, with over 700 million widget loadings To-Date. Join us! 
 
 <a href="http://www.e-mailit.com/sharer?url=https://wordpress.org/plugins/e-mailit/&title=WordPress Share Buttons by E-MAILiT WordPress Plugins&domain=www.wordpress.org" title="Share">Share this</a> plugin
 
