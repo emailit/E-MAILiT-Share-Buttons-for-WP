@@ -5,19 +5,17 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1
 Stable tag: 7.4.3
-License: GPLv2 or later  
+License: GPLv2 or later
 
 The all-in-one content monetization and distribution platform. The share button that generates revenue for you.
 
 == Description == 
 
-**Updates 2/16/2015** 
-
 Help your visitors promote your site! Our share button is small, unobtrusive, and quick to load.
 
 E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services. 
 
-E-MAILiT simplifies social media services. We reduce clutter on web-pages, and provide instant distribution of content across social networks, and communities.  
+E-MAILiT reduce clutter on web-pages, and provide instant distribution of content across social networks, and communities.  
 E-MAILiT allows media to become truly social, with the click of just one share button. 
 
 See how your visitors are sharing your content: which services they are using for sharing, which content is shared the most, and more.
