@@ -7,20 +7,50 @@ Tested up to: 4.1
 Stable tag: 7.4.3
 License: GPLv2 or later
 
-The all-in-one content monetization and distribution platform. The share button that generates revenue for you.
+Share any content on the web with friends through Facebook, Twitter, Pinterest, WhatsApp, and lots more.
 
 == Description == 
 
-Help your visitors promote your site! Our share button is small, unobtrusive, and quick to load.
+E-MAILiT Share Buttons can be deployed on any WordPress powered site to to help people share to over 130 social sharing services.
 
-E-MAILiT Share Buttons can be deployed on any site to drive traffic, stimulate viral activity, and track the sharing of content to over 130 services. 
+= Sharing and Following Buttons (2 in 1): Grow Your Website and Build Your Community =
 
-E-MAILiT reduce clutter on web-pages, and provide instant distribution of content across social networks, and communities.  
-E-MAILiT allows media to become truly social, with the click of just one share button. 
+* Lots of sharing services to choose (130+ services)
+* Easy to install and to customize
+* Counters. Universal and original share counts
+* Standalone Buttons (default/custom/original/circular icons large and small sharing buttons)
+* Free from spam, clean, and adjustable
+* 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo), Twitter Tweet Button, Pinterest Pin It Button, Google+ Share Button, VKontakte Share Button, Odnoklassniki Share Button and LinkedIn Share Button
+* Email sharing via Email Form, Gmail, Yahoo! Mail, Outlook.com, AOL Mail and MailRu
+* Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
+* Custom Placement. Choose exactly where you want E-MAILiT to appear
 
-See how your visitors are sharing your content: which services they are using for sharing, which content is shared the most, and more.
+<a href="http://www.e-mailit.com/" title="Sharing buttons">Share Buttons</a> demo
 
-<a href="http://www.e-mailit.com/" title="Sharing buttons">Share Buttons</a> (demo) 
+= Monetizing: Create revenue and keep it all - Begin creating money from your sharing button =
+
+* Monetize the sharing of your site's content by creating a new source of income while enjoying higher CTR, by displaying in-button ads. Generate incremental ad revenue to supplement your existing revenue sources. Create new inventory by enabling ads that emerge from the buttons without having to change your page layout
+
+= WordPress Optimized =
+
+* No account necessary
+* Well-engineered code will not slow or block your website pages from loading. Asynchronous ensure a fast page launch by loading your E-MAILiT button script at the end, without long wait periods, keeping your visitors engaged with your content
+* Fast and reliable performance
+* Very light weight script which do not effect your site's loading speed
+* Caching via major global CDNs
+
+= Responsive and any Mobile device Optimized =
+
+* Mobile-friendly optimized with automatic detection of device-type. E-MAILiT will work and look great on all smartphones and tablets
+
+= Google Analytics integrated =
+
+* Easy Google Analytics integration for social sharing stats
+
+= Support =
+
+* 7 years of continuous service development
+* Automatically localized in 75 languages with Auto-Button Share-Text Translation
 
 <a href="http://www.e-mailit.com/sharer?url=https://wordpress.org/plugins/e-mailit/&title=WordPress Share Buttons by E-MAILiT WordPress Plugins&domain=www.wordpress.org" title="Share">Share this</a> plugin
 
