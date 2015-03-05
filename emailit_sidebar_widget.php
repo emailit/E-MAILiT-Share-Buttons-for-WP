@@ -3,7 +3,7 @@
 class EmailitSidebarWidget extends WP_Widget {
 
     function EmailitSidebarWidget() {
-        $widget_ops = array('classname' => 'EmailitWidget', 'description' => 'E-MAILiT social sharing platform helps publishers drive more clicks, money, follows, shares and higher CTR by displaying in-Share-Button Ads.');
+        $widget_ops = array('classname' => 'EmailitWidget', 'description' => 'E-MAILiT Share Buttons can be deployed on any WordPress powered site to help people share to over 130 social sharing services.');
         $this->WP_Widget('EmailitWidget', 'E-MAILiT Share', $widget_ops);
     }
 
@@ -66,16 +66,6 @@ class EmailitSidebarWidget extends WP_Widget {
             <label for="<?php echo $this->get_field_id('odnoklassniki_btn'); ?>"><?php _e('Add Odnoklassniki class button:'); ?></label>      
             <input class="checkbox" type="checkbox" <?php checked($odnoklassniki_btn, 'on'); ?> id="<?php echo $this->get_field_id('odnoklassniki_btn'); ?>" name="<?php echo $this->get_field_name('odnoklassniki_btn'); ?>" />   
         </p>         
-        <p>
-            <a target="_blank" href="http://www.e-mailit.com/widget/login">Create Your Account To Access</a><br/>
-            - Social Sharing Analytics &
-            Advertising Campaign Data Metrics,<br/>
-            - Custom Stylish Buttons (small buttons,
-            hovering/floating bars),<br/>
-            - Create your own advertising campaigns
-            to make extra profit, and many more...            
-        </p>
-        <p><label for="<?php echo $this->get_field_id('button_id'); ?>">Your Button ID: <input class="widefat" id="<?php echo $this->get_field_id('button_id'); ?>" name="<?php echo $this->get_field_name('button_id'); ?>" type="text" value="<?php echo attribute_escape($button_id); ?>" /></label></p>          
         <?php
     }
 

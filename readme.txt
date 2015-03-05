@@ -4,7 +4,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.2
-Stable tag: 7.4.3
+Stable tag: 7.5
 License: GPLv2 or later
 
 Share any content on the web with friends through Facebook, Twitter, Pinterest, WhatsApp, and lots more.
@@ -130,6 +130,15 @@ The count result is common for share and like interactions. Please, see here htt
 08. Share Menu that includes all Services
 
 == Changelog ==
+= 7.5 =
+* Notice added. E-MAILiT will discontinue the account registration system on April 4th, 2015. Read our blog post http://blog.e-mailit.com/2015/02/important-announcement.html.
+* New UI/UX Admin Plugin Settings Panel Interface.
+* Customize Services.
+* Customize Following Channels.
+* Create your Advertising Campaign.
+* Customize promo display.
+* Code performance improvements. <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js&amp;tab=desktop" target="_blank">Test Desktop version</a> - <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/sharer.php&amp;tab=mobile" target="_blank">Test Mobile version</a>
+* Backend: Coding modifications.
 = 7.4.3 =
 * Add Google PageSpeed Insights.
 = 7.4.2 =

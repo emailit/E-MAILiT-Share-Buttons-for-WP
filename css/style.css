@@ -17,3 +17,97 @@
 .toolbar-style{margin-bottom:12px;line-height:44px;height:44px;width:540px;padding-left:5px;}
 .toolbar-style:nth-child(4){line-height:60px;height:60px;}
 .toolbar-style:hover{opacity:1!important;background-color:#ccc!important;}
+
+#social_services li, #social_services2 li, #social_services_share li, #social_services_share2 li {
+margin: 0 5px 0 15px;
+list-style: none;
+cursor: move;
+}
+
+#servicess .ui-state-default, #servicess .ui-widget-content .ui-state-default, #servicess .ui-widget-header .ui-state-default {
+	display: inline-block;
+	border: 0px solid #D3D3D3!important;
+	font-weight: normal;
+	color: #000;
+	padding: 5px 10px!important;
+	margin: 5px 10px!important;
+	cursor: pointer;
+	background-color: #FFF;
+}
+#servicess .services_list {
+	width: 140px!important;
+	font-family: Arial, sans-serif;
+	font-size: 13px;
+	text-align: left;
+}
+#servicess .ui-button-text{
+	padding: 0!important;
+}
+#servicess {
+	display: block;
+	background-color: #F7F7F7;
+	width: 920px;
+	height: 280px;
+	overflow: scroll;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	position: relative;
+	display: none;
+}
+.filterinput {
+	background: url(http://www.e-mailit.com/widget/control/img/search.png) no-repeat;
+	border: none!important;
+	padding-left: 18px;
+	padding-top: 1px;
+	padding-right: 5px;
+	width: 165px;
+	height: 25px;
+}
+.follow_label {
+	display: block;
+	width: 260px;
+	float: left;
+	margin-left: 10px;
+	text-align: right;
+}
+#social_services_follow{
+	width: 500px;
+}
+#social_services_follow li{
+	line-height:29px;
+}
+#social_services_follow li span{
+	margin-top:6px;
+}
+#servises_customize, #counter_customize, #follow_customize, .social_services_default, .social_share_default, .social_follow_default, .uncheck_all, .delete_counter, .delete_follow, .appent_counter, .appent_follow {
+float: left;
+width: auto;
+font-size: 12px;
+text-decoration: none;
+cursor: pointer;
+display: inline-block;
+position: relative;
+font-weight: bold;
+padding: .3em 1em;
+margin-top: 10px;
+color: #FFF!important;
+background: #155FAD;
+border: 0px solid #FFF;
+}
+#servises_customize:hover, #counter_customize:hover, #follow_customize:hover, .social_services_default:hover, .social_share_default:hover, .social_follow_default:hover, .uncheck_all:hover, .delete_counter:hover, .delete_follow:hover, .appent_counter:hover, .appent_follow:hover {
+	background:#003366;
+	text-decoration:none!important;
+}
+#gener_div{
+padding-top:20px;width: 920px;
+}
+#emailit_options{
+font-family: 'Freight Sans Bold', 'lucida grande',tahoma,verdana,arial,sans-serif !important;
+color: #000;
+}
+#emailit_options a{color:#155FAD;text-decoration:none;}
+#emailit_options a:hover{color:#155FAD;text-decoration:underline;}
+#tabs{margin-right: 20px;}
+#tabs ul li a:focus{box-shadow: none;}
+#tabs ul li a:hover{text-decoration: none!important;}
+#submit{margin-left:20px;}
