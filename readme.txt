@@ -11,7 +11,7 @@ Share any content on the web with friends through Facebook, Twitter, Pinterest, 
 
 == Description == 
 
-E-MAILiT Share Buttons can be deployed on any WordPress powered site to to help people share to over 130 social sharing services.
+E-MAILiT Share Buttons can be deployed on any WordPress powered site to help people share to over 130 social sharing services.
 
 = Sharing and Following Buttons (2 in 1): Grow Your Website and Build Your Community =
 
