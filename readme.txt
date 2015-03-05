@@ -137,7 +137,7 @@ The count result is common for share and like interactions. Please, see here htt
 * Customize Following Channels.
 * Create your Advertising Campaign.
 * Customize promo display.
-* Code performance improvements. <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js&amp;tab=desktop" target="_blank">Test Desktop version</a> - <a href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/sharer.php&amp;tab=mobile" target="_blank">Test Mobile version</a>
+* Code performance improvements. <a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/widget/button/js/button.js&amp;tab=desktop" target="_blank">Test Desktop version</a> - <a target="_blank" href="https://developers.google.com/speed/pagespeed/insights/?url=http://www.e-mailit.com/sharer.php&amp;tab=mobile" target="_blank">Test Mobile version</a>
 * Backend: Coding modifications.
 = 7.4.3 =
 * Add Google PageSpeed Insights.
