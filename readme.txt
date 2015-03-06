@@ -5,13 +5,21 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1.1
 Stable tag: 7.5
-License: GPLv2 or later  
+License: GPLv2 or later
 
 Share any content on the web with friends through Facebook, Twitter, Pinterest, WhatsApp, and lots more.
 
 == Description == 
 
 E-MAILiT Share Buttons can be deployed on any WordPress powered site to help people share to over 130 social sharing services.
+
+= Recent Updates =
+
+* [E-MAILiT will discontinue the account registration system on April 4th, 2015](http://blog.e-mailit.com/2015/02/important-announcement.html)
+* New UI/UX Admin Plugin Settings Panel Interface
+* Customize Services
+* Customize Following Channels
+* [Create your Advertising Campaign](http://www.e-mailit.com/features#create-campaign)
 
 = Sharing and Following Buttons (2 in 1): Grow Your Website and Build Your Community =
 
