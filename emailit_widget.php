@@ -163,12 +163,12 @@ function emailit_settings_page() {
 				<script type="text/javascript">
 					function validate() {
 						emailit_domain_verification = document.getElementById('emailit_domain_verification');
-						if (emailit_domain_verification.value != "" && emailit_domain_verification.value.substr(0, 9) != "E-MAILiT_") {
+						if (emailit_domain_verification && emailit_domain_verification.value != "" && emailit_domain_verification.value.substr(0, 9) != "E-MAILiT_") {
 							alert("Error! Paste not valid. Domain Verification Publisher Key, always starts with 'E-MAILiT_'");
 							return false;
 						}
 						emailit_button_id = document.getElementById('emailit_button_id');
-						if (emailit_button_id.value != "" && isNaN(emailit_button_id.value)) {
+						if (emailit_button_id && emailit_button_id.value != "" && isNaN(emailit_button_id.value)) {
 							alert("Error! Paste not valid. ''Your Button ID'', must contain only digits.");
 							return false;
 						}
