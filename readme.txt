@@ -120,14 +120,11 @@ Facebook Like Button displays the likes about a specific url. In order to show c
 The count result is common for share and like interactions. Please, see here https://developers.facebook.com/docs/plugins/like-button/ There are counters for posting an article or sharing a page content. These are two seperate different interactions. But you can include the Share button next to the Like button, having more sharing options to display on your website and not feeling confused about the similar counters. You will have two different buttons together, with one counter only to display.
 
 == Screenshots ==
-01. Standalone Large Sharing Buttons
-02. Standalone Large Custom Sharing Buttons
-03. Standalone Large Circular Sharing Buttons
-04. Standalone Large Circular Custom Sharing Buttons
-05. Standalone Small Sharing Buttons
-06. Admin Plugin Settings Panel
-07. Share Menu that appears instantly when visitors use the Share Button
-08. Share Menu that includes all Services
+01. Sharing buttons
+02. Settings panel
+03. Share menu that appears instantly when visitors use the sharing tools
+04. Mobile version
+05. Set your own colors for your sharing icons
 
 == Changelog ==
 = 7.5 =
