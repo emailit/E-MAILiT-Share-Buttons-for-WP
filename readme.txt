@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1.1
 Stable tag: 7.5
-License: GPLv2 or later  
+License: GPLv2 or later
 
 Share any content on the web with friends through Facebook, Twitter, Pinterest, WhatsApp, and lots more.
 
@@ -29,7 +29,7 @@ E-MAILiT Share Buttons can be deployed on any WordPress powered site to help peo
 * Standalone Buttons (default/custom/original/circular icons large and small sharing buttons)
 * Free from spam, clean, and adjustable
 * 3rd party share counter buttons include the Facebook Like Button, Facebook Share Button, Facebook Like/Share Button (combo), Twitter Tweet Button, Pinterest Pin It Button, Google+ Share Button, VKontakte Share Button, Odnoklassniki Share Button and LinkedIn Share Button
-* Email sharing via Email Form, Gmail, Yahoo! Mail, Outlook.com, AOL Mail and MailRu
+* Email sharing via Gmail, Yahoo! Mail, Outlook.com, AOL Mail, MailRu and any other web and native apps
 * Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
 * Custom Placement. Choose exactly where you want E-MAILiT to appear
 
