@@ -7,11 +7,11 @@ Tested up to: 4.1.1
 Stable tag: 7.5
 License: GPLv2 or later
 
-Share any content on the web with friends through Facebook, Twitter, Pinterest, WhatsApp, and lots more.
+Allow visitors to easily share your content with others using Facebook, Twitter, Pinterest, WhatsApp, and lots more.
 
 == Description == 
 
-E-MAILiT Share Buttons can be deployed on any WordPress powered site to help people share to over 130 social sharing services.
+Easily add multiple social networking share features to your WordPress powered site. A variety of button styles and social sites are available and can be customized to match your site. Analytics are available to show you how many people are sharing your site.
 
 = Recent Updates =
 
