@@ -71,7 +71,7 @@ cursor: move;
 	text-align: right;
 }
 #social_services_follow{
-	width: 500px;
+	width: 580px;
 }
 #social_services_follow li{
 	line-height:29px;
@@ -111,3 +111,4 @@ color: #000;
 #tabs ul li a:focus{box-shadow: none;}
 #tabs ul li a:hover{text-decoration: none!important;}
 #submit{margin-left:20px;}
+#emailit_options label{cursor: default}

@@ -4,7 +4,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.1.1
-Stable tag: 7.5
+Stable tag: 7.5.1
 License: GPLv2 or later  
 
 Allow visitors to easily share your content with others using Facebook, Twitter, Pinterest, WhatsApp, and lots more.
@@ -135,6 +135,9 @@ The count result is common for share and like interactions. Please, see here htt
 05. Set your own colors for your sharing icons
 
 == Changelog ==
+= 7.5.1 =
+* New Following Channels: Add Instagram, YouTube, Vimeo, Foursquare, Tumblr.
+* Turn on/off after share ads.
 = 7.5 =
 * Notice added. E-MAILiT will discontinue the account registration system on April 4th, 2015. Read our blog post http://blog.e-mailit.com/2015/02/important-announcement.html.
 * New UI/UX Admin Plugin Settings Panel Interface.
