@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1.1
 Stable tag: 7.5.1
-License: GPLv2 or later  
+License: GPLv2 or later
 
 Allow visitors to easily share your content with others using Facebook, Twitter, Pinterest, WhatsApp, and lots more.
 
@@ -15,6 +15,8 @@ Easily add multiple social networking share features to your WordPress powered s
 
 = Recent Updates =
 
+* **Turn on/off after share ads**
+* New Following Channels: Add Instagram, YouTube, Vimeo, Foursquare, Tumblr
 * [E-MAILiT will discontinue the account registration system on April 4th, 2015](http://blog.e-mailit.com/2015/02/important-announcement.html)
 * New UI/UX Admin Plugin Settings Panel Interface
 * Customize Services
