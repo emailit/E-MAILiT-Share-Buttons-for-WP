@@ -55,7 +55,7 @@ cursor: move;
 	display: none;
 }
 .filterinput {
-	background: url(http://www.e-mailit.com/widget/control/img/search.png) no-repeat;
+	background: url('../images/search.png') no-repeat;
 	border: none!important;
 	padding-left: 18px;
 	padding-top: 1px;
