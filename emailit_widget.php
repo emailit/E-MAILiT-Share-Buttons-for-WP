@@ -30,7 +30,8 @@ add_filter('admin_menu', 'emailit_admin_menu');
 add_action('widgets_init', 'emailit_widget_init');
 add_action('wp_head', 'add_domain_verification_meta');
 add_filter('get_the_excerpt', 'emailit_display_excerpt', 11);
-add_action('admin_notices', 'emailit_admin_notices');
+//add_action('admin_notices', 'emailit_admin_notices');
+//add_action('admin_init', 'emailit_nag_ignore');
 
 function emailit_admin_notices() {
     global $current_user;
@@ -43,7 +44,6 @@ function emailit_admin_notices() {
     }
 }
 
-add_action('admin_init', 'emailit_nag_ignore');
 
 function emailit_nag_ignore() {
     global $current_user;
