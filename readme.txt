@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.1.1
 Stable tag: 7.5.1
-License: GPLv2 or later
+License: GPLv2 or later 
 
 Allow visitors to easily share your content with others using Facebook, Twitter, Pinterest, WhatsApp, and lots more.
 
