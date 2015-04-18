@@ -1,11 +1,11 @@
-==== Share Buttons by E-MAILiT ====
+==== One button: Share, Follow, Monetize by E-MAILiT ====
 Contributors: e-mailit
 Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, bookmark button, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, email, e-mail, email button, email tools, emailit, E-MAILiT, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google +1, google analytics, google bookmarks, google plus, google plus one, google translate, Google+1, hootsuite, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pinit, pinterest, plugin, plus1, plusone, Post, posts, print, PrintFriendly, Quora, Reddit, responsive, save, seo, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, sharing buttons, sharing Is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social marketing, social share, social sharing, social tools, socialize, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, Website Tools, whatsapp, widget, wpmu, yahoo, yammer, yummly
 
 Requires at least: 2.9
 Tested up to: 4.1.1
 Stable tag: 7.5.1
-License: GPLv2 or later 
+License: GPLv2 or later  
 
 Allow visitors to easily share your content with others using Facebook, Twitter, Pinterest, WhatsApp, and lots more.
 
@@ -15,13 +15,13 @@ Easily add multiple social networking share features to your WordPress powered s
 
 = Recent Updates =
 
-* **Turn on/off after share ads**
 * New Following Channels: Add Instagram, YouTube, Vimeo, Foursquare, Tumblr
 * [E-MAILiT will discontinue the account registration system on April 4th, 2015](http://blog.e-mailit.com/2015/02/important-announcement.html)
 * New UI/UX Admin Plugin Settings Panel Interface
 * Customize Services
 * Customize Following Channels
 * [Create your Advertising Campaign](http://www.e-mailit.com/features#create-campaign)
+* Turn on/off after share ads
 
 = Sharing and Following Buttons (2 in 1): Grow Your Website and Build Your Community =
 
@@ -65,8 +65,6 @@ Easily add multiple social networking share features to your WordPress powered s
 <a href="http://www.e-mailit.com/sharer?url=https://wordpress.org/plugins/e-mailit/&title=WordPress Share Buttons by E-MAILiT WordPress Plugins&domain=www.wordpress.org" title="Share">Share this</a> plugin
 
 <a href="http://blog.e-mailit.com/">E-MAILiT Blog</a> | <a href="http://www.e-mailit.com/privacy">Privacy</a> 
-
-Disclaimer: E-MAILiT is an advertising-supported service, which means that we are able to offer many of our services without charge to you by displaying advertising on our platform and on partner websites. Revenue generated from these ads supports E-MAILiT. We're displaying these targeted ads (this feature is optional and can be turned off anytime or you can use it exclusively for you by monetizing your website through a share button like ours, also for free) so we can continue offering free products and services that help you expand your awareness and generate money too! Delivering and maintaining such a platform to you is expensive but if you don’t want to participate we perfectly understand!
 
 == Installation ==
 
@@ -128,6 +126,10 @@ Facebook Like Button displays the likes about a specific url. In order to show c
 <h4>Facebook Share Button seems to show an incorrect number! Why?</h4>
 
 The count result is common for share and like interactions. Please, see here https://developers.facebook.com/docs/plugins/like-button/ There are counters for posting an article or sharing a page content. These are two seperate different interactions. But you can include the Share button next to the Like button, having more sharing options to display on your website and not feeling confused about the similar counters. You will have two different buttons together, with one counter only to display.
+
+<h4>Disclaimer</h4>
+
+E-MAILiT is an advertising-supported service, which means that we are able to offer many of our services without charge to you by displaying advertising on our platform and on partner websites. Revenue generated from these ads supports E-MAILiT. We're displaying these targeted ads (this feature is optional and can be turned off anytime or you can use it exclusively for you by monetizing your website through a share button like ours, also for free) so we can continue offering free products and services that help you expand your awareness and generate money too! Delivering and maintaining such a platform to you is expensive but if you don’t want to participate we perfectly understand!
 
 == Screenshots ==
 01. Sharing buttons
