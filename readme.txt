@@ -4,7 +4,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.1.1
-Stable tag: 7.5.1
+Stable tag: 7.5.2
 License: GPLv2 or later
 
 Increase traffic and monetize the sharing of your site's content by creating a new source of income, by displaying in-button ads.
@@ -139,6 +139,8 @@ E-MAILiT is an advertising-supported service, which means that we are able to of
 05. Set your own colors for your sharing icons
 
 == Changelog ==
+= 7.5.2 =
+* Bug fixes.
 = 7.5.1 =
 * New Following Channels: Add Instagram, YouTube, Vimeo, Foursquare, Tumblr.
 * Turn on/off after share ads.
