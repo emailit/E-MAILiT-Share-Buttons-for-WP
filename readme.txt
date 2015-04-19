@@ -7,7 +7,7 @@ Tested up to: 4.1.1
 Stable tag: 7.5.1
 License: GPLv2 or later
 
-Increase traffic and monetize the sharing of your site's content by creating a new source of income while enjoying higher CTR, by displaying in-button ads with the easiest social sharing platform.
+Increase traffic and monetize the sharing of your site's content by creating a new source of income, by displaying in-button ads.
 
 == Description == 
 
