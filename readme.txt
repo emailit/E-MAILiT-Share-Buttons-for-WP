@@ -7,7 +7,7 @@ Tested up to: 4.1.1
 Stable tag: 7.5.2
 License: GPLv2 or later
 
-Increase traffic and monetize the sharing of your site's content by creating a new source of income, by displaying in-button ads.
+A highly customizable, super lightweight plugin that enables you to add social sharing to all of your posts and/or pages quick and easy.
 
 == Description == 
 
