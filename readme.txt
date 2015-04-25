@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.2
 Stable tag: 7.5.2
-License: GPLv2 or later
+License: GPLv2 or later  
 
 A highly customizable, super lightweight plugin that enables you to add social sharing to all of your posts and/or pages quick and easy.
 
