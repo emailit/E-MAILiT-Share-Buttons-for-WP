@@ -3,8 +3,8 @@ Contributors: e-mailit
 Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, bookmark button, bookmarking, bookmarks, buffer, button, del.icio.us, Digg, email, e-mail, email button, email tools, emailit, E-MAILiT, evernote, Facebook, facebook like, facebook share, fark, gmail, google, google +1, google analytics, google bookmarks, google plus, google plus one, google translate, Google+1, hootsuite, image, images, instagram, instapaper, Like, linkedin, links, mister-wong, myspace, page, pages, pin, pinit, pinterest, plugin, plus1, plusone, Post, posts, print, PrintFriendly, Quora, Reddit, responsive, save, seo, Share, share and follow, share button, share buttons, share links, share this, Shareaholic, sharedaddy, sharethis, sharing, sharing buttons, sharing Is caring, sharing is sexy, shortcode, sidebar, sociable, social, social bookmarking, social bookmarks, social marketing, social share, social sharing, social tools, socialize, statistics, stats, stumbleupon, technorati, tumblr, tweet, tweet button, twitter, twitter button, twitter share, wanelo, Website Tools, whatsapp, widget, wpmu, yahoo, yammer, yummly
 
 Requires at least: 2.9
-Tested up to: 4.2
-Stable tag: 7.5.3
+Tested up to: 4.2.1
+Stable tag: 7.5.4
 License: GPLv2 or later 
 
 A highly customizable, super lightweight plugin that enables you to add social sharing to all of your posts and/or pages quick and easy.
@@ -139,6 +139,8 @@ E-MAILiT is an advertising-supported service, which means that we are able to of
 05. Set your own colors for your sharing icons
 
 == Changelog ==
+= 7.5.4 =
+* WordPress 4.2.1 compatibility. [WordPress Critical Security Release](https://wordpress.org/news/2015/04/wordpress-4-2-1)
 = 7.5.3 =
 * WordPress 4.2 compatibility.
 = 7.5.2 =
