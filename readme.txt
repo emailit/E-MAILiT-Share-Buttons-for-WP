@@ -4,8 +4,8 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 
 Requires at least: 2.9
 Tested up to: 4.2.1
-Stable tag: 7.5.4
-License: GPLv2 or later
+Stable tag: 7.5.4.1
+License: GPLv2 or later  
 
 A highly customizable, super lightweight plugin that enables you to add social sharing to all of your posts and/or pages quick and easy.
 
@@ -139,6 +139,8 @@ E-MAILiT is an advertising-supported service, which means that we are able to of
 05. Set your own colors for your sharing icons
 
 == Changelog ==
+= 7.5.4.1 =
+* Remove FriendFeed.
 = 7.5.4 =
 * WordPress 4.2.1 compatibility. [WordPress Critical Security Release](https://wordpress.org/news/2015/04/wordpress-4-2-1)
 = 7.5.3 =
