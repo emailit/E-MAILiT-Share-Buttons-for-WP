@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: E-MAILiT Share Buttons can be deployed on any WordPress powered site to help people share to over 130 social sharing services.  [<a href="options-general.php?page=emailit_widget.php">Settings</a>]
   Author: E-MAILiT
-  Version: 7.5.4.1
+  Version: 7.5.4.2
   Author URI: http://www.e-mailit.com
  */
 
@@ -119,9 +119,11 @@ function add_domain_verification_meta() {
     if (!empty($follow_services)) {
         $configValues[] = "follow_services:{" . implode(",", $follow_services) . "}";
     }
-
     if ($emailit_options['open_on'] != "") {
         $configValues[] = "open_on:'" . $emailit_options["open_on"] . "'";
+    }
+    if ($emailit_options['auto_popup'] && $emailit_options['auto_popup'] != "0") {
+        $configValues[] = "auto_popup:" . $emailit_options["auto_popup"] * 1000;
     }
     $outputValue .= "var e_mailit_config = {" . implode(",", $configValues) . "};";
     $outputValue .= "(function() {	var b=document.createElement('script');	
@@ -193,6 +195,10 @@ function emailit_settings_page() {
                     }).join(',');
 
                     $('#default_services').val(e_mailit_default_servises);
+					if(!$('#emailit_showonhome').is(':checked') && !$('#emailit_showonarchives').is(':checked') 
+					&& !$('#emailit_showoncats').is(':checked') && !$('#emailit_showonpages').is(':checked') && !$('#emailit_showonexcerpts').is(':checked') )
+						alert("You must check a placement in advanced tab or else the button will not be displayed.");
+					
                     return true;
                 }
                 $(function () {
@@ -613,15 +619,15 @@ function emailit_settings_page() {
                     <table width="750px" id="content_options">
                         <tbody>
                             <tr><td width="300px">homepage:</td>
-                                <td><input type="checkbox" name="emailit_options[emailit_showonhome]" value="true" <?php echo ($emailit_options['emailit_showonhome'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                                <td><input id="emailit_showonhome" type="checkbox" name="emailit_options[emailit_showonhome]" value="true" <?php echo ($emailit_options['emailit_showonhome'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                             <tr><td>archives:</td>
-                                <td><input type="checkbox" name="emailit_options[emailit_showonarchives]" value="true" <?php echo ($emailit_options['emailit_showonarchives'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                                <td><input id="emailit_showonarchives" type="checkbox" name="emailit_options[emailit_showonarchives]" value="true" <?php echo ($emailit_options['emailit_showonarchives'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                             <tr><td>categories:</td>
-                                <td><input type="checkbox" name="emailit_options[emailit_showoncats]" value="true" <?php echo ($emailit_options['emailit_showoncats'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                                <td><input id="emailit_showoncats" type="checkbox" name="emailit_options[emailit_showoncats]" value="true" <?php echo ($emailit_options['emailit_showoncats'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                             <tr><td>pages:</td>
-                                <td><input type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options['emailit_showonpages'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
+                                <td><input id="emailit_showonpages" type="checkbox" name="emailit_options[emailit_showonpages]" value="true" <?php echo ($emailit_options['emailit_showonpages'] == true ? 'checked="checked"' : ''); ?>/></td></tr>
                             <tr><td>excerpts:</td>
-                                <td><input type="checkbox" name="emailit_options[emailit_showonexcerpts]" value="true" <?php echo ($emailit_options['emailit_showonexcerpts'] == true ? 'checked="checked"' : ''); ?>/></td></tr>    
+                                <td><input id="emailit_showonexcerpts" type="checkbox" name="emailit_options[emailit_showonexcerpts]" value="true" <?php echo ($emailit_options['emailit_showonexcerpts'] == true ? 'checked="checked"' : ''); ?>/></td></tr>    
                             <tr><td style="padding-bottom:20px">button position on page:</td>
                                 <td style="padding-bottom:20px">
                                     <select name="emailit_options[button_position]">
@@ -641,6 +647,10 @@ function emailit_settings_page() {
                                     <option value="onclick" <?php echo ($emailit_options['open_on'] == 'onclick' ? 'selected="selected"' : ''); ?>>click</option>                                
                                 </select></td>
                         </tr>
+                        <tr><td style="padding-bottom:20px">Auto-show the widget Menu after:</td><td style="padding-bottom:20px">					
+			<input style="width:70px" min="0" max="1000" type="number" name="emailit_options[auto_popup]" value="<?php if ($emailit_options['auto_popup']) echo $emailit_options['auto_popup'];else echo '0';?>"/> sec
+			</td>
+                        </tr>
                         <tr><td style="padding-bottom:20px">Promo display:</td><td style="padding-bottom:20px">					
                                 <select title="Promo display" name="emailit_options[display_ads]">
                                     <option value="yes" <?php echo ($emailit_options['display_ads'] == 'yes' ? 'selected="selected"' : ''); ?>>opened</option>
@@ -652,7 +662,7 @@ function emailit_settings_page() {
                                     <option value="yes" <?php echo ($emailit_options['promo_on_share'] == 'yes' ? 'selected="selected"' : ''); ?>>Turn on ads</option>
                                     <option value="no" <?php echo ($emailit_options['promo_on_share'] == 'no' ? 'selected="selected"' : ''); ?>>Turn off ads</option>                                
                                 </select></td>
-                        </tr>	
+                        </tr>
                     </table>					
                 </div>
                 <p>
