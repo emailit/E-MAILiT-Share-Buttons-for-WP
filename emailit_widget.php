@@ -197,7 +197,7 @@ function emailit_settings_page() {
                     $('#default_services').val(e_mailit_default_servises);
 					if(!$('#emailit_showonhome').is(':checked') && !$('#emailit_showonarchives').is(':checked') 
 					&& !$('#emailit_showoncats').is(':checked') && !$('#emailit_showonpages').is(':checked') && !$('#emailit_showonexcerpts').is(':checked') )
-						alert("You must check a placement in advanced tab or else the button will not be displayed.");
+						alert("Select a placement option to display the button.");
 					
                     return true;
                 }
