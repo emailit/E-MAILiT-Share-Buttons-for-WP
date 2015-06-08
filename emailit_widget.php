@@ -21,7 +21,7 @@
   Plugin URI: http://www.e-mailit.com
   Description: E-MAILiT Share Buttons can be deployed on any WordPress powered site to help people share to over 130 social sharing services.  [<a href="options-general.php?page=emailit_widget.php">Settings</a>]
   Author: E-MAILiT
-  Version: 7.5.4.2
+  Version: 7.5.4.3
   Author URI: http://www.e-mailit.com
  */
 
