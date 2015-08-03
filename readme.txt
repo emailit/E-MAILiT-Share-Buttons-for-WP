@@ -16,7 +16,6 @@ Easily add multiple social networking share features to your WordPress powered s
 = Recent Updates =
 
 * New Following Channels: Add Instagram, YouTube, Vimeo, Foursquare, Tumblr
-* [E-MAILiT will discontinue the account registration system on April 4th, 2015](http://blog.e-mailit.com/2015/02/important-announcement.html)
 * New UI/UX Admin Plugin Settings Panel Interface
 * Customize Services
 * Customize Following Channels
