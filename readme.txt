@@ -19,8 +19,8 @@ Easily add multiple social networking share features to your WordPress powered s
 * New UI/UX Admin Plugin Settings Panel Interface
 * Customize Services
 * Customize Following Channels
-* [Create your Advertising Campaign](http://www.e-mailit.com/features#create-campaign)
 * Turn on/off after share ads
+* [Create your Advertising Campaign](http://www.e-mailit.com/features#create-campaign)
 
 = Sharing and Following Buttons (2 in 1): Grow Your Website and Build Your Community =
 
