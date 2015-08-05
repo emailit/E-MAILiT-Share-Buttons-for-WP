@@ -5,7 +5,7 @@ Tags: +1, add to any, AddThis, addtoany, admin, analytics, bitly, bookmark, book
 Requires at least: 2.9
 Tested up to: 4.2.1
 Stable tag: 7.5.4.4
-License: GPLv2 or later 
+License: GPLv2 or later
 
 A highly customizable, super lightweight plugin that enables you to add social sharing to all of your posts and / or pages quick and easy.
 
@@ -16,9 +16,9 @@ Easily add multiple social networking share features to your WordPress powered s
 = Recent Updates =
 
 * New Following Channels: Add Instagram, YouTube, Vimeo, Foursquare, Tumblr
-* New UI/UX Admin Plugin Settings Panel Interface
-* Customize Services
 * Customize Following Channels
+* Customize Services
+* New UI/UX Admin Plugin Settings Panel Interface
 * Turn on/off after share ads
 * [Create your Advertising Campaign](http://www.e-mailit.com/features#create-campaign)
 
