@@ -34,7 +34,7 @@ Easily add multiple social networking share features to your WordPress powered s
 * Integrated social life-cycle engagement suite. Make easy for your visitors to connect with you, through social profiles, blogs, feeds and other social sources on the internet, saving space from the website canvas
 * Custom Placement. Choose exactly where you want E-MAILiT to appear
 
-<a href="http://www.e-mailit.com/" title="Sharing buttons">Share Buttons</a> demo.
+<a href="http://www.e-mailit.com/" title="Sharing buttons">Share Buttons</a> demo
 
 = Monetizing: Create revenue and keep it all - Begin creating money from your sharing button =
 
